@@ -1,5 +1,5 @@
 {    //type,0表达xml，1表达json，3表达jar内置json
-	"spider": "./lib/pg.jar",
+	"spider": "./pg.jar",
 	"logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 	"sites": [
 	     {
