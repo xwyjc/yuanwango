@@ -1,0 +1,48 @@
+{  //type,0表达xml，1表达json，3表达jar内置json
+	"urls": [
+        {  
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xwyjc/yuanwangokk/main/wyjc.json", 
+            "name": "午夜剧场" 
+        }, 
+        { 
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwyjc/laowang/main/only.json", 
+            "name": "自用老王only-sex" 
+        },
+        { 
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwyjc/yuanwangokk/main/LGme.json", 
+            "name": "自用乐哥LGme" 
+        },
+        { 
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwyjc/yuanwangokk/main/jsm.json ", 
+            "name": "自用jsm-xojav" 
+        },
+	 { 
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwyjc/yuanwangokk/main/s.json", 
+            "name": "自用S AV兄弟" 
+        },
+        { 
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/xwyjc/aliluya/main/papa.json", 
+            "name": "自用papa" 
+        },
+        { 
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwyjc/yuanwangokk/main/18caiji.json", 
+            "name": "自用18采集" 
+        },
+        {  
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tvbox18.json", 
+            "name": "影视园" 
+        }, 
+         {   
+            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jygldj/jygldj/main/se.txt", 
+            "name": "29片库" 
+        },
+        {  
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wertymarry/tvbox/main/cs.json", 
+            "name": "熊大专享" 
+        },
+	{  
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjpwyb/WYB/main/data/test/S5.json",
+            "name": "hjpwyb-WYB" 
+        }
+    ]
+}
