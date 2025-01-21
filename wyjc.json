@@ -1,0 +1,415 @@
+{
+	"spider": "./pg.jar",
+	"sites": [
+		
+	
+		{"key": "🐮牛牛资源","name": "牛牛资源","type": 0,"api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml", "searchable": 1,  "changeable": 1,  "categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂"]},
+		 {
+      "key": "三级",
+      "name": "三级全",
+      "type": 1,
+      "api": "https://api.yikanapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+      },
+		
+			 {
+            "key": "虎牙",
+            "name": "🟣虎牙伦理1",
+            "type": 1,
+            "api": "https://www.huyaapi.com/api.php/provide/vod/?ac=listfrom/hym3u8",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "伦理片"
+            ]
+        },
+        {
+            "key": "非凡资源",
+            "name": "🟣非凡伦理2",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playurl": "https://ffzyplayer.com/?url=",
+            "categories": [
+                "伦理片"
+            ]
+        },
+
+       
+      {
+            "key": "量子",
+            "name": "量子-花海",
+            "type": 0,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "伦理片"
+            ]
+        },
+     
+	{"key": "易看资源","name": "易看资源","type": 1,"api": "https://api.yikanapi.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar"},
+		    {"key": "暴风资源",  "name": "暴风资源",  "type": 1,  "api": "https://bfzyapi.com/api.php/provide/vod/",  "searchable": 1,  "changeable": 1,  "categories": ["理论片" ]},
+		
+	
+		
+		 {"key": "https://huawei8.live/",  "name": "华为吧",  "type": 0,  "api": "https://cjhwba.com/api.php/provide/vod/at/xml/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": ["伦理片"]},
+		 
+		{"key": "https://kuaichezy.com/",  "name": "快车",  "type": 1,  "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂"]},
+		 {"key": "https://okzyw9.com/",  "name": "OK资源站",  "type": 1,  "api": "https://okzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂"]},
+		 {"key": "https://wolongzyw.com/",  "name": "卧龙资源",  "type": 0,  "api": "https://collect.wolongzy.cc/api.php/provide/vod/at/xml/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": ["伦理片"]},
+		   {"key": "https://huyazy.com/",  "name": "虎牙资源",  "type": 1,  "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",  "searchable": 1,  "changeable": 1,  "categories": ["伦理片"]},
+		 
+		{"key": "速播",  "name": "成人频道[速播]",  "type": 1,  "api": "https://subocaiji.com/api.php/provide/vod/from/subyun/at/json",  "searchable": 1,  "changeable": 1,  "categories": [    "伦理片"  ]},
+    {"key": "ikun",  "name": "成人频道[ikun]",  "type": 1,  "api": "https://ikunzyapi.com/api.php/provide/vod",  "searchable": 1,  "changeable": 1,  "categories": [    "伦理片"  ]},
+    {"key": "光速",  "name": "成人频道[光速]",  "type": 1,  "api": "https://api.guangsuapi.com/api.php/provide/vod",  "searchable": 1,  "changeable": 1,  "categories": [    "伦理片"  ]},
+    
+		
+		 {"key": "https://suonizy.com/",  "name": "索尼资源",  "type": 0,  "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",  "searchable": 1,  "changeable": 1,  "categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂"]},
+		 {"key": "https://www.jisuzy.com/",  "name": "极速资源",  "type": 1,  "api": "https://jszyapi.com/api.php/provide/vod/from/jsyun/at/json",  "searchable": 1,  "changeable": 1,  "categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂"]},
+		   {"key": "https://haohuazy.com/",  "name": "豪华资源",  "type": 1,  "api": "https://hhzyapi.com/api.php/provide/vod/at/json",  "searchable": 1,  "changeable": 1,  "categories": ["伦理片"]},
+		 {"key": "https://guangsuzy.com/",  "name": "光速资源",  "type": 1,  "api": "https://api.guangsuapi.com/api.php/provide/vod/josn",  "searchable": 1,  "changeable": 1,  "categories": ["伦理片"]},
+		
+		{"key": "https://www.wujinzy.net/",  "name": "无尽资源",  "type": 0,  "api": "https://wjzyapi.com/api.php/provide/vod/from/wjm3u8/at/xml",  "searchable": 1,  "changeable": 1,  "categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂"]},
+		 
+		 {"key": "YY",  "name": "最大资源",  "type": 1,  "api": "https://api.zuidapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂"]},
+		 {"key": "https://www.ryzyw.com/help/",  "name": "如意资源网",  "type": 0,  "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",  "searchable": 1,  "changeable": 1,  "categories": ["伦理片"]},
+		 
+		  {"key": "https://www.hongniuzy.com/index.php/help",  "name": "红牛资源网",  "type": 0,  "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",  "searchable": 1,  "changeable": 1,  "categories": ["伦理片"]},
+		 
+		 {"key": "https://jinyingzy.com/index.php/help",  "name": "金鹰资源网",  "type": 1,  "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",  "searchable": 1,  "changeable": 1,  "categories": ["伦理片"]},
+		
+		{"key": "360",  "name": "360资源",  "type": 1,  "api": "https://360zy.com/api.php/provide/vod/at/json",  "searchable": 1,  "changeable": 1,  "categories": ["伦理片"]},
+		  {"key": "YY",  "name": "丫丫资源",  "type": 1,  "api": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂"]},
+		{"key": "https://shandianzy.com/",  "name": "闪电资源",  "type": 0,  "api": "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml",  "searchable": 1,  "changeable": 1,  "categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂"]},
+		 {"key": "https://1080zyk6.com/",  "name": "1080zyk优质",  "type": 1,  "api": "https://api.yzzy-api.com/inc/apijson.php?ac=list",  "searchable": 1,  "changeable": 1,  "categories": ["倫理片"]},
+		
+		
+	
+		
+		
+		{
+			"key": "Aries不承担任何风险-咕咚电影网",
+			"name": "🤽🏻咕咚┃电影",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./lib/xyqxbpq.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"编码": "UTF-8",
+				"主页url": "https://www.zgbdzs.com/",
+				"数组": "class=\"hl-item-thumb hl-lazy\"&&</a>",
+				"标题": "title=\"&&\"",
+				"图片": "data-original=\"&&\"",
+				"副标题": "\">&&</span>",
+				"播放数组": "class=\"hl-plays-list hl-sort-list&&</ul>",
+				"播放列表": "<a&&a>",
+				"播放链接": "href=\"&&\"",
+				"播放标题": ">&&</",
+				"链接": "href=\"&&\"",
+				"线路数组": "class=\"hl-tabs-btn hl-slide-swiper&&a>",
+				"线路标题": "alt=\"&&\"",
+				"跳转播放链接": "var player_*\"url\":\"&&\"",
+				"分类url": "https://www.zgbdzs.com/vodshow/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html",
+				"分类": "夜间福利$21",
+				"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#港台剧$14#日韩剧$15#欧美剧$16||空||空||空||空||空"
+			}
+		},
+	
+		
+		{
+			"key": "Aries不承担任何风险-琥珀影院",
+			"name": "🦋琥珀┃影院-午夜剧场",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./lib/xyqxbpq.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"编码": "UTF-8",
+				"主页url": "https://www.csjrjypx.com/",
+				"数组": "lazyload\"&&</a>",
+				"标题": "title=\"&&\"",
+				"图片": "data-original=\"&&\"",
+				"副标题": "right\">&&<",
+				"链接": "href=\"&&\"",
+				"简介": "简介：&&</p>",
+				"线路数组": "playlist&&</li>",
+				"线路标题": ">&&</a[排序:华为云]",
+				"播放数组": "playlist clearfix&&</ul>",
+				"倒序": "0",
+				"播放列表": "<a&&a>",
+				"播放标题": ">&&</",
+				"播放链接": "href=\"&&\"",
+				"跳转播放链接": "var player_*\"url\":\"&&\"",
+				"分类url": "https://www.csjrjypx.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+				"分类": "午夜剧场$33",
+				"类型": "空"
+			}
+		},
+		
+		
+	
+	
+
+		
+	
+		
+	
+		{
+			"key": "Aries不承担任何风险-万博剧院",
+			"name": "🖼︎万博┃剧院",
+			"type": 3,
+			"jar": "./lib/xyqxbpq.jar",
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"编码": "UTF-8",
+				"主页url": "https://www.ths864.com/",
+				"二次截取": "module-items\"&&id=\"page[替换:module-footer>>module-item]",
+				"数组": "module-item-pic&&module-item\"",
+				"标题": "title=\"在线播放&&\"",
+				"图片": "data-original=\"&&\"",
+				"副标题": "item-text\">&&</div>",
+				"链接": "href=\"&&\"",
+				"播放数组": "class=\"scroll-content\">&&</div>",
+				"播放列表": "<a&&a>",
+				"播放链接": "href=\"&&\"",
+				"播放标题": "<span>&&</span>",
+				"线路数组": "class=\"module-tab-item tab-item&&</div>",
+				"线路标题": "<span>&&</span>",
+				"跳转播放链接": "urlDecode(Base64(var player_*url\":\"&&\"))",
+				"分类url": "https://www.ths864.com/wbs/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+				"分类": "理论片$Sex"
+			}
+		},
+		
+	
+	
+	
+	
+	
+	
+		{
+			"key": "Aries不承担任何风险-皮皮影院",
+			"name": "⛹️‍♀️皮皮┃影院",
+			"type": 3,
+			"jar": "./lib/xyqxbpq.jar",
+			"api": "csp_XBPQ",
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"编码": "UTF-8",
+				"主页url": "https://www.xzweiheng.com/",
+				"跳转播放链接": "var player_*\"url\":\"&&\"",
+				"分类url": "https://www.xzweiheng.com/vodshow/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html",
+				"分类": "午夜剧场$33",
+				"类型": "午夜剧场$33"
+			}
+		},
+	
+	
+		
+	
+	
+		{
+			"key": "布卡影院",
+			"name": "⛟布卡┃影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./lib/xyqxbpq.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"分类url": "https://www.bk-yy.com//vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+				"数组": "pic\">&&</li>",
+				"标题": "title=\"&&\"",
+				"图片": "data-original=\"&&\"",
+				"副标题": "text-overflow\">&&</p >",
+				"链接": "href=\"&&\"",
+				"简介": "简介：&&</p >",
+				"线路数组": "slide ewave-tab active&&/em>",
+				"线路标题": ">&&<",
+				"播放数组": "ewave-tab-content&&</ul>",
+				"倒序": "0",
+				"播放列表": "<a&&</li>",
+				"播放标题": ">&&</a >",
+				"播放链接": "href=\"&&\"",
+				"跳转播放链接": "var player_*\"url\":\"&&\"",
+				"分类": "伦理$lunlipian",
+				"类型": "空"
+			}
+		},
+			{
+			"key": "✨八古逍遥✨",
+			"name": "✨八古逍遥✨",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./lib/xyqxbpq.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"编码": "UTF-8",
+				"图片代理": "0",
+				"主页url": "https://bagu.cc/pianku/lunli-----------.html",
+				"首页": "120",
+				"起始页": "1",
+				"分类url": "https://bagu.cc/pianku/lunli-{cateId}-------{catePg}---.html;;mrcd0",
+				"分类": "中国大陆&中国香港&中国台湾&美国&韩国&日本&泰国&新加坡&马来西亚&印度&英国&法国&加拿大&西班牙&德国&俄罗斯&意大利&菲律宾&其它",
+				"分类值": "*",
+				"二次截取": "hl-vod-list clearfix\">&&text-center cleafix",
+				"数组": "hl-lazy\"&&</li>",
+				"标题": "title=\"&&\"",
+				"图片": "data-original=\"&&\"",
+				"副标题": "remarks\">&&</span>",
+				"链接": "href=\"&&\"",
+				"影片年代": "年份：&&</li>",
+				"影片地区": "地区：&&</li>",
+				"影片类型": "类型：&&</li>",
+				"状态": "状态：&&</li>",
+				"导演": "导演：&&</li>",
+				"主演": "主演：&&</li>",
+				"简介": "✨+简介：&&</li>",
+				"线路二次截取": "hl-from-buttons\">&&</div>",
+				"线路数组": "hl-icon-laiyuan\">&&</a >",
+				"线路标题": "✨+>&&</span>",
+				"播放二次截取": "",
+				"播放数组": "id=\"hl-plays-list\">&&</ul>",
+				"播放列表": "<li&&/li>",
+				"播放标题": ">&&</a >",
+				"播放链接": "href=\"&&\"",
+				"嗅探词": ".mp4#.m3u8",
+				"跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
+				"跳转解析": "",
+				"搜索请求头": "User-Agent$MOBILE_UA",
+				"搜索url": "https://bagu.cc/Search/{wd}----------{pg}---.html",
+				"搜索模式": "1",
+				"搜索数组": "hl-lazy\"&&</li>",
+				"搜索标题": "title=\"&&\"",
+				"搜索图片": "data-original=\"&&\"",
+				"搜索副标题": "remarks\">&&</span>",
+				"搜索链接": "href=\"&&\""
+			}
+		},
+	
+	
+		
+		  	{
+			"key": "哈哈✌大伦理",
+			"name": "哈哈✌大伦理",
+			"type": 3,
+			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/lib/xyqxbpq.jar",
+			"api": "csp_XBPQ",
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"分类url": "https://www.hahads.com/show/{cateId}--------{catePg}---.html",
+				"分类": "伦理👙$20"
+			}
+		},
+		{
+			"key": "👙哈哈影视-分伦理",
+			"name": "👙哈哈影视--分伦理",
+			"type": 3,
+			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/lib/xyqxbpq.jar",
+			"api": "csp_XBPQ",
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"编码": "UTF-8",
+				"主页url": "https://www.hahads.com/show/20-----------.html",
+				"跳转播放链接": "var player_*\"url\":\"&&\"",
+				"分类url": "https://www.hahads.com/show/20-{cateId}-------{catePg}---.html",
+				"分类": "大陆&香港&台湾&美国&法国&英国&日本&韩国&泰国&印度&西班牙&加拿大&俄罗斯&新加坡&其它",
+				"分类值": "*"
+			}
+		},
+		
+		 {"key": "360资源",  "name": "360福利-伦理",  "type": 1,  "api": "https://360zy.com/api.php/provide/vod",  "searchable": 1,  "changeable": 1,  "categories": [ "伦理片"]},
+	
+	
+		
+	{"key": "91電影網","name": "🍖｜九一電影網｜獨創-伦理","type": 3,"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/PG.jar","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/xyqxbpq.jar","api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {    "请求头": "User-Agent$MOBILE_UA",    "编码": "gb2312",    "主页url": "http://m.aogetu.com/",    "播放数组": "plau-ul-list&&</ul>",    "播放列表": "<a&&a>",    "播放链接": "href='&&'",    "播放标题": "_blank\">&&<",    "嗅探词": "index.m3u8?",    "分类url": "http://m.aogetu.com/wuyejuchang/{cateId}/index{catePg}.html[http://m.aogetu.com/wuyejuchang/{cateId}/]",    "分类": "倫理$lunli#寫真$xiezhen#主播$zhubo"}    }
+		
+	],
+	"lives": [
+		{
+			"name": "电视直播",
+			"type": 0,
+			"url": "https://tv.iill.top/m3u/Gather",
+			"ua": "okhttp/3.15",
+			"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		}
+	],
+	"doh": [
+		{
+			"name": "Google",
+			"url": "https://dns.google/dns-query",
+			"ips": [
+				"8.8.4.4",
+				"8.8.8.8"
+			]
+		},
+		{
+			"name": "Cloudflare",
+			"url": "https://cloudflare-dns.com/dns-query",
+			"ips": [
+				"1.1.1.1",
+				"1.0.0.1",
+				"2606:4700:4700::1111",
+				"2606:4700:4700::1001"
+			]
+		},
+		{
+			"name": "AdGuard",
+			"url": "https://dns.adguard.com/dns-query",
+			"ips": [
+				"94.140.14.140",
+				"94.140.14.141"
+			]
+		},
+		{
+			"name": "DNSWatch",
+			"url": "https://resolver2.dns.watch/dns-query",
+			"ips": [
+				"84.200.69.80",
+				"84.200.70.40"
+			]
+		},
+		{
+			"name": "Quad9",
+			"url": "https://dns.quad9.net/dns-quer",
+			"ips": [
+				"9.9.9.9",
+				"149.112.112.112"
+			]
+		}
+	],
+	"parses": [],
+	"flags": [
+		"youku",
+		"qq",
+		"iqiyi",
+		"qiyi",
+		"letv",
+		"sohu",
+		"tudou",
+		"pptv",
+		"mgtv",
+		"wasu"
+	],
+	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+	"disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img"
+}
