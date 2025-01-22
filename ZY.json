@@ -1,23 +1,23 @@
 {  //type,0表达xml，1表达json，3表达jar内置json
 	"urls": [
         {  
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xwyjc/yuanwango/main/wyjc.json", 
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/wyjc.json", 
             "name": "午夜剧场" 
         }, 
         { 
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xwyjc/lwang/main/only.json", 
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/only.json", 
             "name": "自用老王only" 
         },
         { 
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xwyjc/yuanwango/main/LGme.json", 
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/LGme.json", 
             "name": "自用乐哥LGme" 
         },
         { 
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xwyjc/yuanwango/main/jsm.json ", 
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/jsm.json ", 
             "name": "自用jsm-xojav" 
         },
 	 { 
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xwyjc/yuanwango/main/s.json", 
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/s.json", 
             "name": "自用S AV兄弟" 
         },
         { 
@@ -25,11 +25,11 @@
             "name": "自用papa" 
         },
         { 
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xwyjc/yuanwango/main/18caiji.json", 
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/18caiji.json", 
             "name": "自用18采集" 
         },
         {  
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tvbox18.json", 
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tvbox18.json", 
             "name": "影视园" 
         }, 
          {   
@@ -37,11 +37,11 @@
             "name": "29片库" 
         },
         {  
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wertymarry/tvbox/main/cs.json", 
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/wertymarry/tvbox/main/cs.json", 
             "name": "熊大专享" 
         },
 	{  
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjpwyb/WYB/main/data/test/S5.json",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/hjpwyb/WYB/main/data/test/S5.json",
             "name": "hjpwyb-WYB" 
         }
     ]
