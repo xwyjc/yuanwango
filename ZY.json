@@ -1,6 +1,11 @@
 {  //type,0表达xml，1表达json，3表达jar内置json
 	"urls": [
-        {  
+          {  
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/xwyjc/aliluya/main/cs.json", 
+            "name": "自用熊大cs香蕉" 
+        },
+		
+      {  
             "url": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/wyjc.json", 
             "name": "午夜剧场" 
         }, 
@@ -36,10 +41,7 @@
             "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jygldj/jygldj/main/se.txt", 
             "name": "29片库" 
         },
-        {  
-            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/xwyjc/aliluya/main/cs.json", 
-            "name": "自用熊大专享cs" 
-        },
+      
 	{  
             "url": "https://ghfast.top/https://raw.githubusercontent.com/hjpwyb/WYB/main/data/test/S5.json",
             "name": "hjpwyb-WYB" 
