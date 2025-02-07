@@ -86,13 +86,14 @@
 	{"key":"奥斯卡资源(采集)🔞","name":"🔞奥斯卡资源(采集有问题)💯","type":0,"api":"https://askzy.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.33}},
 	{"key":"花都影视(采集)🔞","name":"🔞花都影视(采集)💯","type":1,"api":"https://vip.hdys1.com/api.php/provide/vod/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
 	 
-	{"key":"极品","name":"18+极品","type":1,"api":"https://jipinzyapi.com/api.php/provide/vod/",  "playUrl":"","searchable":1,"quickSearch":0,"categories": ["强奸乱伦","清纯学生","传媒合集","自拍偷拍","制服丝袜", "主播大秀","国产精选","AV解说","少妇人妻","角色扮演","明星爆料","网曝门事件","91探花", "精品短视频","网曝门事件","日本无码", "日本有码","动漫精品","三级伦理"]},
+	//{"key":"极品","name":"18+极品","type":1,"api":"https://jipinzyapi.com/api.php/provide/vod/",  "playUrl":"","searchable":1,"quickSearch":0,"categories": ["强奸乱伦","清纯学生","传媒合集","自拍偷拍","制服丝袜", "主播大秀","国产精选","AV解说","少妇人妻","角色扮演","明星爆料","网曝门事件","91探花", "精品短视频","网曝门事件","日本无码", "日本有码","动漫精品","三级伦理"]},
     {"key":"蕃茄","name":"18+蕃茄","type":1,"api":"https://fqzy.me//api.php/provide/vod/",  "playUrl":"","searchable":1,"quickSearch":0,"categories": ["偷拍自拍","乱伦毁三观","淫乱学生","女主播网红","欧美精品", "黑料网曝","动漫精选","中文字幕","高清无码","高清有码"]},
 	{"key":"桃花","name":"18+桃花","type":1,"api":"https://thzy1.me/api.php/provide/vod/",  "searchable": 1, "quickSearch": 1, "filterable": 1 },
 	{"key": "百万", "name": "18+百万资源", "type": 0, "api": "https://api.bwzym3u8.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 	{"key":"gay资源","name":"18+gay资源","type":1,"api":"https://gayapi.com/api.php/provide/vod/",  "searchable": 1, "quickSearch": 1, "filterable": 1 },
 	
-
+{"key":"极品资源","name":"18+极品资源","type":1,"api":"https://jipinzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1, "quickSearch": 1, "filterable": 1 },
+	
        
      
      
