@@ -1,4 +1,6 @@
 {    //type,0表达xml，1表达json，3表达jar内置json
+	//  https://ghfast.top/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/pg/jsm.json
+
 	"spider": "./pg.jar",
 	"logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 	"sites": [
