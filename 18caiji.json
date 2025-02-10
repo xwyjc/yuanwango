@@ -410,7 +410,7 @@
 	 {"key": "富二代","name": "🔞富二代资源","type": 0,"api": "http://f2dcj6.com/sapi?ac=list&pg=1","filterable": 0},
    
 	{
-      "key": "jingpinx.com",jingpin
+      "key": "jingpinx.com",
       "name": "🔞采集.精品",
       "type": 1,
       "api": "https://www.jingpinx.com//api.php/provide/vod/?ac=list",
