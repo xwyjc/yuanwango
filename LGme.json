@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar",
+  "spider": "./lib/pg.jar",
   //type,0表达xml，1表达json，3表达jar内置json
     "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
   "sites": [
@@ -76,7 +76,7 @@
 
     {
         "key": "AV影院",
-        "name": "AV影院",
+        "name": "AV影院A",
         "type": 3,
         "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
 
@@ -93,6 +93,52 @@
             "分类url": "https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html"
         }
     },
+	
+	 {
+      "key": " AV影院",
+      "name": " AV影院B",
+      "type": 3,
+      "jar": "./lib/XBPQ.jar",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "语言": "中文",
+        "请求头": "手机",
+        "图片": "data-src=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "主页url": "https://wyaslcwgroup.cfd/",
+        "分类": "国产视频$1#主播$2#黑料$3#中文$6#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本有码$8#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16",
+        "分类url": "https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+      }
+    },
+	
+	
+	
+	{
+      "key": "av影视",
+      "name": "av影视C",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      },
+      "ext": {
+        "图片": "data-src=\"&&\"",
+        "直接播放": "1",
+        "分类url": "https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "分类": "国产视频$1#主播$2#黑料$3#中文$6#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本有码$8#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16"
+      }
+    },
+
+	
+	
+	
+	
     {
         "key": "av01",
         "name": "💗┃💋AV01┃💠",
@@ -459,11 +505,11 @@
       "name": "♥️300分类♥️",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./jar/Aoki.jar",
+      "jar": "./Aoki.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/300分类.json"
+      "ext": "./300分类.json"
     },
 
     {
@@ -474,7 +520,7 @@
       "api": "csp_Supjav",
       "searchable": 1,
       "ext": "null$$$proxy",
-      "jar": "./jar/custom_spider-fm.jar"
+      "jar": "./custom_spider-fm.jar"
     },
 
    {
@@ -619,7 +665,7 @@
     },
 
     {
-      "key": "MissAV.com",
+      "key": "MissAV.ai",
       "name": "MissAV",
       "type": 3,
       "api": "csp_XBPQ",
@@ -634,9 +680,10 @@
         "副标题": "<span class=\"absolute*>&&</span",
         "简介": "keywords\" content=\"&&\"",
         "链接": "href=\"&&\"",
-        "搜索url": "https://missav.ws/search/{wd}",
-        "分类url": "https://missav.ws/{cateId}?page={catePg}",
-        "分类": "中文字幕$dm265/chinese-subtitle#最近更新$dm514/new#新作上市$dm549/release#无码流出$dm620/uncensored-leak#今日热门$dm291/today-hot#本週热门$dm169/weekly-hot#本月热门$dm256/monthly-hot#SIRO$dm23/siro#LUXU$dm20/luxu#GANA$dm17/gana#PRESTIGE PREMIUM$dm436/maan#S-CUTE$dm23/scute#ARA$dm19/ara#无码流出$dm620/uncensored-leak#FC2$dm95/fc2#HEYZO$dm631/heyzo#东京热$dm29/tokyohot#一本道$dm370178/1pondo#Caribbeancom$dm532508/caribbeancom#Caribbeancompr$dm7530/caribbeancompr#10musume$dm558727/10musume#pacopacomama$dm989/pacopacomama#Gachinco$dm135/gachinco#XXX-AV$dm29/xxxav#人妻斩$dm24/marriedslash#顽皮 4610$dm19/naughty4610#顽皮 0930$dm22/naughty0930#麻豆传媒$dm34/madou#TWAV$dm17/twav#Furuke$dm15/furuke",
+        "搜索url": "https://missav.ai/search/{wd}",
+        "分类url": " https://missav.ai/{cateId}?filters={by}&sort={letter}&page={catePg}",
+		//"分类url": "https://missav.ai/{cateId}?sort={by}_at&page={catePg}",
+        "分类": "中文字幕$dm265/chinese-subtitle#最近更新$dm514/new#新作上市$dm588/release#无码流出$dm620/uncensored-leak#今日热门$dm291/today-hot#本週热门$dm169/weekly-hot#本月热门$dm256/monthly-hot#SIRO$dm23/siro#LUXU$dm20/luxu#GANA$dm17/gana#PRESTIGE PREMIUM$dm436/maan#S-CUTE$dm23/scute#ARA$dm19/ara#无码流出$dm620/uncensored-leak#FC2$dm95/fc2#HEYZO$dm631/heyzo#东京热$dm29/tokyohot#一本道$dm370178/1pondo#Caribbeancom$dm532508/caribbeancom#Caribbeancompr$dm7530/caribbeancompr#10musume$dm558727/10musume#pacopacomama$dm989/pacopacomama#Gachinco$dm135/gachinco#XXX-AV$dm29/xxxav#人妻斩$dm24/marriedslash#顽皮 4610$dm19/naughty4610#顽皮 0930$dm22/naughty0930#麻豆传媒$dm34/madou#TWAV$dm17/twav#Furuke$dm15/furuke",
         "页面代理": "proxy"
       }
     },
@@ -710,26 +757,7 @@
 
   
 
-    {
-      "key": " AV影院",
-      "name": " AV影院",
-      "type": 3,
-      "jar": "./lib/XBPQ.jar",
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "语言": "中文",
-        "请求头": "手机",
-        "图片": "data-src=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "主页url": "https://wyaslcwgroup.cfd/",
-        "分类": "国产视频$1#主播$2#黑料$3#中文$6#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本有码$8#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16",
-        "分类url": "https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html"
-      }
-    },
+   
 
    
     {
@@ -1043,44 +1071,7 @@
 		"分类url": "https://av.gl/avtype/{cateId}-{catePg}.html"
       }
     },
-
-
-
-    {
-      "key": "av影视",
-      "name": "av影视|XBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
-      },
-      "ext": {
-        "图片": "data-src=\"&&\"",
-        "直接播放": "1",
-        "分类url": "https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类": "国产视频$1#主播$2#黑料$3#中文$6#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本有码$8#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16"
-      }
-    },
-
    
-
-    {
-      "key": "csp_xBPQ_GAOAA",
-      "name": "GAOAA",
-      "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/Yoursmile2.jar",
-      "ext": "./js/GAOAA.json"
-    },
 
 
     {
@@ -1129,7 +1120,7 @@
     
 
     {
-      "key": "Xojav",
+      "key": "Xojav11",
       "name": "🔞XOJav（翻）",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "type": 3,
@@ -1216,13 +1207,34 @@
         "图片": "data-original=\"&&\"",
         "标题": "title=\"&&\"",
         "链接": "href=\"&&\"",
-        "分类url": "https://18j.tv/show/{cateId}/nid/1/page/{catePg}/sid/1/",
+        "分类url": "https://18j.tv/show/{cateId}/by/{by}/nid/1/page/{catePg}/sid/1/",
+		//"分类url": "https://18j.tv/show/{cateId}/nid/1/page/{catePg}/sid/1/",
         "分类": "国产$1#日韩$2#欧美$3#伦理$4#动漫$16"
       }
     },
   
   
 
+        {
+      "key": "18jg.life",
+      "name": "🔞18jg.life",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "ext": {
+        "主页url": "https://18jg.life",
+        "直接播放": "1",
+        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "分类url": "https://18jg.life/show/{cateId}/by/{by}/nid/1/page/{catePg}/sid/1/",
+		//"分类url": "https://18j.tv/show/{cateId}/nid/1/page/{catePg}/sid/1/",
+        "分类": "国产$1#日韩$2#欧美$3#伦理$4#动漫$16"
+      }
+    },
+  
+  
 
   
     {
