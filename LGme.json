@@ -232,24 +232,7 @@
         "ratio": 1.485
       }
     },
-    {
-      "key": "sb",
-      "name": "sexbj|XBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
-      },
-      "ext": {
-        "数组": "<article&&</article>",
-        "直接播放": "1",
-        "图片": "data-src=\"&&\"",
-        "分类url": "https://sexbjcam.com/category/{cateId}/page/{catePg}/?filter=latest",
-        "分类": "chinese-gril$chinese-gril#korean-bj$korean-bj#chaturbate$chaturbate"
-      }
-    },
+   
     {
       "key": "肉视频",
       "name": "🔞肉視頻|XBPQ",
@@ -257,7 +240,7 @@
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
       "ext": {
-        "分类url": "https://rouvz2.xyz/t/{cateId}?order=createdAt&page={catePg}",
+        "分类url": "https://rouvz2.xyz/t/{cateId}?order={by}&page={catePg}",
         "直接播放": "1",
         "分类": "國產AV$國產AV#探花$探花#自拍流出$自拍流出#日本$日本"
       }
@@ -505,38 +488,14 @@
       "name": "♥️300分类♥️",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./Aoki.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./300分类.json"
     },
 
-    {
-      "key": "Supjav2",
-      "name": "🏆Supjav2",
-      "type": 3,
-      "viewType": 1,
-      "api": "csp_Supjav",
-      "searchable": 1,
-      "ext": "null$$$proxy",
-      "jar": "./custom_spider-fm.jar"
-    },
-
-   {
-      "key": "Supjav①",
-      "name": "🔞Supjav①",
-      "type": 3,
-      "api": "csp_Supjav",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-
+   
 
 
   
@@ -623,22 +582,7 @@
       }
     },
   
-    {
-      "key": "高清无水印",
-      "name": "bi888高清无水印",
-      "type": 3,
-      "jar": "./lib/XBPQ.jar",
-      "api": "csp_XBPQ",
-      "style": { "type": "rect", "ratio": 1.485 },
-      "ext": {
-        "直接播放": "1",
-        "图片": "img src=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类url": "https://v3.bi888.link/vodtype/{cateId}-{catePg}.html",
-        "分类": "精品推荐$20#国产精品$21#日韩精品$22#欧美精品$23#中文字幕$24#日韩无码$25日韩有码$26#网红主播$27#卡通动漫$28#探花$29#sm$30#自拍偷拍$31#强奸乱轮$32#口交$33#自慰$34#教师学生$35#3p$36#巨乳$37#颜射$38#制服诱惑$39#萝莉少女$40#人兽$41#人妻熟女$42#女同$43#稀缺$45#三级伦理$44#空姐$48#国产盗摄$40#人妖$50"
-      }
-    },
+ 
 
     {
       "key": "SOAV",
@@ -660,7 +604,7 @@
         "链接": "href=\"&&\"",
         "简介": "⚠️少看点，再看你就废了！！！",
         "分类url": "https://777170.xyz/{cateId}/page/{catePg}/?filter={by};;z",
-        "分类": "中文字幕$中文字幕#探花約炮$探花約炮#國產精選$國產精選#日韩视频"
+        "分类": "中文字幕$中文字幕#探花約炮$探花約炮#國產精選$國產精選#日韩视频$日韩视频"
       }
     },
 
@@ -681,8 +625,8 @@
         "简介": "keywords\" content=\"&&\"",
         "链接": "href=\"&&\"",
         "搜索url": "https://missav.ai/search/{wd}",
-        "分类url": " https://missav.ai/{cateId}?sort={by}&page={catePg}",
-		//"分类url": "https://missav.ai/{cateId}?sort={by}_at&page={catePg}",
+       
+		"分类url": "https://missav.ai/{cateId}?sort={by}_at&filters={letter}&page={catePg}",
         "分类": "中文字幕$dm265/chinese-subtitle#最近更新$dm514/new#新作上市$dm588/release#无码流出$dm620/uncensored-leak#今日热门$dm291/today-hot#本週热门$dm169/weekly-hot#本月热门$dm256/monthly-hot#SIRO$dm23/siro#LUXU$dm20/luxu#GANA$dm17/gana#PRESTIGE PREMIUM$dm436/maan#S-CUTE$dm23/scute#ARA$dm19/ara#无码流出$dm620/uncensored-leak#FC2$dm95/fc2#HEYZO$dm631/heyzo#东京热$dm29/tokyohot#一本道$dm370178/1pondo#Caribbeancom$dm532508/caribbeancom#Caribbeancompr$dm7530/caribbeancompr#10musume$dm558727/10musume#pacopacomama$dm989/pacopacomama#Gachinco$dm135/gachinco#XXX-AV$dm29/xxxav#人妻斩$dm24/marriedslash#顽皮 4610$dm19/naughty4610#顽皮 0930$dm22/naughty0930#麻豆传媒$dm34/madou#TWAV$dm17/twav#Furuke$dm15/furuke",
         "页面代理": "proxy"
       }
@@ -704,28 +648,7 @@
       }
     },
 
-    {
-      "key": "Bi8TV",
-      "name": "Bi8TV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      },
-      "ext": {
-        "主页url": "https://v3.bi888.link/",
-        "直接播放": "1",
-        "图片": "img src=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "链接": "href=\"&&\"",
-
-        "分类url": "https://v3.bi888.link/vodtype/{cateId}-{catePg}.html",
-        "分类": "精品推荐$20#国产精品$21#日韩精品$22#欧美精品$23#中文字幕$24#日韩无码$25#日韩有码$26#网红主播$27#卡通动漫$28#探花系列$29#SM重味$30#自拍偷拍$31#强奸乱伦$32#口交视频$33#自慰系列$34#教师学生$35#3P合辑$36#巨乳系列$37#颜射系列$38#制服诱惑$39#萝莉少女$40#人兽之恋$41#人妻熟女$42#女同性恋$43#稀缺资源$45#三级伦理$44#空姐模特$48#国产盗摄$49#人妖系列$50#虚拟VR$51"
-      }
-    },
-
+    
     {
       "key": "农夫与少妇",
       "name": "农夫与少妇",
@@ -1028,6 +951,29 @@
         "分类url": "https://javbar.com/category/{cateId}-{catePg}.html"
       }
     },
+	
+	 {
+      "key": "JAVBAR",
+      "name": "🔞JAVBAR",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "ext": {
+        "主页url": "https://javbar.com/",
+        "直接播放": "1",
+        "数组": "tray-item\"&&</a>",
+        "图片": "data-src=\"&&\"",
+        "标题": "class=\"video-title\"&&</span>",
+        "副标题": "class=\"video-subtitle\">&&</span>",
+        "简介": "class=\"video-description\"&&</span>",
+        "链接": "href=\"&&\"",
+        "分类url": "https://javbar.com/category/{cateId}/page/{catePg}/",
+        "分类": "人気$1#モザあり$2#無修正エロ$3#ENGSUB$4#VR$5"
+      }
+    },
+   
+	
+	
    
     {
       "key": "韩文网站",
@@ -1097,7 +1043,7 @@
 
     {
       "key": "SMTV",
-      "name": "色迷TV",
+      "name": "好色TV",
       "type": 3,
       "changeable": 1,
       "searchable": 1,
@@ -1134,19 +1080,7 @@
     },
    
 
-   
-    {
-      "key": "Xojav",
-      "name": "🔞XOJav🚀",
-      "type": 3,
-      "api": "csp_Xojav",
-      "searchable": 0,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "proxy"
-    },
+  
 
     {
       "key": "色最色",
@@ -1178,7 +1112,7 @@
     },
     {
       "key": "222cuo",
-      "name": "🔞222cuo",
+      "name": "🔞224cuo",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1189,7 +1123,8 @@
         "图片": "data-original=\"&&\"",
         "标题": "title=\"&&\"",
         "链接": "href=\"&&\"",
-        "分类url": "http://224cuo.com/{cateId}/list_{catePg}.html;;RC",
+        "分类url": "http://224cuo.com/{cateId}/list_{catePg}.html",
+		//"分类url": "http://224cuo.com/{cateId}/list_{catePg}.html;;RC",
         "分类": "亚洲AV$yazhouav#自拍偷拍$zipaitoupai#欧美AV$oumeiav#3D动画$3ddonghua#熟女人妻$shunvrenqi#丝袜制服$siwazhifu#主播直播$zhubozhibo#SM另类$smlinglei#亚洲性爱$yazhouxingai#偷拍自拍$toupaizipai#成人卡通$chengrenkatong#欧美性爱$oumeixingai#制服丝袜$zhifusiwa#经典三级$sanjijingdian#乱伦熟女$luanlunshunv#另类变态$lingleibiantai"
       }
     },
@@ -1213,27 +1148,7 @@
       }
     },
   
-  
 
-        {
-      "key": "18jg.life",
-      "name": "🔞18jg.life",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "ext": {
-        "主页url": "https://18jg.life",
-        "直接播放": "1",
-        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类url": "https://18jg.life/show/{cateId}/by/{by}/nid/1/page/{catePg}/sid/1/",
-		//"分类url": "https://18j.tv/show/{cateId}/nid/1/page/{catePg}/sid/1/",
-        "分类": "国产$1#日韩$2#欧美$3#伦理$4#动漫$16"
-      }
-    },
-  
   
 
   
@@ -1312,25 +1227,6 @@
   
     
 
-    {
-      "key": "JAVBAR",
-      "name": "🔞JAVBAR",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "ext": {
-        "主页url": "https://javbar.com/",
-        "直接播放": "1",
-        "数组": "tray-item\"&&</a>",
-        "图片": "data-src=\"&&\"",
-        "标题": "class=\"video-title\"&&</span>",
-        "副标题": "class=\"video-subtitle\">&&</span>",
-        "简介": "class=\"video-description\"&&</span>",
-        "链接": "href=\"&&\"",
-        "分类url": "https://javbar.com/category/{cateId}/page/{catePg}/",
-        "分类": "人気$1#モザあり$2#無修正エロ$3#ENGSUB$4#VR$5"
-      }
-    },
    
     {
       "key": "Top888",
