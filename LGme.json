@@ -54,6 +54,86 @@
         },
    
   
+    {
+            "key": "13AV b",
+            "name": "🔞13AVb",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://13av.com/",
+                "过滤词": ".mp4",
+                "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
+                "图片": "data-src=\"&&\"",
+                "标题": "href=\"*\">&&</a>",
+                "副标题": "class=\"label\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "⚠️慢点撸，皮要掉了！！！",
+                "分类url": "https://13av.com/label/{cateId}/page/{catePg}.html;;z",
+                "分类": "最近更新$new#热门影片$hot"
+            }
+        },
+   
+  
+  
+  
+   {
+            "key": "wantav",
+            "name": "🔞wantav-A",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://wantav.com/",
+                "过滤词": ".mp4",
+                "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
+                "图片": "data-src=\"&&\"",
+                "标题": "href=\"*\">&&</a>",
+                "副标题": "class=\"label\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "⚠️慢点撸，皮要掉了！！！",
+                "分类url": "https://wantav.com/index/getstylemvs/id/{cateId}/sort/{by}/page/{catePg};;z",
+                "分类": "角色剧情$2#直接开啪$5#主奴调教$7#凌辱快感$10#中文字幕$3#制服诱惑$4#丝袜美腿$6#男友视角$9#多P群交$8#盗摄偷拍$12#女同欢愉$13"
+            }
+        },
+  
+  
+  {
+            "key": "wantavb",
+            "name": "🔞wantav-热门",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://wantav.com/index/gethotmvs/time/all",
+                "过滤词": ".mp4",
+                "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
+                "图片": "data-src=\"&&\"",
+                "标题": "href=\"*\">&&</a>",
+                "副标题": "class=\"label\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "⚠️慢点撸，皮要掉了！！！",
+                "分类url": "https://wantav.com/index/gethotmvs/time/{cateId}/page/{catePg};;z",
+                "分类": "所有$all#本月$month#本周$week#今日$today"
+            }
+        },
+  
+  
+  
+  
+  
 
    {
     "key": "sqhub",
