@@ -1,6 +1,6 @@
  { "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
   "sites": [
-    { //type,0表达xml，1表达json，3表达jar内置json
+    { //type,0表达xml，1表达json，3表达jar内置json   采集更新：https://www.yszzq.com/tags/jsoncjjk/
       "key": "91md",
       "name": "🔞91麻豆①",
       "type": 1,
@@ -25,28 +25,58 @@
     {"key":"*91麻豆5🔞","name":"🔞91麻豆⑦","type":1,"api":"http://www.bt4.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
     
 	
+	  {
+      "key": "https://souavzy.com/xm",
+      "name": "🔞搜av资源站xml",
+      "type": 0,
+      "api": "https://api.souavzy.vip/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	
+	  {
+      "key": "https://souavzy.com/js",
+      "name": "🔞搜av资源站json",
+      "type": 1,
+      "api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	
 	
 		{
-			"key": "︎奇优影院1",
-			"name": "🚴‍♂️奇优┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./lib/xyqxbpq.jar",
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"防走丢": "http://www.qiyoudy1.com/",
-				"播放数组": "stui-content__playlist clearfix&&</ul>",
-				"播放列表": "<a&&a>",
-				"播放链接": "href=\"&&\"",
-				"播放标题": "title=\"&&\"",
-				"线路数组": "<li id=\"tab&&</li>",
-				"线路标题": ">&&</a >",
-				"分类url": "http://www.taoju3.com/list/{cateId}_{catePg}.html?order={by}",
-				"分类": "伦理$6",
-				"排序": "按时间$time#按人气$hit"
-			}
-		},
-		
+      "key": "X细胞资源网1",
+      "name": "🔞X细胞资源网A",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	
+	
+		{
+      "key": "X细胞资源网2",
+      "name": "🔞X细胞资源网B",
+      "type": 0,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	
+		{
+      "key": "X细胞资源网3",
+      "name": "🔞X细胞资源网C",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=detail",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	
 	
 	
 	 {
@@ -71,15 +101,19 @@
         "ratio": 1.6
       }
     }, 
-    {"key": "优异资源","name": "🔞优异资源","type": 1,"api": "https://a.uezy.pw/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar"}, 	
+    
+	{"key": "优异资源","name": "🔞优异资源","type": 1,"api": "https://a.uezy.pw/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar"}, 	
+	
 	{"key":"老色逼资源","name":"🔞老色逼资源(采集A)","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
+	
 	{"key":"老色逼资源(采集)🔞","name":"🔞老色逼资源(采集B)💯","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},        
     
     {"key":"蜜桃社(采集)🔞","name":"🔞蜜桃社(采集)💯","type":1,"api":"https://mitaoshe.cyou/api.php/provide/vod/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
     
        
     {"key":"998资源(采集)🔞","name":"🔞998资源(采集)💯","type":1,"api":"https://api.998zy.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
-    {"key":"滴滴资源(采集)🔞","name":"🔞滴滴资源(采集)💯","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
+    
+	{"key":"滴滴资源(采集)🔞","name":"🔞滴滴资源(采集)💯","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
   
 	
 	 
@@ -95,11 +129,16 @@
       "quickSearch": 1,
       "filterable": 0
     },
+	
 	{"key":"桃花","name":"18+桃花B","type":1,"api":"https://thzy1.me/api.php/provide/vod/",  "searchable": 1, "quickSearch": 1, "filterable": 1 },
+	
 	{"key": "百万", "name": "18+百万资源", "type": 0, "api": "https://api.bwzym3u8.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+	
 	{"key":"gay资源","name":"18+gay资源A","type":1,"api":"https://gayapi.com/api.php/provide/vod/",  "searchable": 1, "quickSearch": 1, "filterable": 1 },
+	
 	{"key":"GAY(采集)🔞","name":"🔞GAY资源网(采集B)💯","type":1,"api":"https://gayapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
-{"key":"极品资源","name":"18+极品资源","type":1,"api":"https://jipinzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1, "quickSearch": 1, "filterable": 1 },
+   
+   {"key":"极品资源","name":"18+极品资源","type":0,"api":"https://jipinzyapi.com/api.php/provide/vod/at/xml",  "searchable": 1, "quickSearch": 1, "filterable": 1 },
 	
       
      
@@ -168,15 +207,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "*小湿妹资源",
-      "name": "🔞采集.小湿妹",
-      "type": 0,
-      "api": "https://www.afasu.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+    //{"key": "*小湿妹资源","name": "🔞采集.小湿妹","type": 0, "api": "https://www.afasu.com/api/xml.php",  "searchable": 1,"quickSearch": 1, "filterable": 0},
     {
       "key": "*香奶儿资源",
       "name": "🔞采集.香奶儿",
@@ -337,15 +368,7 @@
       "filterable": 0
     },
     
-	{
-      "key": "优优",
-      "name": "🔞优优资源网",
-      "type": 0,
-      "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+
 	
 
 	
@@ -399,12 +422,17 @@
    
     {
       "key": "阿坤",
-      "name": "🔞采集.JKUN资源站",
+      "name": "🔞采集.JKUN资源站A",
       "type": 1,
       "api": "https://www.jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 1
     },
+	
+		{"key":"JKUN(采集)","name":"🔞JKUN资源站B","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"style": {"type": "rect","ratio": 1.6}},
+	
+	
+	
 	{"key": "chujia.cc","name": "🔞精东资源","type": 1,"api": "http://chujia.cc/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","recordable": 0,"style": {"type": "rect", "ratio": 1.33}},
 	 
 	 {"key": "富二代","name": "🔞富二代资源","type": 0,"api": "http://f2dcj6.com/sapi?ac=list&pg=1","filterable": 0},
@@ -418,8 +446,19 @@
       "filterable": 1
     },
     
-    {"key": "155专场","name": "🔞155采集","type": 1,"api": "https://155api.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","playUrl": "","filterable": 1,"categories": [  "无码专区", "麻豆传媒", "制服诱惑", "三级伦理", "AI换脸", "中文字幕", "卡通动漫", "欧美系列", "美女主播",  "国产自拍", "熟女人妻", "萝莉少女", "女同性爱", "多人群交", "美乳巨乳", "强奸乱伦", "抖音视频", "韩国主播",  "网红头条", "网爆黑料", "欧美无码", "女优明星", "SM调教", "AV解说"]},
-	{"key":"优优采集)🔞","name":"🔞优优资源网(采集)💯","type":1,"api":"https://jk1.yycmszywapi.cc/api.php/provide/vod","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
+    {"key": "155专场","name": "🔞155采集A","type": 1,"api": "https://155api.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","playUrl": "","filterable": 1,"categories": [  "无码专区", "麻豆传媒", "制服诱惑", "三级伦理", "AI换脸", "中文字幕", "卡通动漫", "欧美系列", "美女主播",  "国产自拍", "熟女人妻", "萝莉少女", "女同性爱", "多人群交", "美乳巨乳", "强奸乱伦", "抖音视频", "韩国主播",  "网红头条", "网爆黑料", "欧美无码", "女优明星", "SM调教", "AV解说"]},
+	
+	{
+      "key": "115",
+      "name": "🔞采集.115资源B",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/?ac=list",
+      "searchable": 1
+    },
+	
+	
+	
+	//{"key":"优优采集)🔞","name":"🔞优优资源网(采集)💯","type":1,"api":"https://jk1.yycmszywapi.cc/api.php/provide/vod","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
 	
     
 	{
@@ -430,16 +469,18 @@
       "searchable": 1,
       "changeable": 1
     },
-	{"key":"JKUN(采集)","name":"🔞JKUN","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"style": {"type": "rect","ratio": 1.6}},
+
     
   
 	{"key":"辣椒资源","name":"🔞辣椒","type":1,"api":"http://api.11bat.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
-    {"key":"黄瓜资源","name":"🔞黄瓜","type":1,"api":"https://www.avre06.com/api.php/provide/vod/?ac=list","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
-    {"key":"*葡萄资源","name":"🔞葡萄","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod_dx.php","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
+    
+	{"key":"黄瓜资源","name":"🔞黄瓜","type":1,"api":"https://www.avre06.com/api.php/provide/vod/?ac=list","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
+    
+	{"key":"*葡萄资源","name":"🔞葡萄","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod_dx.php","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
    
     
     {"key":"998资源(采集)🔞","name":"🔞998资源","type":1,"api":"https://api.998zy.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
-    {"key": "apiyutu.com","name": "🔞玉兔资源","type": 1,"api": "https://apiyutu.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","recordable": 0,"style": {"type": "rect", "ratio": 1.33}},
+   
    
 	{
       "key": "玉兔",
@@ -449,13 +490,7 @@
       "searchable": 1
     },
 	{"key":"*玉兔资源🔞","name":"🔞玉兔资源B","type":1,"api":"https://yutuzy10.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
-	{
-      "key": "115",
-      "name": "🔞采集.115资源",
-      "type": 1,
-      "api": "https://155api.com/api.php/provide/vod/?ac=list",
-      "searchable": 1
-    },
+	
 	
 	{
       "key": "辣椒",
@@ -483,29 +518,7 @@
       "searchable": 1
     },
 	
-   {
-      "key": "探探",
-      "name": "🔞采集.探探资源①",
-      "type": 1,
-      "api": "https://apitantanzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1
-    },
-	 {
-      "key": "探探",
-      "name": "🔞采集.探探资源②",
-      "type": 0,
-      "api": "https://apittzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url="
-    },
-	
-    {
-      "key": "*探探资源",
-      "name": "🔞采集.探探资源③",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
+   
 	
 	{
       "key": "草榴",
