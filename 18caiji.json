@@ -67,7 +67,7 @@
       "filterable": 1
     },
 	
-
+	
 	
 	
 	
@@ -401,14 +401,7 @@
       "quickSearch": 0
     },
 	{"key": "秀人",  "name": "🔞秀人资源",  "type": 1,  "api": "https://xiuren.site/api.php/provide/vod/",  "searchable": 1,  "changeable": 1,  "categories": [],"style": {"type": "rect","ratio": 1.6}},
-    {
-      "key": "老鸭资源",
-      "name": "🔞采集.老鸭资源",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
+ 
     {"key": "湿乐园","name": "🔞湿乐园资源","type": 1,"api": "https://xxavs.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar"}, 
     
    
@@ -466,9 +459,20 @@
   
 	{"key":"辣椒资源","name":"🔞辣椒","type":1,"api":"http://api.11bat.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
     
+	{
+      "key": "辣椒",
+      "name": "🔞采集.辣椒资源",
+      "type": 1,
+      "api": "https://apilj.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "filterable": 1
+    },
+	
+	
+	
 	{"key":"黄瓜资源","name":"🔞黄瓜","type":1,"api":"https://www.avre06.com/api.php/provide/vod/?ac=list","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
     
-	{"key":"*葡萄资源","name":"🔞葡萄","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod_dx.php","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
+	
    
     
     {"key":"998资源(采集)🔞","name":"🔞998资源","type":1,"api":"https://api.998zy.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
@@ -484,24 +488,29 @@
 	{"key":"*玉兔资源🔞","name":"🔞玉兔资源B","type":1,"api":"https://yutuzy10.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar","searchable":1,"quickSearch":1},
 	
 	
+	
+	
 	{
-      "key": "辣椒",
-      "name": "🔞采集.辣椒资源",
-      "type": 1,
-      "api": "https://apilj.com/api.php/provide/vod/at/json/",
+      "key": "葡萄1",
+      "name": "🔞采集.葡萄资源A",
+      "type": 0,
+      "api": "https://caiji.putaozyw.net/inc/api.php",
+      "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
     },
-	
-	
-	{
-      "key": "葡萄",
-      "name": "🔞采集.葡萄资源",
-      "type": 1,
-      "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
-      "searchable": 1
-    },
       
+	 {
+      "key": "葡萄2",
+      "name": "🔞采集.葡萄资源B",
+      "type": 1,
+      "api": "https://caiji.putaozyw.net/inc/apijson_vod_dx.php",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    }, 
+	  
+	  
 	{
       "key": "森林",
       "name": "🔞采集.森林资源",
