@@ -24,7 +24,7 @@
     {"key":"*91麻豆4x","name":"🔞91麻豆⑥","type":1,"api":"http://www.36717.pw/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"*91麻豆5🔞","name":"🔞91麻豆⑦","type":1,"api":"http://www.bt4.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
     
-	{"key":"黄AV资源站","name":"🔞黄AV资源","type":1,"api":"https://www.pgxdy.com/api/json.php","searchable":1,"quickSearch":1},
+	{"key":"黄AV资源站","name":"🔞黄AV资源","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":0},
 	  {
       "key": "https://souavzy.com/xm",
       "name": "🔞搜av资源站xml",
