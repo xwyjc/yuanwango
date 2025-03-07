@@ -1140,17 +1140,10 @@
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
       "ext": {
-        "主页url": "https://av.gl/",
-        "数组": "col-6 col-sm-4 col-lg-3\">&&class=\"sub-title&&</div>",
-        "图片": "data-src=\"&&\"",
-        "标题": "class=\"title\"><a*>&&</a>",
-        "链接": "<a href=\"&&\"",
-        "播放标题": "",
-        "播放链接": "",
-        "直接播放": "1",
-        "分类": "日本有码$Censored#日本无码$Uncensored#FC2-PPV$FC2-PPV#中文字幕$CHN_SUB#无码破解$Mosaic_Removed#MGS视频$MGS#国产成人$Asian_Amateur#欧美成人$Western_Porn#写真特级$Adult_IDOL#动画$Anime",
-        //"分类url": "https://avgle.to/zh/vtype/{cateId}/{catePg}.html"
-		"分类url": "https://av.gl/avtype/{cateId}-{catePg}.html"
+       "主页url": "https://av.gl/",
+				"数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
+				"分类url": "https://av.gl/avtype/{cateId}-{catePg}.html;;z",
+				"分类": "日本有码$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
       }
     },
    
