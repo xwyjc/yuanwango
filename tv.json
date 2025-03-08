@@ -285,8 +285,87 @@
 		},
 		
 		{
+            "key": "GimyTV",
+            "name": "💕GimyTV",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+           "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "api": "csp_XBPQ",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+
+            "ext": {
+                "主页url": "https://gimy.tv/",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "数组": "class=\"myui-vodlist__box\">&&</div>",
+                "简介": "剧情简介</h3>&&</p >",
+                "线路数组": "class=\"title&&</div>",
+                "线路标题": ">&&</h3>",
+                "播放数组": "class=\"myui-content__list&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放标题": ">&&</a",
+                "播放链接": "href=\"&&\"",
+                "搜索数组": "lazyload\"&&</a",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "分类url": "https://gimy.tv/genre/{cateId}-{area}-{year}-{catePg}/by/{by}.html",
+                "分类": "电视剧$2#电影$1#综艺$3#动漫$4"
+            }
+        },
+
+		
+     { "key": "csp_XBPQ_两个BT",
+      "name": "两个BT bttwo.vip",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "线路数组":"mi_paly_box\">&&</div>",
+        "线路标题":"ypxingq_t\">&&<span>[替换:在线播放>>播放列表]",
+        "搜索url":"https://www.bttwoo.com/xssearch?q={wd}&f=_all&p={pg}",
+        "播放数组":"<div class=\"paly_list_btn\">&&</div>",        
+        "分类":"最新电影$new-movie#电视剧$dsj#热门下载$hot#本月热门$new-movie#高分电影$new-month#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv",
+        //"分类url":"https://www.bttwo.net/{cateId}/{area}/{year}/{class}/page/{catePg}"
+        "分类url":"https://www.bttwo.net/{cateId}/{area}/{year}/{class}/page/{catePg}"
+
+      }
+    },
+		
+		        {
+      "key": "kekeys",
+      "name": "📽可可影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": { 
+      "请求头":"User-Agent$Dart/2.10 (dart:io)",
+"简介":"class=\"detail-desc\">&&</p>",
+"导演":"导演:</div>&&</div>",
+"主演":"演员:</div>&&</div>",
+"线路数组":"class=\"source-item&&</a",
+"线路标题":">&&</span",
+"数组":"class=\"module-item\">&&</a",
+"标题":"title=\"&&\"",
+"图片":"src=\"&&\"",
+"链接":"href=\"&&\"",
+"副标题":"class=\"v-item-bottom\">&&</span",
+"倒序":"0",
+"搜索url":"https://keke1.app/search?k={wd}&page={pg}",
+"搜索数组":"<a&&</a",
+"搜索图片":"src=\"&&\"",
+"分类url":"https://keke1.app/show/{cateId}-{class}-{area}--{year}--{catePg}.html",
+"分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"}
+    },
+		{
 			"key": "Aries不承担任何风险-新希望影院",
-			"name": "🙏希望┃影院",
+			"name": "🙏希望┃影院-失效",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/lib/xyqxbpq.jar",
