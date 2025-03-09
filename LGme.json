@@ -814,45 +814,7 @@
       }
     },
 
-  
-
-   
-
-   
-    {
-      "key": "姐姐专场",
-      "name": "我玩姐姐",
-      "type": 1,
-      "api": "https://apilj.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产自拍",
-        "欧美极品",
-        "日韩无码",
-        "AV明星",
-        "中文字幕",
-        "动漫精品",
-        "极骚萝莉",
-        "人妖视频",
-        "重咸口味",
-        "三级自慰",
-        "强奸乱伦",
-        "独家擂台格斗",
-        "辣椒GIGA",
-        "HEYZO",
-        "独家DMM",
-        "HEY诱惑",
-        "童颜巨乳",
-        "高潮喷吹",
-        "激情口交",
-        "绝美少女",
-        "首次亮相",
-        "AV明星1"
-      ]
-    },
+ 
   
     {
       "key": "MustJAV",
@@ -1020,6 +982,35 @@
       "ext": {
         "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
         "副标题": "span class=\"pic-text text-right\">&&</p",
+       "线路数组":"<ul class=\"tab-top play-tab clearfix\"&&</div>", 
+       "线路标题":"<h3>&&</h3>", 
+       "播放数组":"<ul class=\"stui-play__list clearfix\"&&</ul>", 
+       "播放列表":"<a&&/a>", 
+       "播放标题":">&&<", 
+        "搜索模式": "1",
+        "搜索url": "/vodsearch/{wd}----------{pg}---.html",
+        "分类数组": "<li&&</li>",
+        "分类标题": ">&&</a",
+        "分类ID": "/vodtype/&&.html",
+        "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"
+      }
+    },
+	
+	
+	
+    {
+      "key": "我爱AV",
+      "name": "WO❤️AV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
+        "副标题": "span class=\"pic-text text-right\">&&</p",
         "线路数组": "<li&&</li>",
         "线路标题": "✨PYLB专享✨+<h3> 私密专线 </h3> ",
         "播放标题": ">&&</a",
@@ -1031,6 +1022,10 @@
         "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"
       }
     },
+	
+	
+	
+	
 
     {
       "key": "大白兔AV",
