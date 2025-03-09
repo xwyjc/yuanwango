@@ -982,36 +982,12 @@
       "ext": {
         "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
         "副标题": "span class=\"pic-text text-right\">&&</p",
-       "线路数组":"<ul class=\"tab-top play-tab clearfix\"&&</div>", 
-       "线路标题":"<h3>&&</h3>", 
-       "播放数组":"<ul class=\"stui-play__list clearfix\"&&</ul>", 
-       "播放列表":"<a&&/a>", 
-       "播放标题":">&&<", 
-        "搜索模式": "1",
-        "搜索url": "/vodsearch/{wd}----------{pg}---.html",
-        "分类数组": "<li&&</li>",
-        "分类标题": ">&&</a",
-        "分类ID": "/vodtype/&&.html",
-        "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"
-      }
-    },
-	
-	
-	
-    {
-      "key": "我爱AV",
-      "name": "WO❤️AV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
-        "副标题": "span class=\"pic-text text-right\">&&</p",
-        "线路数组": "<li&&</li>",
+       //"线路数组":"<ul class=\"tab-top play-tab clearfix\"&&</div>", 
+       //"线路标题":"<h3>&&</h3>", 
+       //"播放数组":"<ul class=\"stui-play__list clearfix\"&&</ul>", 
+       //"播放列表":"<a&&/a>", 
+       //"播放标题":">&&<", 
+	   "线路数组": "<li&&</li>",
         "线路标题": "✨PYLB专享✨+<h3> 私密专线 </h3> ",
         "播放标题": ">&&</a",
         "搜索模式": "1",
@@ -1022,6 +998,9 @@
         "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"
       }
     },
+	
+	
+	
 	
 	
 	
