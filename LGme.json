@@ -785,8 +785,7 @@
         "副标题": "<span class=\"absolute*>&&</span",
         "简介": "description\" content=\"&&\"",
         "链接": "href=\"&&\"",
-        "搜索url": "https://missav.ai/search/{wd}",
-       
+        "搜索url": "https://missav.ai/search/{wd}",  
 		"分类url": "https://missav.ai/{cateId}?sort={by}&page={catePg}",
         "分类": "中文字幕$dm265/cn/chinese-subtitle#最近更新$dm514/cn/new#新作上市$dm588/cn/release#无码流出$dm620/cn/uncensored-leak#今日热门$dm291/cn/today-hot#本週热门$dm169/cn/weekly-hot#本月热门$dm256/cn/monthly-hot#SIRO$dm23/cn/siro#LUXU$dm20/cn/luxu#GANA$dm17/cn/gana#PRESTIGE PREMIUM$dm436/cn/maan#S-CUTE$dm23/cn/scute#ARA$dm19/cn/ara#无码流出$dm620/cn/uncensored-leak#FC2$dm95/cn/fc2#HEYZO$dm631/cn/heyzo#东京热$dm29/cn/tokyohot#一本道$dm370178/1pondo#Caribbeancom$dm532508/cn/caribbeancom#Caribbeancompr$dm7530/cn/caribbeancompr#10musume$dm558727/cn/10musume#pacopacomama$dm989/cn/pacopacomama#Gachinco$dm135/cn/gachinco#XXX-AV$dm29/xxxav#人妻斩$dm24/marriedslash#顽皮 4610$dm19/cn/naughty4610#顽皮 0930$dm22/cn/naughty0930#麻豆传媒$dm34/cn/madou#TWAV$dm17/cn/twav#Furuke$dm15/cn/furuke",
         "页面代理": "proxy"
@@ -962,8 +961,8 @@
         //"分类数组": "<a&&</a>",
         //"分类标题": ">&&",
        // "分类ID": "/typegaokk/&&.html",
-        "分类url": "https://10gaokk.com/typegaokk/{cateId}_{catePg}.html[https://10gaokk.com/typegaokk/{cateId}.html]"
-         "分类":"推荐视频$5#强奸乱伦$17#日韩亚洲$2#巨乳颜射$7#中文字幕$4#口交自慰$8#制服淫穴$9#日韩无码$11#精品女优$18#人妻系列$19#极骚萝莉$20#HEYZO$21#独家诱惑$22#高潮吹$24#三级综艺$12#首次少女$23"}},
+        "分类url": "https://10gaokk.com/typegaokk/{cateId}_{catePg}.html[https://10gaokk.com/typegaokk/{cateId}.html]",
+        "分类":"推荐视频$5#强奸乱伦$17#日韩亚洲$2#巨乳颜射$7#中文字幕$4#口交自慰$8#制服淫穴$9#日韩无码$11#精品女优$18#人妻系列$19#极骚萝莉$20#HEYZO$21#独家诱惑$22#高潮吹$24#三级综艺$12#首次少女$23"}},
 	 
 
     {
@@ -1093,8 +1092,9 @@
         "ratio": 1.485
       },
       "ext": {
-          "主页url": "https://xxjoa44.com/",
-        "直接播放": "1",
+         "主页url": "https://xxjoa44.com/",
+        
+		"直接播放": "1",
         "图片": "data-src=\"&&\"",
         "标题": "title=\"&&\"",
         "链接": "href=\"&&\"",
