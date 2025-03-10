@@ -27,7 +27,7 @@
 "分类url":"https://askdy.net/vodtype/{cateId}-{catePg}.html;;z",
 "分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#无码精选$27#动漫卡通$28#换脸系列$29#欧美大片$30"}},
 	
-	
+
 	
 	
 	
@@ -109,7 +109,6 @@
                 "分类": "喜欢女上司$14#连体丝袜$20#水手美少女$19#我的妻子$12#全裸家政$18#中出女高中生$17#温泉旅行$16#儿媳妇被中出$15#制服美少女$13"
             }
         },
-  
   {
             "key": "13AV d",
             "name": "🔞13AV-分类集合",
@@ -193,13 +192,33 @@
         },
   
   
-  
+   {
+      "key": "SMTV",
+      "name": "好色TV-hsex",
+      "type": 3,
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/XBPQ.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "直接播放": "1",
+        "数组": "class=\"col-xs-6 col-md-3\">&&</div></div>",
+        "图片": "style=\"background-image: url('&&')\"",
+        "链接": "href=\"&&\"",
+        "链接前缀": "https://hsex.icu/",
+        "搜索url": "https://hsex.icu/search.htm?search={wd}&sort=new",
+        "分类": "周榜$top7#月榜$top#5分钟$5min#10分钟$long",
+        "分类url": "https://hsex.icu/{cateId}_list-{catePg}.htm;;RC"
+      }
+    },
   
   
 
    {
     "key": "sqhub",
-    "name": "好色TV",
+    "name": "好色TV-sex166",
     "type": 3,
     "api": "csp_XBPQ",
     "jar": "./lib/XBPQ.jar",
@@ -691,7 +710,7 @@
       },
       "ext": {
         "主页url": "https://jable.tv/",
-        "数组": "class=\"col-6 col-sm-4 col-lg-3\">&&class=\"sub-title\">&&</div>",
+        "数组":"<div class=\"img-box cover-md\">&&</h6>",
         "图片": "data-src=\"&&\"",
         "标题": "class=\"title\">*>&&</a",
         "链接": "href=\"&&\"",
@@ -760,15 +779,15 @@
       "filterable": 1,
       "jar": "./lib/XBPQ.jar",
       "ext": {
-        "数组": "img x-cloak&&/a></div></div>[不包含:item.title]",
-        "图片": "class=\"lozad*data-src=\"&&\"",
-        "标题": "<a class=\"text-secondary*>&&<",
+        "数组": "class=\"thumbnail group\">&&</div></div>",
+        "图片": "data-src=\"&&\"",
+        "标题": "alt=\"&&\"",
         "副标题": "<span class=\"absolute*>&&</span",
-        "简介": "keywords\" content=\"&&\"",
+        "简介": "description\" content=\"&&\"",
         "链接": "href=\"&&\"",
         "搜索url": "https://missav.ai/search/{wd}",
        
-		"分类url": "https://missav.ai/{cateId}?sort={by}_at&filters={letter}&page={catePg}",
+		"分类url": "https://missav.ai/{cateId}?sort={by}&page={catePg}",
         "分类": "中文字幕$dm265/cn/chinese-subtitle#最近更新$dm514/cn/new#新作上市$dm588/cn/release#无码流出$dm620/cn/uncensored-leak#今日热门$dm291/cn/today-hot#本週热门$dm169/cn/weekly-hot#本月热门$dm256/cn/monthly-hot#SIRO$dm23/cn/siro#LUXU$dm20/cn/luxu#GANA$dm17/cn/gana#PRESTIGE PREMIUM$dm436/cn/maan#S-CUTE$dm23/cn/scute#ARA$dm19/cn/ara#无码流出$dm620/cn/uncensored-leak#FC2$dm95/cn/fc2#HEYZO$dm631/cn/heyzo#东京热$dm29/cn/tokyohot#一本道$dm370178/1pondo#Caribbeancom$dm532508/cn/caribbeancom#Caribbeancompr$dm7530/cn/caribbeancompr#10musume$dm558727/cn/10musume#pacopacomama$dm989/cn/pacopacomama#Gachinco$dm135/cn/gachinco#XXX-AV$dm29/xxxav#人妻斩$dm24/marriedslash#顽皮 4610$dm19/cn/naughty4610#顽皮 0930$dm22/cn/naughty0930#麻豆传媒$dm34/cn/madou#TWAV$dm17/cn/twav#Furuke$dm15/cn/furuke",
         "页面代理": "proxy"
       }
@@ -940,12 +959,12 @@
         "线路数组": "class=\"item line\">&&</div>[排序:一>二>三]",
         "线路标题": "<a*>&&</a>",
         "搜索url": "https://10gaokk.com/vodsearch/{wd}----------{pg}---.html",
-        "分类数组": "<a&&</a>",
-        "分类标题": ">&&",
-        "分类ID": "/typegaokk/&&.html",
+        //"分类数组": "<a&&</a>",
+        //"分类标题": ">&&",
+       // "分类ID": "/typegaokk/&&.html",
         "分类url": "https://10gaokk.com/typegaokk/{cateId}_{catePg}.html[https://10gaokk.com/typegaokk/{cateId}.html]"
-      }
-    },
+         "分类":"推荐视频$5#强奸乱伦$17#日韩亚洲$2#巨乳颜射$7#中文字幕$4#口交自慰$8#制服淫穴$9#日韩无码$11#精品女优$18#人妻系列$19#极骚萝莉$20#HEYZO$21#独家诱惑$22#高潮吹$24#三级综艺$12#首次少女$23"}},
+	 
 
     {
       "key": "我爱AV",
@@ -1074,13 +1093,13 @@
         "ratio": 1.485
       },
       "ext": {
-          "主页url": "https://xxjoa42.com/",
+          "主页url": "https://xxjoa44.com/",
         "直接播放": "1",
         "图片": "data-src=\"&&\"",
-        "标题": "alt=\"&&\"",
+        "标题": "title=\"&&\"",
         "链接": "href=\"&&\"",
         "页面代理": "proxy",
-        "分类url": "https://xxjoa42.com/category/{cateId}/page/{catePg}/",
+        "分类url": "https://xxjoa44.com/category/{cateId}/page/{catePg}/",
         "分类": "日本有码$av자막#FC2视频$FC#看不懂$AV유모##看不懂2$av노모#韩国色情视频$중국야동"
       }
     },
@@ -1122,27 +1141,7 @@
       }
     },
 
-    {
-      "key": "SMTV",
-      "name": "好色TV",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/XBPQ.jar",
-      "api": "csp_XBPQ",
-      "ext": {
-        "直接播放": "1",
-        "数组": "class=\"col-xs-6 col-md-3\">&&</div>",
-        "图片": "style=\"background-image: url('&&')\"",
-        "链接": "href=\"&&\"",
-        "链接前缀": "https://hsex.icu/",
-        "搜索url": "https://hsex.icu/search.htm?search={wd}&sort=new",
-        "分类": "周榜$top7#月榜$top#5分钟$5min#10分钟$long",
-        "分类url": "https://hsex.icu/{cateId}_list-{catePg}.htm;;RC"
-      }
-    },
+   
 
     
 
