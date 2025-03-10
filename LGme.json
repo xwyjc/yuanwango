@@ -28,6 +28,31 @@
 "分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#无码精选$27#动漫卡通$28#换脸系列$29#欧美大片$30"}},
 	
 	
+	{"key": "农夫与少妇","name": "🔞农夫与少妇","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{
+   // "二次截取": "<ul class=\"img-list-data&&</ul",
+    "主页url": "https://nfsf8kj.nfsf-a2.buzz/go",
+    "数组": "class=\"content-item&&</a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "<p>&&</p>",
+    //"副标题": "text-bg-r\">&&</p",
+    "简介": "keywords\"*content=\"&&剧情",
+    "链接": "href=\"&&\"",
+    //"跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
+	"播放数组":"class=\"item line\">&&</div>",
+    "线路数组":"class=\"item line\">&&</div>",
+    "搜索模式": "1",
+    "搜索url": "https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/search/page/{pg}/wd/{wd}.html",
+    "分类二次截取": "<div class=\"row <{menuInfo.key}>-row\">&&激情图区",
+    "分类数组": "<a&&/a",
+    "分类标题": ">&&<",
+    "分类ID": "/go/index.php/vod/type/id/&&.html",
+    "分类url": "https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
+	
+	
+	
+	
+	
+	
 	
      {
           "key": "13AV",
@@ -785,35 +810,7 @@
     },
 
     
-    {
-      "key": "农夫与少妇",
-      "name": "农夫与少妇",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "二次截取": "<ul class=\"img-list-data&&</ul",
-        "主页url": "https://nfsf8kj.nfsf-a2.buzz/go",
-        "数组": "<li>&&</li>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "text-bg-r\">&&</p",
-        "简介": "keywords\"*content=\"&&剧情",
-        "链接": "href=\"&&\"",
-        "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
-        "搜索模式": "1",
-        "搜索url": "https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/search/page/{pg}/wd/{wd}.html",
-        "分类二次截取": "<div class=\"row <{menuInfo.key}>-row\">&&激情图区",
-        "分类数组": "<a&&/a",
-        "分类标题": ">&&<",
-        "分类ID": "/go/index.php/vod/type/id/&&.html",
-        "分类url": "https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"
-      }
-    },
-
+   
  
   
     {
