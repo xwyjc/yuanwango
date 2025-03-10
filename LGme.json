@@ -660,49 +660,6 @@
    
    
    
-     {
-      "key": "csp_XYQHiker_123av",
-      "name": "♥️123av♥️",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/123av.json"
-    },
-   
-   
-   
-     {
-      "key": "csp_XYQHiker_avstime",
-      "name": "♥️avstime♥️",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/avstime.json"
-    },
-   
-   
-   
-     {
-      "key": "csp_XYQHiker_memojav",
-      "name": "♥️memojave♥️",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/memojav.json"
-    },
-   
-   
-   
-   
    
    
    
