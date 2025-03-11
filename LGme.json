@@ -815,7 +815,7 @@
       "filterable": 1,
       "jar": "./lib/XBPQ.jar",
       "ext": {
-        "数组": "class=\"thumbnail group\">&&</div></div>",
+        "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\">&&</div></div>",
         "图片": "data-src=\"&&\"",
         "标题": "alt=\"&&\"",
         "副标题": "<span class=\"absolute*>&&</span",
