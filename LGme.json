@@ -192,6 +192,40 @@
         },
   
   
+       {
+            "key": "wantavc",
+            "name": "🔞wantav-分类",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://wantav.com/index/latePublishedMvs",
+                "过滤词": ".mp4",
+                "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
+                "图片": "data-src=\"&&\"",
+                "标题": "<h6 class=\"title\">&&</a>",
+                "副标题": "class=\"label\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "⚠️慢点撸，皮要掉了！！！",
+                "分类url": "https://wantav.com/index/tagmvs/tags/{cateId}/sort/{by}/page/{catePg};;z",
+                "分类": "錄像$247#處女作/引退作$248#綜藝$249#節日主題$250#感謝祭$251#4小時以上$252#●倫$675#輪●$676#強●$677#肌肉$678#模特儿$679
+				        #单体作品$680#自拍$681#高清$682#女大学生$683#企划$684#素人$685#按摩油$686#4K$687#暴汗$688#独家$689#多人运动$690
+						#颜射$691#出道作$692#不伦$693#巨乳偏好$694#美少女$695#高妹$696#苗条$697#女仆$698#不戴胸围$699#女上司$700#约会$701
+						#及时插入$715#丝袜$726#角色扮演$734#母亲$736#乱伦$737#美乳$738#剧情$748#青梅竹马$750#联谊会$759#全高清$773#旅行$777"
+            }
+        },
+  
+  
+  
+  
+  
+  
+  
+  
    {
       "key": "SMTV",
       "name": "好色TV-hsex",
@@ -659,13 +693,6 @@
    
    
    
-   
-   
-   
-   
-   
-   
-   
 
 
   
@@ -794,9 +821,9 @@
         "副标题": "<span class=\"absolute*>&&</span",
         "简介": "description\" content=\"&&\"",
         "链接": "href=\"&&\"",
-        "搜索url": "https://missav.ai/search/{wd}",  
-		"分类url": "https://missav.ai/{cateId}?sort={by}&page={catePg}",
-        "分类": "中文字幕$dm265/cn/chinese-subtitle#最近更新$dm514/cn/new#新作上市$dm588/cn/release#无码流出$dm620/cn/uncensored-leak#今日热门$dm291/cn/today-hot#本週热门$dm169/cn/weekly-hot#本月热门$dm256/cn/monthly-hot#SIRO$dm23/cn/siro#LUXU$dm20/cn/luxu#GANA$dm17/cn/gana#PRESTIGE PREMIUM$dm436/cn/maan#S-CUTE$dm23/cn/scute#ARA$dm19/cn/ara#无码流出$dm620/cn/uncensored-leak#FC2$dm95/cn/fc2#HEYZO$dm631/cn/heyzo#东京热$dm29/cn/tokyohot#一本道$dm370178/1pondo#Caribbeancom$dm532508/cn/caribbeancom#Caribbeancompr$dm7530/cn/caribbeancompr#10musume$dm558727/cn/10musume#pacopacomama$dm989/cn/pacopacomama#Gachinco$dm135/cn/gachinco#XXX-AV$dm29/xxxav#人妻斩$dm24/marriedslash#顽皮 4610$dm19/cn/naughty4610#顽皮 0930$dm22/cn/naughty0930#麻豆传媒$dm34/cn/madou#TWAV$dm17/cn/twav#Furuke$dm15/cn/furuke",
+        "搜索url": "https://missav.ws/search/{wd}",  
+		"分类url": "https://missav.ws/{cateId}?sort={by}&page={catePg}",
+        "分类": "中文字幕$dm265/chinese-subtitle#最近更新$dm514/new#新作上市$dm588/release#无码流出$dm620/uncensored-leak#今日热门$dm291/today-hot#本週热门$dm169/weekly-hot#本月热门$dm256/monthly-hot#SIRO$dm23/siro#LUXU$dm20/luxu#GANA$dm17/gana#PRESTIGE PREMIUM$dm436/maan#S-CUTE$dm23/scute#ARA$dm19/ara#无码流出$dm620/uncensored-leak#FC2$dm95/fc2#HEYZO$dm631/heyzo#东京热$dm29/tokyohot#一本道$dm370178/1pondo#Caribbeancom$dm532508/caribbeancom#Caribbeancompr$dm7530/caribbeancompr#10musume$dm558727/10musume#pacopacomama$dm989/pacopacomama#Gachinco$dm135/gachinco#XXX-AV$dm29/xxxav#人妻斩$dm24/marriedslash#顽皮 4610$dm19/naughty4610#顽皮 0930$dm22/naughty0930#麻豆传媒$dm34/madou#TWAV$dm17/twav#Furuke$dm15/furuke",
         "页面代理": "proxy"
       }
     },
