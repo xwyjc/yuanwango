@@ -818,14 +818,14 @@
       "filterable": 1,
       "jar": "./lib/XBPQ.jar",
       "ext": {
-        "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\">&&</div>",
+        "数组": "class=\"thumbnail group\">&&</div>",
         "图片": "data-src=\"&&\"",
         "标题": "alt=\"&&\"",
-        "副标题": "<span class=\"absolute*>&&</span",
+        "副标题": "<span class=\"absolute*>&&</span>",
         "简介": "description\" content=\"&&\"",
         "链接": "href=\"&&\"",
-        "搜索url": "https://missav.ws/search/{wd}",  
-		"分类url": "https://missav.ws/{cateId}?sort={by}&page={catePg}",
+        "搜索url": "https://missav.ai/search/{wd}",  
+		"分类url": "https://missav.ai/{cateId}?sort={by}&page={catePg}",
         "分类": "中文字幕$dm265/chinese-subtitle#最近更新$dm514/new#新作上市$dm588/release#无码流出$dm620/uncensored-leak#今日热门$dm291/today-hot#本週热门$dm169/weekly-hot#本月热门$dm256/monthly-hot#SIRO$dm23/siro#LUXU$dm20/luxu#GANA$dm17/gana#PRESTIGE PREMIUM$dm436/maan#S-CUTE$dm23/scute#ARA$dm19/ara#无码流出$dm620/uncensored-leak#FC2$dm95/fc2#HEYZO$dm631/heyzo#东京热$dm29/tokyohot#一本道$dm370178/1pondo#Caribbeancom$dm532508/caribbeancom#Caribbeancompr$dm7530/caribbeancompr#10musume$dm558727/10musume#pacopacomama$dm989/pacopacomama#Gachinco$dm135/gachinco#XXX-AV$dm29/xxxav#人妻斩$dm24/marriedslash#顽皮 4610$dm19/naughty4610#顽皮 0930$dm22/naughty0930#麻豆传媒$dm34/madou#TWAV$dm17/twav#Furuke$dm15/furuke",
         "页面代理": "proxy"
       }
