@@ -16,17 +16,7 @@
         "ratio": 1.5
       }
     },
-    {
-      "key": "py_推特",
-      "name": "推特",
-      "type": 3,
-      "api": "./lib/py_推特.py",
-      "jar": "./lib/xyqxbpq.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
-      }
-    },
+    
 		
 		{
 			"key": "流氓兔",
@@ -579,7 +569,7 @@
 		
 		{
 			"key": "✨宇逍遥✨",
-			"name": "✨宇逍遥-伦理✨",
+			"name": "✨宇逍遥-伦理-已失效✨",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./lib/xyqxbpq.jar",
@@ -617,7 +607,7 @@
 		},
 		{
 			"key": "︎奇优影院1",
-			"name": "🚴‍♂️奇优┃影视-伦理",
+			"name": "🚴‍♂️奇优┃影视-伦理-失效",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./lib/xyqxbpq.jar",
@@ -692,7 +682,7 @@
 		},
 		{
 			"key": "Aries不承担任何风险-91电影网",
-			"name": "9️⃣91┃影视-伦理",
+			"name": "97fyy┃影视-伦理",
 			"type": 3,
 			"jar": "./lib/xyqxbpq.jar",
 			"api": "csp_XBPQ",
@@ -702,13 +692,18 @@
 			"ext": {
 				"请求头": "User-Agent$MOBILE_UA",
 				"编码": "gb2312",
-				"主页url": "http://m.aogetu.com/wuyejuchang/",
-				"播放数组": "plau-ul-list&&</ul>",
+				//"主页url": "http://m.aogetu.com/wuyejuchang/",
+				"主页url": "https://www.97fyy.com:97/wuyejuchang/",
+				//"播放数组": "plau-ul-list&&</ul>",
+				"线路名二次截取":"class=\"nav&&</ul>",
+                "线路数组":"data-toggle=\"tab\"&&/a>",
+                "线路名标题":">&&<",
+				"播放数组": "class=\"myui-content__list$$</ul>",
 				"播放列表": "<a&&a>",
 				"播放链接": "href='&&'",
 				"播放标题": "blank\">&&<",
 				"嗅探词": "index.m3u8?",
-				"分类url": "http://m.aogetu.com/{cateId}/{class}/index{catePg}.html[http://m.aogetu.com/{cateId}/{class}/]",
+				"分类url": "https://www.97fyy.com:97/{cateId}/{class}/index{catePg}.html[https://www.97fyy.com:97/{cateId}/{class}/]",
 				"分类": "午夜剧场$wuyejuchang",
 				"剧情": "微短剧$duanju伦理片$lunli#写真$xiezhen"
 			}
@@ -777,29 +772,7 @@
 				"分类": "国产视频$1#自拍偷拍$2#主播网红$3#网曝黑料$31#国产探花$4#绿帽乱伦$6#明星换脸$7#麻豆传媒$9#国产学生$33#国产少妇$34#日本有码$10#日本无码$11#韩国无码$12#欧美无码$13#中文字幕$14#成人动漫$15#三级伦理$16#巨乳美乳$20#变态调教$22#制服丝袜$23#强奸乱伦$21#熟女人妻$24#少女萝莉$25#男同女同$26#多人群交$28#口交颜射$29"
 			}
 		},
-		{
-			"key": "👙指间的黑客",
-			"name": "👙🔞--精品",
-			"type": 3,
-			"jar": "./lib/xyqxbpq.jar",
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"编码": "gb2312",
-				"主页url": "http://m.aogetu.com/wuyejuchang/",
-				"播放数组": "plau-ul-list&&</ul>",
-				"播放列表": "<a&&a>",
-				"播放链接": "href='&&'",
-				"播放标题": "blank\">&&<",
-				"嗅探词": "index.m3u8?",
-				"分类url": "http://m.aogetu.com/{cateId}/{class}/index{catePg}.html[http://m.aogetu.com/{cateId}/{class}/]",
-				"分类": "Aries不承担任何风险爱看电影$dianying#电视剧$dianshiju#👙脱衣舞$wuyejuchang#👙小媳妇光腚$taotu#综艺娱乐$zongyiyule#动漫动画$dongmandonghua#音乐MV$yuleMV",
-				"剧情": "动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#纪录片$jilupian#VIP$fuli#动画$dhdy国产剧$guochanju#欧美剧$oumeiju#香港剧$hongkongju#韩国剧$hanguoju#台湾剧$taiwanju#日本剧$ribengju#泰国剧$taiguoju#海外剧$haiwaiju#微短剧$duanju伦理片$lunli#写真$xiezhen#主播$zhubo大陆综艺$daluzongyi#香港综艺$hongkongzongyi#台湾综艺$taiwanzongyi#日韩综艺$rihanzongyi#欧美综艺$oumeizongyi#其他综艺$qitazongyi日本动漫$ribendongman#国产动漫$guochandonghua#欧美动漫$oumeidongman#韩国动漫$hanguodongman#其他动漫$qitadongman空大陆$yanchanghui#港台$MV#日韩$KTV#欧美$bangjiangli"
-			}
-		},
+		
 		
 		{
          "key": "api.sexnguon.com",
@@ -1004,7 +977,7 @@
 				"请求头": "User-Agent$MOBILE_UA",
 				"主页url": "https://www.kissavtv.com/index/getActorList/sort/count",
 				"数组": "bind_video_img\">&&</h",
-				"图片": "data-src=\"&&\"",
+				"图片": "z-image-loader-url=\"&&\"",
 				"标题": "title\"><a*>&&</a",
 				"副标题": "label\">&&<",
 				"简介": "header-left\">&&<php",
@@ -1030,7 +1003,7 @@
 				"请求头": "User-Agent$MOBILE_UA",
 				"主页url": "https://www.kissavtv.com",
 				"数组": "bind_video_img\">&&</h",
-				"图片": "data-src=\"&&\"",
+				"图片": "z-image-loader-url=\"&&\"",
 				"标题": "title\"><a*>&&</a",
 				"副标题": "label\">&&<",
 				"简介": "header-left\">&&<php",
@@ -1056,7 +1029,7 @@
 				"请求头": "User-Agent$MOBILE_UA",
 				"主页url": "https://www.kissavtv.com",
 				"数组": "bind_video_img\">&&</h",
-				"图片": "data-src=\"&&\"",
+				"图片": "z-image-loader-url=\"&&\"",
 				"标题": "title\"><a*>&&</a",
 				"副标题": "label\">&&<",
 				"简介": "header-left\">&&<php",
@@ -1071,16 +1044,7 @@
 		
          }
 	],
-	"lives": [
-		{
-			"name": "电视直播",
-			"type": 0,
-			"url": "https://tv.iill.top/m3u/Gather",
-			"ua": "okhttp/3.15",
-			"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		}
-	],
+
 	"doh": [
 		{
 			"name": "Google",
