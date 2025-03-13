@@ -62,7 +62,8 @@
       "ext": {
         "主页url": "https://www.appleav65.xyz/",
         "播放数组":"mod play-list&&</ul",
-        "跳转播放链接": "var playUrl=\"&&\"",
+        //"跳转播放链接": "var playUrl=\"&&\"",
+		"跳转播放链接": "var player_aaaa*url\":\"&&\"",
         "链接": "href=\"&&\"",
        "标题": "alt=\"&&\"",
        "直接播放":"1",
