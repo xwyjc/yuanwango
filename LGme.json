@@ -28,11 +28,69 @@
 "分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#无码精选$27#动漫卡通$28#换脸系列$29#欧美大片$30"}},
 	
 
+	   {
+      "key": "快活影網",
+      "name": "🔞快活┃影视",
+      "type": 3,
+       "api": "csp_XBPQ",
+      //"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.666uux.com/yazhouxingai/index.html",
+        "播放数组":"mod play-list&&</ul",
+        "跳转播放链接": "var playUrl=\"&&\"",
+        "链接": "href=\"&&\"",
+       "标题": "alt=\"&&\"",
+       "直接播放":"1",
+        "分类url": "https://www.666uux.com/{cateId}/{class}/index.html",
+        "分类": "亚洲性爱$yazhouxingai#欧美高清$oumeixingai#亚洲无码$yazhouav#欧美短AV$oumeiav#熟女人妻$shunvrenqi#丝袜制服$siwazhifu#中文熟女$luanlunshunv#三级经典$sanjijingdian"
+      }
+    },
 	
 	
+	    {
+      "key": "快影網",
+      "name": "🔞色苹果┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.appleav65.xyz/",
+        "播放数组":"mod play-list&&</ul",
+        "跳转播放链接": "var playUrl=\"&&\"",
+        "链接": "href=\"&&\"",
+       "标题": "alt=\"&&\"",
+       "直接播放":"1",
+       "分类url": "https://www.appleav65.xyz/vodtype/{cateId}/{catePg}/;;a",
+        "分类": "国产视频$1#欧美高清$5#日韩视频$2#国产传媒$7#精品推荐$21#网曝私密$3#3d动漫$4"
+      }
+    },
 	
-	
-	
+	    {
+      "key": "jap影網",
+      "name": "🔞1av┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.1av.shop/vodtype/25.html",
+        "播放数组":"mod play-list&&</ul",
+        "跳转播放链接": "var player_aaaa*url\":\"&&\"",
+        "链接": "href=\"&&\"",
+       "标题": "alt=\"&&\"",
+       "直接播放":"1",
+       "分类url": "https://www.1av.shop/vodtype/{cateId}-{catePg}.html;;z",
+        "分类": "国产视频$1#欧美高清$18#日韩视频$17#熟女人妻$25#国产传媒$11#精品推荐$16#网曝私密$2#三级电影$21"
+      }
+    },
 	
 	
      {
