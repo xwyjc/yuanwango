@@ -53,7 +53,7 @@
       "key": "18禁",
       "name": "🔞18禁天堂",
       "type": 3,
-	  "jar": "./lib/o.jar",
+	  "jar": "./lib/XBPQ.jar",
       "api": "csp_XBPQ",
 	  "searchable": 1,
       "quickSearch": 1,
@@ -69,7 +69,7 @@
         "搜索url": "https://xn--x24a.c18jtt22.buzz/forum.php?mod=search&kw={wd}",
         //"搜索图片": "data-src=\"&&\"",
         //"搜索数组": "<figure class=\"aspect-ratio\">&&</a",
-        "分类url": "https://xn--x24a.c18jtt22.buzz/forum.php?mod=forumdisplay&fid={cateId}&page={catePg};;a",
+        "分类url": "https://xn--x24a.c18jtt22.buzz/forum.php?mod=forumdisplay&fid={cateId}&page={catePg}",
         "分类": "视频一区$10002#视频二区$10003#视频三区$10004#视频四区$10000"
       }
   },
