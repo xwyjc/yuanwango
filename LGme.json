@@ -61,7 +61,7 @@
       "ext": {
         "直接播放": "1",
         "嗅探词": "m3u8#.m3u8",
-        "数组": "<div class=\"th\">&&</div></div></div>",
+        "数组":"\"th-image &&\"th\"",
         "图片": "data-original=\"&&\"",
         "标题": "class=\"th-row-title\">&&</a>",
 		"副标题": "<div class=\"th-date\">&&</div>",
