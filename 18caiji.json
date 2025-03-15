@@ -2,7 +2,7 @@
   "sites": [
     { //type,0表达xml，1表达json，3表达jar内置json   采集更新：https://www.yszzq.com/tags/jsoncjjk/
       "key": "91md",
-      "name": "🔞91麻豆①",
+      "name": "🔞台湾传媒①",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
@@ -11,20 +11,20 @@
     },
 	 {
       "key": "*91麻豆②",
-      "name": "🔞91麻豆②",
+      "name": "🔞台湾传媒②",
       "type": 1,
       "api": "http://bt4.cc/api.php/provide/vod/from/mdm3u8/",
       "tag": "qb,tj,rm",
       "categories": []
     },
   
-	{"key":"*91麻豆x","name":"🔞91麻豆③","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"*91麻豆2🔞","name":"🔞91麻豆④","type":1,"api":"http://www.9191md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"*91麻豆3x","name":"🔞91麻豆⑤","type":1,"api":"http://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"*91麻豆4x","name":"🔞91麻豆⑥","type":1,"api":"http://www.36717.pw/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"*91麻豆5🔞","name":"🔞91麻豆⑦","type":1,"api":"http://www.bt4.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+	{"key":"*91麻豆x","name":"🔞台湾传媒③","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"*91麻豆2🔞","name":"🔞台湾传媒④","type":1,"api":"http://www.9191md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"*91麻豆3x","name":"🔞台湾传媒⑤","type":1,"api":"http://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"*91麻豆4x","name":"🔞台湾传媒⑥","type":1,"api":"http://www.36717.pw/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"*91麻豆5🔞","name":"🔞台湾传媒⑦","type":1,"api":"http://www.bt4.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
     
-	{"key":"黄AV资源站","name":"🔞黄AV资源","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":0},
+	{"key":"黄AV资源站","name":"🔞黄AV资源","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable": 0},
 	  {
       "key": "https://souavzy.com/xm",
       "name": "🔞搜av资源站xml",
