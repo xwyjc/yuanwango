@@ -336,8 +336,200 @@
       }
     },
 		
-		        {
-      "key": "kekeys",
+		{
+			"key": "XBPQ_耐看影院",
+			"name": "🌤┃耐看影院|XB",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"简介": "line-height: 20px;\"><p>&&</p>",
+				"导演": "导演：&&</div>",
+				"主演": "主演：&&</div>",
+				"影片类型": "module-info-tag\">&&立即播放",
+				"影片状态": "集数：&&</div>",
+				"数组": "<a&&/div></div></a>",
+				"标题": "title=\"&&\"",
+				"副标题": "note\">&&</div>",
+				"图片": "data-original=\"&&\"",
+				"链接": "href=\"&&\"",
+				"搜索url": "/nk/-------------.html?wd={wd}",
+				"搜索数组": "module-card-item-class\">&&</a>",
+				"搜索标题": "alt=\"&&\"",
+				"搜索副标题": "note\">&&</div>",
+				"搜索图片": "data-original=\"&&\"",
+				"搜索链接": "href=\"&&\"",
+				"线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+				"线路标题": "🌸+<span>&&</small>[替换:</span><small>>>>⚡️共]+集",
+				"播放数组": "<div class=\"module-play-list-content&&</div>",
+				"播放标题": "<span>&&</span>",
+				"播放列表": "<a&&</a>",
+				"分类url": "https://nkvlog.com/show/{cateId}--{by}------{catePg}---{year}.html",
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+			}
+		},
+		
+		
+		{
+			"key": "csp_XBPQ_03影视",
+			"name": "🌼03影视┃XB",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"副标题": "<span>&&<",
+				"简介": "<p>&&</p>",
+				"线路数组": "onClick=\"setTab('tab8'&&/li>",
+				"线路标题": ">&&<",
+				"播放数组": "<ul><li id=&&</div",
+				"播放列表": "<a&&/a>",
+				"分类url": "https://www.03yy.co/{cateId}-{catePg}.html",
+				"分类": "豆瓣电影Top250$topiclist/1#奥斯卡最佳影片$topiclist/17#网飞专场$topiclist/24#热映电影$topiclist/25#动作片$type/index5#喜剧片$type/index10#爱情片$type/index6#科幻片$type/index7#恐怖片$type/index8#战争片$type/index9#剧情片$type/index12#动画片$type/index25#大陆剧$type/index13#欧美剧$type/index27#韩国剧$type/index26#香港剧$type/index14#台湾剧$type/index46#日本剧$type/index16#泰国剧$type/index47#海外剧$type/index28#大陆动漫$type/index33#日韩动漫$type/index34#欧美动漫$type/index35#少儿动画$type/index64#大陆综艺$type/index29#港台综艺$type/index30#日韩综艺$type/index31#欧美综艺$type/index32#经典韩剧（国语）$topiclist/19#经典港剧（粤语）$topiclist/18#经典美剧（英语）$topiclist/21"
+			}
+		},
+		
+		
+		{
+			"key": "csp_XBPQ_即看影视",
+			"name": "3⃣️即看┃超清┃XB",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"主页url": "https://www.jkv.app/",
+				"数组": "class=\"vodlist_thumb lazyload\"&&</a",
+				"图片": "data-background-image=\"&&\"",
+				"标题": "title=\"&&\"",
+				"链接": "href=\"&&\"",
+				"嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
+				"过滤词": "/hls/#php",
+				"副标题": "<span class=\"pack_tagtext\">&&</span>",
+				"搜索url": "https://www.jkv.app/search/-------------.html?wd={wd}",
+				"搜索模式": "1",
+				"搜索数组": "<a class=\"vodlist_thumb lazyload\"&&</li>",
+				"搜索图片": "data-background-image=\"&&\"",
+				"搜索标题": "title=\"&&\"",
+				"搜索链接": "href=\"&&\"",
+				"搜索副标题": "<span class=\"xszxj text_right\">&&</span>",
+				"搜索后缀": "/view/",
+				"线路数组": "href=\"javascript:void(0);\"&&</a>",
+				"线路标题": "alt=\"&&\"",
+				"播放数组": "class=\"content_playlist list_scroll clearfix&&</ul>",
+				"影片年代": "上映时间：&&</li>",
+				"影片类型": "地区：&&</li>",
+				"影片状态": "语言：&&</li>",
+				"导演": "导演：&&</li>",
+				"主演": "主演：&&</li>",
+				"简介": "<div class=\"content_desc context clearfix\"&&</span>",
+				"播放列表": "<a&&/a>",
+				"播放标题": ">&&<",
+				"播放链接": "href=\"&&\"",
+				"免嗅": "0",
+				"分类url": "https://www.jkv.app/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+				"分类": "电影$1#连续剧$2#动漫$4#综艺$3#儿童$58#短剧$53"
+			}
+		},
+		
+		{
+			"key": "csp_XBPQ_唐人",
+			"name": "🧿唐人┃xb",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"分类url": "https://www.trjvod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+				"分类": "电影$1#连续剧$2#动漫$4#综艺$3#体育$59#短剧$53"
+			}
+		},
+		
+		{
+			"key": "csp_XBPQ_iysdq",
+			"name": "🧿影院┃xb",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+				"分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"
+			}
+		},
+		
+		
+		{
+			"key": "csp_XBPQ_CY影视",
+			"name": "🌤┃CY影视┃XB",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+				"分类url": "http://movie.yzcyj.net/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$32"
+			}
+		},
+		
+	
+   {"key": "kimivod","name": "柯觅┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"图片": "data-src=\"&&\"","副标题": "<div class=\"absolute right bottom small-margin small-round black white-text small-text\">&nbsp;&&&nbsp;",
+        "影片地区": "X接口",
+        "影片类型": "<nav class=\"scroll no-margin\"&&</nav>",
+        "导演": "導演:&&</a>",
+        "主演": "主演:&&</p>",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+<p style=\"position: relative; display: inline-block;\"&&</div>",
+        "线路数组": "<a data-ui=\"&&</div>",
+        "线路标题": ">&&</span>",
+        "分类url": "https://kimivod.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$2#电视剧$1#动漫$3#综艺$4#短剧$39"}},
+	{"key":"csp_XBPQ_555","name":"🍚555(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"站名":"555影视","主页url":"https://www.zxk555.com/","简介":"video-info-item video-info-content vod_content\"&&</div>","导演":"导演：&&</div>","主演":"主演：&&</div>","影片状态":"集数：&&</div>","影片类型":"module-info-tag\">&&立即播放","数组":"<a&&</div></div></a>","标题":"title=\"&&\"","副标题":"note\">&&</div>","图片":"data-original=\"&&\"","链接":"href=\"&&\"","线路数组":"data-dropdown-value=&&</div>[不包含:新浪线路#无尽线路#天空线路#红牛线路#DM线路][排序:珊瑚蓝光]","线路标题":"<span>&&</small>[替换:555蓝光>>珊瑚蓝光#</span><small>>>共]+集","播放数组":"<div class=\"module-play-list-content&&</div>","播放标题":"<span>&&</span>","播放列表":"<a&&</a>","分类url":"https://www.zxk555.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak","分类":"电影$1#电视剧$2#综艺纪录$3#动漫$4"}},	
+		
+		
+		{
+			"key": "csp_XBPQ_韩剧7",
+			"name": "💫┃韩剧网┃XB",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+				"分类": "韩剧$hanju#韩国电影$movie#综艺$zongyi",
+				"分类url": "https://m.9hanju.com/{cateId}/{catePg}",
+				"数组": "<div class=\"pic\">&&</li>",
+				"图片": "data-src=\"&&\"",
+				"标题": "title=\"&&\"",
+				"副标题": "class=\"sBottom\">&&<",
+				"链接": "href=\"&&\"",
+				"状态": "color:gray\">&&<",
+				"导演": "grayColor\">/</i>&&<",
+				"主演": "detail_latest\">&&<",
+				"简介": "<p>&&<",
+				"播放数组": "numList clearfix numlist3\" >&&</div>",
+				"播放列表": "<a&&/a>",
+				"播放标题": ">&&<",
+				"播放链接": "href='&&'",
+				"搜索url": "https://m.hanju7.com/e/search/?searchget=1&show=title&keyboard={wd}",
+				"搜索模式": "1",
+				"搜索二次截取": "",
+				"搜索数组": "class=\"pic\">&&</li>",
+				"搜索图片": "src=\"&&\"",
+				"搜索标题": "class=\"sTit\">&&<",
+				"搜索链接": "href=\"&&\""
+			}
+		},
+		
+		
+		
+	{"key": "kekeys",
       "name": "📽可可影视",
       "type": 3,
       "api": "csp_XBPQ",
@@ -1494,7 +1686,32 @@
 				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
 			}
 		},
-		
+		 {
+            "key": "卫总影院",
+            "name": "🌙卫总|影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ2.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "数组": "myui-vodlist__thumb lazyload&&</a",
+                "副标题": "pic-text text-right\">&&</span",
+                "简介": "剧情介绍</h3>&&<div class=\"myui-panel myui-panel-bg clearfix",
+                "线路数组": "<li><a href=\"\\#playlist&&</li",
+                "线路标题": ">&&</a",
+                "播放数组": "<ul class=\"myui-content__list sort-list&&</ul",
+                "跳转播放链接": "var now=\"&&\"",
+                "搜索数组": "lazyload\"&&</a",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "搜索url": "https://wzznl.buzz/search.php?page={pg}&searchword={wd}&searchtype=",
+                "分类url": "https://wzznl.buzz/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
+                "分类": "电影$1#电视剧$2#18禁$11#动漫$4#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#综艺$3#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
+            }
+        },
 		
 
 		
@@ -1529,7 +1746,7 @@
 		},
 		{
 			"key": "Aries不承担任何风险-短剧网",
-			"name": "👕网网┃短剧",
+			"name": "👕网网┃短剧-已失效",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./lib/xyqxbpq.jar",
