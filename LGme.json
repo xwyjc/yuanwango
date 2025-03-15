@@ -758,10 +758,10 @@
 	"ext":{
 	   "主页url": "https://javp1.cc/",
       
-        "数组": "<a&&</span></div></div></div></a>",
-        "图片": "data-src=\"&&\"",
-        "标题": "class=\"desc\"&&</div>",
-        "副标题": "class=\"read\">&&</li>",
+       // "数组": "<a&&</span></div></div></div></a>",
+        //"图片": "data-src=\"&&\"",
+        //"标题": "class=\"desc\"&&</div>",
+        //"副标题": "class=\"read\">&&</li>",
 	"线路数组":"class=\"play-btn\"&&/a>",
 	"线路标题":">&&</a>",
 	"播放数组":"class=\"play-plays-list&&</ul>",
