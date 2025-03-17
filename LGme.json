@@ -355,31 +355,6 @@
   
   
   
-
-  
-  
-   {
-      "key": "SMTV",
-      "name": "好色TV-hsex",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/XBPQ.jar",
-      "api": "csp_XBPQ",
-      "ext": {
-        "直接播放": "1",
-        "数组": "class=\"thumbnail\">&&</div>",
-        "图片": "style=\"background-image: url('&&')\"",
-        "链接": "href=\"&&\"",
-        "链接前缀": "https://hsex.icu/",
-        "搜索url": "https://hsex.icu/search.htm?search={wd}&sort=new",
-        "分类": "周榜$top7#月榜$top#5分钟$5min#10分钟$long",
-        "分类url": "https://hsex.icu/{cateId}_list-{catePg}.htm;;RC"
-      }
-    },
-  
   
 
    {
@@ -396,9 +371,7 @@
         "图片": "class=\"w-full h-full\"&&src=\"&&\"",
         "链接": "data-url=\"&&\"",
         "分类": "会所探花$160#乱伦换妻$166#中文字幕$165#黑料吃瓜$161#东南亚片$163#福利姬$162#港台三级$157#日韩三级$158#欧美三级$159#无码AV$168#成人综艺$167#国产精选$170#91制片厂$139#其它传媒$141#果冻传媒$140#麻豆传媒$142",
-        "分类url": "https://sex166.net/video?cid={cateId}&page={catePg}"
-	   //"分类url": "https://sex166.net/video-cid/{cateId}.html?page={catePg}"
-           }
+        "分类url": "https://sex166.net/video?cid={cateId}&page={catePg}"}
     },
 
     {
