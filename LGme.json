@@ -651,7 +651,7 @@
     
 			 
 		{"key":"duominiao","name":"多米尼奥","type":3,"api":"csp_XBPQ",
-		"searchable":1,"quickSearch":1,"filterable":1, "jar": "./lib/XBPQ.jar",
+		"searchable":1,"quickSearch":1,"filterable":1, 
 		"ext":
 		{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8",
         "主页url":"https://dmnio.com/dmnshow/20-----------.html",
@@ -678,7 +678,7 @@
 		
 
 		{"key":"xijingren","name":"西京热","type":3,"api":"csp_XBPQ",
-		 "jar": "./lib/XBPQ.jar",
+		
 		"searchable":1,"quickSearch":1,"filterable":1,"ext":{
          "请求头": "User-Agent$MOBILE_UA","编码": "UTF-8",
 
