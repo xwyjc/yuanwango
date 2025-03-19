@@ -46,6 +46,18 @@
     },
 	
 	
+	  {
+      "key": "apidanaizi",
+      "name": "🔞大奶子资源网",
+      "type": 0,
+      "api": "https://apidanaizi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	
+	
+	
 		{
       "key": "X细胞资源网1",
       "name": "🔞X细胞资源网A",
