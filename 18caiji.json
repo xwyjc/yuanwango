@@ -48,7 +48,7 @@
 	
 	  {
       "key": "apidanaizi",
-      "name": "🔞大奶子资源网",
+      "name": "🔞大奶子",
       "type": 0,
       "api": "https://apidanaizi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -528,8 +528,8 @@
 	{
       "key": "草榴",
       "name": "🔞采集.草榴综合资源",
-      "type": 1,
-      "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/",
+      "type": 0,
+      "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/xml/",
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
