@@ -355,6 +355,33 @@
   
   
   
+    {
+            "key": "https://041.bndmpsjx.com/new",
+            "name": "🔞91JAV-热门推荐",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://041.bndmpsjx.com/new",
+                "过滤词": ".mp4",
+                "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
+                "图片": "data-src=\"&&\"",
+				"图片代理":"1",
+                "标题": "<h6 class=\"title\">&&</a>",
+                "副标题": "class=\"label\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "⚠️慢点撸，皮要掉了！！！",
+                "分类url": "https://041.bndmpsjx.com/popular/{cateId}/{catePg};;z",
+                "分类": "所有$all#本月$month#本周$week#今日$today"
+            }
+        },
+  
+  
+  
   
 
    {
