@@ -859,7 +859,9 @@
 
 
       
-{"key":"avxxx","name":"avxxx.top","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+{"key":"avxxx","name":"avxxx.top","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar",
+"searchable":1,"quickSearch":1,"filterable":1,
+"ext":{
 "主页url":"https://avxxx.avxxx11.xyz/avxxx/",
 
 "数组":"<a class=\"thum&&</a></h5>",
