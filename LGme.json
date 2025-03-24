@@ -165,6 +165,38 @@
       }
     },
 	
+	 {
+          "key": "lijAV",
+            "name": "🔞LiJAV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://lijav.com/",
+                //"过滤词": ".mp4",
+                "数组": "\"grid_2_cell\"&&\"video_grid_overlays_preview_icon\"",
+                "图片": "data:image/svg+xml;utf8;base64,&&",
+                "标题": "class=\"grid_2_title\">&&</div>",
+				//"标题": "href=\"*\">&&</a>",
+                "副标题": "class=\"grid_2_date\">&&</div>",
+                "链接": "href=\"&&\"",
+                "简介": "⚠️慢点撸，皮要掉了！！！",
+				"播放数组":"<div>播放器<!-- -->(<!-- -->&&<!-- -->)</div>",
+				 "直接播放": "1",
+				
+                "分类url": "https://lijav.com/{cateId}?page={catePg};;z",
+                "分类": "youma$censored#wuma$uncensored#中文字幕$chinese-sub"
+            }
+        },
+	
+	
+	
+	
+	
 	
      {
           "key": "13AV",
@@ -1243,28 +1275,6 @@
     },
 	
 	
-				
-{"key":"i18av","name":"I18AV","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar",
-"searchable":1,"quickSearch":1,"filterable":1,"ext":{
-"主页url":"https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/oaoaoa/",
-"数组":"class=\"thumbnail\"&&</a></h5>",
-//"数组":"<a&&</a>",
-"图片":"src=\"&&\"",
-"标题":"alt=\"&&\"",
-"副标题":" <p>&&</p>",
-"链接":"href=\"&&\"",
-"线路数组":"detail-tab ff-playurl-tab detail-tab-zt clearfix\">&&</i>",
-"线路标题":"<a>&&</a>",
-//"线路数组":"<div class=\"video-info\">&&\">",
-//"线路标题":"title=\"&&",
-"播放数组":"<ul class=\"detail-play-list clearfix &&</li>",
-"播放列表":"<a&&/a>",
-"播放标题":">&&<",
-"播放链接":"href=\"&&\"",
-"简介":"<ul class=\"detail-actor clearfix\">&&VIP[替换:</li>>>💞]",
-"搜索url":"https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/vodsearch/----------{pg}---/?wd={wd}",
-"分类":"中文字幕$52#日本无码$50#日本有码$51#国产情色$49#强奸乱伦$55#童颜巨乳$59",
-"分类url":"https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/vodtype/{cateId}-{catePg}/[https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/vodtype/{cateId}/]"}},
 
 
     {"key":"房中秘术","name":"房中秘术","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{
