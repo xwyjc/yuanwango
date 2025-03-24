@@ -170,7 +170,7 @@
             "name": "🔞LiJAV",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
+           // "jar": "./lib/XBPQ.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
@@ -185,11 +185,11 @@
                 "副标题": "class=\"grid_2_date\">&&</div>",
                 "链接": "href=\"&&\"",
                 "简介": "⚠️慢点撸，皮要掉了！！！",
-				"播放数组":"<div>播放器<!-- -->(<!-- -->&&<!-- -->)</div>",
+				//"播放数组":"<div>播放器<!-- -->(<!-- -->&&<!-- -->)</div>",
 				 "直接播放": "1",
 				
                 "分类url": "https://lijav.com/{cateId}?page={catePg};;z",
-                "分类": "youma$censored#wuma$uncensored#中文字幕$chinese-sub"
+                "分类": "马赛克$censored#🈚️ 🐎$uncensored#🀄️文字幕$chinese-sub"
             }
         },
 	
