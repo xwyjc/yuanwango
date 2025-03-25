@@ -971,12 +971,38 @@
         "ratio": 1.7
       },
       "ext": {
-        "搜索链接": "http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
+        "搜索链接": "https://www.aidubin.com/vodsearch/{wd}----------{catePg}---/",
         "数组": "\"box-item\"&&</em>",
         "副标题": "<strong>&&</strong>",
         "分类数组": "<li>&&</li>",
         "分类标题": "\">&&</a",
         "分类ID": "id/&&.",
+        "分类链接": "https://www.aidubin.com/vodtype/{cateId}-{catePg}/;;mz"
+      }
+    },
+	
+	
+	
+	  
+    {
+      "key": "aidubin.com",
+      "name": "🔞甜蜜蜜㊙️㊙",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "style": {
+        "ratio": 1.7
+      },
+      "ext": {
+        "搜索链接": "http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
+        "数组": "\"box-item\"&&</em>",
+		"图片":"src=\"&&\"",
+        "标题":"title=\"&&\"",
+        "链接":"href=\"&&\"",
+        "副标题": "<span>&&</span>",
+         "分类数组": "<a&&/a>",
+        "分类标题": ">&&<",
+        "分类ID": "/vodtype/&&/",
         "分类链接": "http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz"
       }
     },
