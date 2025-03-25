@@ -195,7 +195,7 @@
 	
 	
 	{
-          "key": "lijAV",
+          "key": "LiJAV合集",
             "name": "🔞LiJAV合集",
             "type": 3,
             "api": "csp_XBPQ",
@@ -207,7 +207,7 @@
             "ext": {
                 "主页url": "https://lijav.com/",
                 //"过滤词": ".mp4",
-                "数组": "\"grid_2_cell\"&&\"grid_2_cell\"",
+                "数组": "\"grid_2_cell\"&&\"video_grid_overlays_preview_icon\"",
                 "图片": "data:image/svg+xml;utf8;Base64((&&)",
                 "标题": "class=\"grid_2_title\">&&</div>",
 				//"标题": "href=\"*\">&&</a>",
