@@ -218,8 +218,8 @@
 				 "直接播放": "1",
 				
                 "分类url": "https://lijav.com/all?genre={cateId}&page={catePg};;z",
-                 "分类数组": "<a&&</a>",
-                 "分类标题": "<div>&&</div",
+                 "分类数组":"genre_item&&</a>",
+                 "分类标题": "<div>&&</div>",
                  "分类ID": "/all?genre=&&"
             }
         },
