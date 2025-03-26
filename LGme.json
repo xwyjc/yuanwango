@@ -810,6 +810,7 @@
     {"key":"xhc",
 	"name":"🔞AV小兄弟👬",
 	"type":3,
+	 "jar": "./lib/xyqxbpq.jar",
 	"api":"csp_XBPQ",
 	"ext":{
 	   "主页url": "https://javp1.cc/",
@@ -833,7 +834,7 @@
      {"key":"avbro",
 	"name":"🔞AV大兄弟👬",
 	"type":3,
-	 "jar": "./wyog2.jar",
+	"jar": "./wyog2.jar",
 	"api":"csp_XBPQ",
 	"ext":{
 	"主页url": "https://avbro.xyz/", 
@@ -844,9 +845,12 @@
 	 "标题": "title=\"&&\"",
    "副标题": "hl-lc-1 remarks\"&&</span>",
    "线路数组": "iconfont hl-icon-tongzhi\"></i>&nbsp&&/span>",
-   "线路标题": "&&<[替换:&nbsp;LJ>>&nbsp;SL]",
+   "线路标题": "&&<[替换:LJ>>SL]",
    "线路二次截取": "<div class=\"hl-plays-from hl-tabs swiper-wrapper clearfix\"&&</div>",
    "播放数组":"class=\"h1-plays-list&&</ul>",
+   "播放列表":"<a&&/a>",
+	"播放标题":"</em>&&<",
+	"播放链接":"href=\"&&\"",
 	//"跳转播放链接":"varurlDecode(var player_*url\":\"&&\")",
 	"分类url":"https://avbro.xyz/vodshow/{cateId}--{by}---{letter}---{catePg}---/",
 	"分类":"人妻$31#素人$44#日本中字$51#日本无码$22#日本有吗$21#中字$28"}},
@@ -877,7 +881,7 @@
 
     {
       "key": "指间的黑客",
-      "name": "金陵撸铁汉😅",
+      "name": "🎞️金陵撸铁汉😅",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/xyqxbpq.jar",
