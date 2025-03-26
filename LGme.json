@@ -837,10 +837,10 @@
 	"ext":{
 	"主页url": "https://avbro.xyz/", 
  
-   "数组": "hl-item-thumb hl-lazy\"&&</a>",
+   "数组": "class=\"hl-list-item&&</div></a>",
     "图片": "data-original=\"&&\"",
 	"链接": "href=\"&&\"",
-	
+	 "标题": "title=\"&&\"",
    "副标题": "hl-lc-1 remarks\"&&</span>",
    "线路数组": "iconfont hl-icon-tongzhi\"></i>&nbsp&&/span>",
    "线路标题": "&&<[替换:&nbsp;LJ>>&nbsp;SL]",
