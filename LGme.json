@@ -926,6 +926,8 @@
 "标题":"title=\"&&\"",
 //"链接":"href=\"&&\"",
 "链接":"https://avxxx.avxxx11.xyz/avxxx/index.php/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
+ "跳转播放链接": "var player_*\"url\":\"&&\"",
+  "直接播放": "1",
 //"线路数组":"<ul class=\"detail-tab&&</ul>",
 //"线路标题":"<a>&&</a>",
 //"播放数组":"<ul class=\"detail-play-list clearfix&&</li>",
