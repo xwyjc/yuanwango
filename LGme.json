@@ -833,6 +833,7 @@
      {"key":"avbro",
 	"name":"🔞AV大兄弟👬",
 	"type":3,
+	 "jar": "./wyog2.jar",
 	"api":"csp_XBPQ",
 	"ext":{
 	"主页url": "https://avbro.xyz/", 
