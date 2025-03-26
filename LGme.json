@@ -837,7 +837,7 @@
 	"ext":{
 	"主页url": "https://avbro.xyz/", 
  
-   "数组": "class=\"hl-list-item&&</div></a>",
+   "数组": "<li class=\"hl-list-item&&</a>",
     "图片": "data-original=\"&&\"",
 	"链接": "href=\"&&\"",
 	 "标题": "title=\"&&\"",
