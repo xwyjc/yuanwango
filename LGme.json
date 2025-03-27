@@ -12,7 +12,7 @@
     },
 	
 {"key":"问天影院",
-"name":"问天影院",
+"name":"🎬问天影院🎬",
 "type":3,
 "api":"csp_XBPQ",
 "searchable":1,
@@ -30,7 +30,7 @@
 
 	   {
       "key": "快活影網",
-      "name": "🔞快活┃影视🎬",
+      "name": "😄快活┃影视😄",
       "type": 3,
        "api": "csp_XBPQ",
       "jar": "./lib/o.jar",
@@ -54,7 +54,7 @@
 	
 	    {
       "key": "快影網",
-      "name": "🔞色苹果┃影视🍎",
+      "name": "🍎色苹果┃影视🍎",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/o.jar",
@@ -77,7 +77,7 @@
 	
 	    {
       "key": "129av",
-      "name": "🔞129av┃影视🔌",
+      "name": "🌟129av┃影视🌟",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/o.jar",
@@ -99,7 +99,7 @@
 	
 	    {
       "key": "125av",
-      "name": "🔞125av┃影视",
+      "name": "📹125av┃影视📹",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/o.jar",
@@ -122,7 +122,7 @@
 	
 	    {
       "key": "128av",
-      "name": "🔞128av┃影视",
+      "name": "📹128av┃影视📹",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/o.jar",
@@ -146,7 +146,7 @@
 	
 	{
       "key": "jap影網",
-      "name": "🔞1av┃影视",
+      "name": "📹1av┃影视📹",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/o.jar",
@@ -166,7 +166,7 @@
     },
 	
 	 { "key": "lijAV",
-            "name": "🔞LiJAV🎈",
+            "name": "🏃‍♀️LiJ😍😍",
             "type": 3,
             "api": "csp_XBPQ",
            "jar": "./lib/XBPQ.jar",
@@ -200,7 +200,7 @@
 	
      {
           "key": "13AV",
-            "name": "🔞13AV-主题分类",
+            "name": "13😍-主题分类😔",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -226,7 +226,7 @@
   
     {
             "key": "13AV b",
-            "name": "🔞13AV-B",
+            "name": "13😍-🎫",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -251,7 +251,7 @@
   
   {
             "key": "13AV c",
-            "name": "🔞13AV-影片专题",
+            "name": "13😍-影片专题",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -274,7 +274,7 @@
         },
   {
             "key": "13AV d",
-            "name": "🔞13AV-分类集合",
+            "name": "13😍-分类集合",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -307,7 +307,7 @@
   
    {
             "key": "wantav",
-            "name": "🔞wantav-A",
+            "name": "want😍-A",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -333,7 +333,7 @@
   
   {
             "key": "wantavb",
-            "name": "🔞wantav-热门",
+            "name": "want😍-热门",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -359,7 +359,7 @@
   
        {
             "key": "wantavc",
-            "name": "🔞wantav-分类",
+            "name": "want😍-分类",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -389,7 +389,7 @@
   
     {
             "key": "https://041.bndmpsjx.com/new",
-            "name": "🔞91JAV-热门推荐",
+            "name": "91J😍-热门推荐",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -418,7 +418,7 @@
 
    {
     "key": "sqhub",
-    "name": "好色TV-sex166",
+    "name": "😍📺😍166",
     "type": 3,
     "api": "csp_XBPQ",
     "jar": "./lib/XBPQ.jar",
@@ -433,52 +433,12 @@
         "分类url": "https://sex166.net/video?cid={cateId}&page={catePg}"}
     },
 
-    {
-        "key": "AV影院",
-        "name": "AV影院A",
-        "type": 3,
-        "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
-
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-            "图片": "data-src=\"&&\"",
-            "标题": "title=\"&&\"",
-            "链接": "href=\"&&\"",
-            "主页url": "https://wyaslcwgroup.cfd/",
-            "分类": "国产视频$1#主播$2#黑料$3#中文$6#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本有码$8#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16",
-            "分类url": "https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html"
-        }
-    },
-	
-	 {
-      "key": " AV影院",
-      "name": " AV影院B",
-      "type": 3,
-      "jar": "./lib/XBPQ.jar",
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "语言": "中文",
-        "请求头": "手机",
-        "图片": "data-src=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "主页url": "https://wyaslcwgroup.cfd/",
-        "分类": "国产视频$1#主播$2#黑料$3#中文$6#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本有码$8#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16",
-        "分类url": "https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html"
-      }
-    },
 	
 	
 	
 	{
       "key": "av影视",
-      "name": "av影视C",
+      "name": "😍影视🎬",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -495,7 +455,7 @@
     },
 
 	  {"key":"采集狗头合集",
-       "name":"🏆狗头🐶AV",
+       "name":"🐶狗头采集🐶😍",
        "type":3,
        "api":"csp_XBPQ",
        "filterable": 1,
@@ -540,7 +500,7 @@
     
     {
             "key": "绝美视频",
-            "name": "🔞绝美视频",
+            "name": "📹绝美视频📹",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -558,7 +518,7 @@
   
        {
       "key": "JAVSB",
-      "name": "🔞JAVSB",
+      "name": "👨JAVSB👨",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -575,7 +535,7 @@
     },
     {
       "key": "JAVDAY",
-      "name": "🔞JAVDAY",
+      "name": "🌳JAVDAY🌳",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -594,7 +554,7 @@
     },
    {
       "key": "Eighteen",
-      "name": "🔞Eighteen┃科学",
+      "name": "Eighteen┃科学📚",
       "type": 3,
       "api": "csp_Eighteen",
       "searchable": 1,
@@ -609,7 +569,7 @@
    
     {
       "key": "肉视频",
-      "name": "🔞肉視頻|XBPQ",
+      "name": "📹肉視頻|XBPQ📹",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -622,7 +582,7 @@
  
     {
       "key": "18AV",
-      "name": "🔞18AV┃科学",
+      "name": "18😍┃科学📚",
       "type": 3,
       "api": "csp_Eighteen",
       "searchable": 1,
@@ -636,7 +596,7 @@
   
    {
       "key": "Jable",
-      "name": "🔞Jable┃科学",
+      "name": "📚Jable┃科学📚",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "type": 3,
       "api": "csp_Jable",
@@ -649,76 +609,8 @@
       }
     },
   
-    {
-      "key": "51黑料福利社",
+   
 
-      "name": "51黑料福利社",
-
-      "type": 3,
-
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 1,
-
-      "ext": {
-        "发布地址": "https://51heiliaofulishe.com",
-
-        "主页url": "https://51heiliaofulishe.com/ko",
-
-        "数组": "class=\"item-box\">&&</a",
-
-        "图片": "src=\"&&\"",
-
-        "副标题": "<!-- <small>&&</small> -->",
-
-        "简介": "description\" content=\"&&|全站免费",
-
-        "链接": "https://51heiliaofulishe.com/v/+href=\"/voddetail/&&/\"+/",
-
-        "搜索模式": "1",
-
-        "搜索url": "https://51heiliaofulishe.com/s/page/{pg}/wd/{wd}/",
-
-        "分类数组": "<a&&/a",
-
-        "分类标题": ">&&<",
-
-        "分类ID": "/t/&&/",
-       //"分类url": "https://51heiliaofulishe.com/label/sort999/{cateId}-{catePg}/;;z"
-        "分类url": "https://51heiliaofulishe.com/t/{cateId}-{catePg}/;;z"
-      }
-    },
-
-     {
-      "key": "黑料",
-      "name": "💢黑料💢",
-      "type": 3,
-      "api": "csp_XBPQ",      
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-      "发布地址": "https://hl31.co/",
-      "直接播放": "1",
-      "免嗅": "1",
-      "数组": "<li class=\"nav-item \" data-v-647adc3a&&</a>",
-      "图片": "onload=\"loadImg(this,'&&')\"",
-      "标题": "title\" data-v-647adc3a>&&</div>",
-      "副标题": "ishot\" data-v-647adc3a>&&</div>",
-      "链接": "href=\"&&\"",
-      "播放数组": "<div class='dplayer&&</div>",
-      "播放列表": "'{&&}'",
-      "播放链接": "\"url\":\"&&\"",
-      "分类url": "https://1gca.iemixovyt.com/category/{cateId}/{catePg}.html",
-      "分类": "独家爆料&网红明星&反差女友&校园政坛&性爱课堂&奇闻异事&热点吃瓜&今日黑料&经典大瓜&黑料历史&每日热瓜",
-      "分类值": "9&1&4&2&12&3&7&6&8&10&11"
-   }
-    },
-	
 	
 
     {
@@ -869,7 +761,7 @@
 
 
    { "key": "36D蜜桃臀", 
-     "name": "🔞36D蜜桃臀🍑", 
+     "name": "🍑36D蜜桃臀🍑", 
      "type":3,
      "api":"csp_XBPQ",  
      "searchable": 1,
@@ -980,7 +872,7 @@
   
     {
       "key": "糖心",
-      "name": "🔞糖心次元💲",
+      "name": "🍬糖心次元🍬",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -998,7 +890,7 @@
 
     {
       "key": "天美",
-      "name": "🔞天美|doll🐶",
+      "name": "💃天美|doll🐶",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1021,7 +913,7 @@
 	  
     {
       "key": "aidubin.com",
-      "name": "🔞甜蜜蜜㊙️㊙",
+      "name": "😄甜蜜蜜㊙️㊙",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1071,7 +963,7 @@
   
     {
       "key": "农夫与蛇",
-      "name": "🔞农夫👨‍🌾与蛇🐍",
+      "name": "农夫👨‍🌾与蛇🐍",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1093,7 +985,7 @@
 
     {
       "key": "SOAV",
-      "name": "🔞SOAV🐿",
+      "name": "🐿SOAV🐿",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1139,7 +1031,7 @@
 
     {
       "key": "AVMobTV",
-      "name": "🔞 AVMobTV🚿",
+      "name": "🐿AVMobTV🚿",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1261,7 +1153,7 @@
 
     {
       "key": "19麻豆",
-      "name": "🔞台湾传媒 全🪜",
+      "name": "🍇台湾传媒 全🍇",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1285,7 +1177,7 @@
     },
     {
       "key": "Gxqvlj",
-      "name": "🔞色花堂🌸|在线",
+      "name": "🌸色花堂🌸|在线",
       "type": 3,
       "api": "csp_XBPQ",
       "changeable": 0,
@@ -1309,7 +1201,7 @@
         "分类url": "https://10gaokk.com/typegaokk/{cateId}_{catePg}.html[https://10gaokk.com/typegaokk/{cateId}.html]",
         "分类":"推荐视频$5#强奸乱伦$17#日韩亚洲$2#巨乳颜射$7#中文字幕$4#口交自慰$8#制服淫穴$9#日韩无码$11#精品女优$18#人妻系列$19#极骚萝莉$20#HEYZO$21#独家诱惑$22#高潮吹$24#三级综艺$12#首次少女$23"}},
 	 
-
+   
     {
       "key": "我爱AV",
       "name": "我爱AV社区|WO❤️AV",
@@ -1429,7 +1321,7 @@
 	
 	 {
       "key": "JAVBAR",
-      "name": "🔞JAVBAR🐟",
+      "name": "🐟JAVBAR🐟",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1531,7 +1423,7 @@
 
     {
       "key": "色最色",
-      "name": "🔞色最色😍",
+      "name": "😍最😍",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1545,7 +1437,7 @@
     },
     {
       "key": "亚色影库",
-      "name": "🔞亚瑟影库😔",
+      "name": "😍亚瑟影库😔",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
