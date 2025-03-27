@@ -494,6 +494,21 @@
       }
     },
 
+	  {"key":"采集狗头合集",
+       "name":"🏆狗头🐶AV",
+       "type":3,
+       "api":"csp_XBPQ",
+       "filterable": 1,
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/XBPQ/最新.jar",
+       "ext":{
+       "分类url":"https://4g.goutouav5.cc/goutou/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+       "直接播放":"1",
+       "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+       "分类":"黄瓜资源&GG资源&仓库资源&百万资源&奥斯卡资源&玉兔",
+       "分类值":"86&225&206&214&119&244"}
+       },
+		
+	
 	
 	
 	
@@ -540,7 +555,7 @@
             }
         },
         
-
+  
        {
       "key": "JAVSB",
       "name": "🔞JAVSB",
@@ -680,7 +695,7 @@
 
      {
       "key": "黑料",
-      "name": "🔞黑料",
+      "name": "💢黑料💢",
       "type": 3,
       "api": "csp_XBPQ",      
       "searchable": 1,
@@ -690,10 +705,10 @@
       "发布地址": "https://hl31.co/",
       "直接播放": "1",
       "免嗅": "1",
-      "数组": "<div class=\"video-item \" data-v-a51695bc&&</a>",
+      "数组": "<li class=\"nav-item \" data-v-647adc3a&&</a>",
       "图片": "onload=\"loadImg(this,'&&')\"",
-      "标题": "title\" data-v-a51695bc>&&</div>",
-      "副标题": "ishot\" data-v-a51695bc>&&</div>",
+      "标题": "title\" data-v-647adc3a>&&</div>",
+      "副标题": "ishot\" data-v-647adc3a>&&</div>",
       "链接": "href=\"&&\"",
       "播放数组": "<div class='dplayer&&</div>",
       "播放列表": "'{&&}'",
@@ -708,7 +723,7 @@
 
     {
       "key": "农夫与少妇",
-      "name": "🧑‍🌾农夫┃少妇",
+      "name": "🧑‍🌾农夫┃少妇👩",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/xyqxbpq.jar",
@@ -724,7 +739,7 @@
 
     {
       "key": "乐哥特供-色优酷AV",
-      "name": "👍优酷┃AV",
+      "name": "👍优酷┃AV👍",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/xyqxbpq.jar",
@@ -741,7 +756,7 @@
 
     {
       "key": "乐哥特供-婶婶影视",
-      "name": "👩‍💼婶婶┃影视",
+      "name": "👩‍💼婶婶┃影视‍‍💼",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/xyqxbpq.jar",
@@ -918,7 +933,7 @@
     },
     {
       "key": "哈哈逍遥",
-      "name": "哈哈逍遥-分区伦理",
+      "name": "👖哈哈逍遥-分区伦理👖",
       "type": 3,
       "jar": "./lib/xyqxbpq.jar",
       "api": "csp_XBPQ",
@@ -935,7 +950,7 @@
 
 
       
-{"key":"avxxx","name":"avxxx.top","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar",
+{"key":"avxxx","name":"👖avxxx👖","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar",
 "searchable":1,"quickSearch":1,"filterable":1,
 "ext":{
 "主页url":"https://avxxx.avxxx11.xyz/avxxx/",
@@ -1110,7 +1125,7 @@
       "filterable": 1,
       "jar": "./lib/XBPQ.jar",
       "ext": {
-        "数组": "class=\"thumbnail group\">&&</div>",
+        "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\">&& </a></div>",
         "图片": "data-src=\"&&\"",
         "标题": "alt=\"&&\"",
         "副标题": "<span class=\"absolute*>&&</span>",
@@ -1358,7 +1373,7 @@
 
     {
       "key": "大白兔AV",
-      "name": "🔞大白兔AV🐰",
+      "name": "🐰大白兔AV🐰",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1438,7 +1453,7 @@
 
     {
       "key": "流氓",
-      "name": "流氓avgle ",
+      "name": "😍流氓avgle😍",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1454,7 +1469,7 @@
 
     {
       "key": "404",
-      "name": "404",
+      "name": "🍇404🍇",
       "type": 3,
       "changeable": 1,
       "searchable": 1,
@@ -1479,7 +1494,7 @@
 
     {
       "key": "Xojav11",
-      "name": "🔞XOJav（翻）",
+      "name": "🪜XOJav🪜",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "type": 3,
       "api": "csp_Xojav",
@@ -1510,7 +1525,7 @@
     },
     {
       "key": "亚色影库",
-      "name": "🔞亚瑟影库",
+      "name": "🔞亚瑟影库😔",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1524,7 +1539,7 @@
     },
     {
       "key": "222cuo",
-      "name": "🔞224cuo",
+      "name": "🆚224cuo✏️",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1543,7 +1558,7 @@
    
     {
       "key": "18j.tv",
-      "name": "🔞18j.tv",
+      "name": "🐔18j.tv🐔",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1566,7 +1581,7 @@
   
     {
       "key": "小幺女",
-      "name": "小幺女",
+      "name": "👧小幺女👧",
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
@@ -1594,7 +1609,7 @@
 
     {
       "key": "airav",
-      "name": "Airav|XBPQ",
+      "name": "🥘Airav|XBPQ🥘",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1611,7 +1626,7 @@
    
     {
       "key": "ppp",
-      "name": "🔞ppp",
+      "name": "🎫ppp🎫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
