@@ -30,7 +30,7 @@
 
 	   {
       "key": "快活影網",
-      "name": "🔞快活┃影视",
+      "name": "🔞快活┃影视🎬",
       "type": 3,
        "api": "csp_XBPQ",
       "jar": "./lib/o.jar",
@@ -54,7 +54,7 @@
 	
 	    {
       "key": "快影網",
-      "name": "🔞色苹果┃影视",
+      "name": "🔞色苹果┃影视🍎",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/o.jar",
@@ -77,7 +77,7 @@
 	
 	    {
       "key": "129av",
-      "name": "🔞129av┃影视",
+      "name": "🔞129av┃影视🔌",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/o.jar",
@@ -1328,9 +1328,9 @@
 	
 
 
-    {"key":"房中秘术","name":"房中秘术","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+    {"key":"房中秘术","name":"🏠房中秘术🏠","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{
 "主页url":"https://c9d0e1f2.fzms54.buzz/topic/",
-"数组":"class=\"thumbnail\"&&</a></h5>",
+"数组":"class=\"thum&&</a></h5>",
 //"数组":"<a&&</a>",
 "图片":"data-original=\"&&\"",
 "标题":">&&</a>",
@@ -1358,7 +1358,7 @@
 
     {
       "key": "大白兔AV",
-      "name": "🔞大白兔AV",
+      "name": "🔞大白兔AV🐰",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1374,7 +1374,7 @@
     },
     {
       "key": "蓝金鱼AV",
-      "name": "🔞蓝金鱼AV",
+      "name": "🔞蓝金鱼AV🐳",
       "type": 3,
       "api": "csp_XBPQ",
       "页面代理": "127.0.0.1:10172",
@@ -1414,7 +1414,7 @@
 	
 	 {
       "key": "JAVBAR",
-      "name": "🔞JAVBAR",
+      "name": "🔞JAVBAR🐟",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -1438,7 +1438,7 @@
 
     {
       "key": "流氓",
-      "name": "流氓avgle",
+      "name": "流氓avgle ",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
