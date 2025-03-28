@@ -41,7 +41,7 @@
                 "主页url": "https://www.jb9551.sbs/",
                 "直接播放": "1",
                 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "数组": "class=\"vod-img\">&&</div></div>",
+                "数组": "class=\"vod\">&&</div></div>",
                 "图片": "data-original=\"&&\"",
                 "标题": "target=\"_blank\">&&</a>",
                 "链接": "href=\"&&\"",
