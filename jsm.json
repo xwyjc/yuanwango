@@ -37,6 +37,20 @@
 	 "分类url":"https://www.2028p.com/sortlist/{cateId}/{by}-{catePg}.html/[https://www.2028p.com/sortlist/{cateId}.html]"}},
 	
 
+	{"key": "https://www.jb9551.sbs/","name": "🏃‍♀JBTV🏃‍♀️","type": 3,"api": "csp_XBPQ","ext": {
+                "主页url": "https://www.jb9551.sbs/",
+                "直接播放": "1",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "数组": "class=\"vod-img\">&&</div></div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "target=\"_blank\">&&</a>",
+                "链接": "href=\"&&\"",
+				"搜索url": "https://www.jb9551.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
+                "分类url": "https://www.jb9551.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+     	    "分类": "国产情色$1#中文字幕$4#日本无码$2#日本有码$3#网红主播$5#动漫$6#欧美$7#国模私拍$8#长腿丝袜$9#邻家人妻$10#三级伦理$11#精品推荐$12"}},
+
+	
+	
 	
 		
 		{
