@@ -181,8 +181,8 @@
           
               // {"key":"MissAV","name":"MissAV①","type":3,"api":"csp_Miss","searchable":1,"filterable":1},
     {
-      "key": "😍Miss😍",
-      "name": "Miss",
+      "key": "Missav",
+      "name": "😍Miss😍",
       "type": 3,
       "api": "csp_Miss",
       "quickSearch": 1,
@@ -244,8 +244,8 @@
             "ext": "proxy4"
         },	
 	{
-            "key": "📀Doll📀",
-            "name": "Doll",
+            "key": "📀Doll",
+            "name": "📀Doll📀",
             "type": 3,
             "api": "csp_Doll",
             "quickSearch": 1,
@@ -297,40 +297,7 @@
 		
 	  
 	  
-	   {
-      "key": "四虎",
-      "name": "💢四虎影院🎬",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "站名": "四虎影院",
-        "主页url": "https://www.4hu.tv/Enter/home.html",
-        "简介": "名称：&&</h3>",
-        "数组": "dt class=\"preview-item\">&&</dd></dl>",
-        "二次截取": "",
-        "图片": "data-original=\"&&.txt\"+.jpg",
-        "标题": "Base64((d('&&'));</script>",
-        "副标题": "",
-        "链接": "href=\"&&\"",
-        "线路数组": "target=\"_blank&&</a[排序:线路二>>]",
-        "线路标题": "Base64(d('&&'));</script>",
-        "播放数组": "item&&</div>",
-        "状态": "分类：</span>&&</p>",
-        "导演": "导演：</span>&&</p>",
-        "主演": "主演：</span>&&</p>",
-        "搜索模式": "1",
-        "搜索url": "https://www.4hu.tv/searchs/index.php?page={pg}&keyboard={wd}&classid=0",
-        "搜索数组": "<dt>&&</dt>",
-        "搜索标题": "_blank\"&&<",
-        "分类": "国产$video#自拍$video/zipai#淫妻作乐$video/fuqi#开放青年$video/kaifang#精品分享$video/jingpin#台湾辣妹$video/twmn#动漫卡通$video/dongman#经典三级$video/sanji#onlyfans主播$onlyfans#女优$av#女性向纯爱$av/nxx#GIGA女战士$av/giga#波多野结衣$av/bdyjy#深田咏美$av/stym#桥本有菜$av/qbyc#苍井空$av/cjk#三上悠亚$av/ssyy#吉泽明步$av/jzmb#电影$movie#无码中字$movie/wuma#SM系列$movie/sm#高清无码$movie/gaoqing#熟女人妻$movie/shunv#美颜巨乳$movie/meiyan#丝袜制服$movie/siwa#中文有码$movie/youma#欧美系列$movie/oumei",
-        "分类url": "https://www.4hu.tv/{cateId}/{class}/index_{catePg}.html[firstPage=https://www.4hu.tv/{cateId}/{class}/]"
-      }
-    },
+	 
 
 	  {
             "key": "csp_XBPQ_花心小妞",
@@ -594,8 +561,8 @@
                    }
 		},    
 		{
-			"key": "🐰AVgle🐰",
-			"name": "️AVgle",
+			"key": "AVgle🐰",
+			"name": "️🐰AVgle🐰",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./lib/xyqxbpq.jar",
@@ -669,7 +636,10 @@
 				"图片": "src=\"&&\"",
 				"标题": "title-p\">*_self\">&&</a>",
 				"副标题": "</i>&&</span>",
-				"链接": "href=\"&&\"[替换:play#.html>>/sid/1/nid/1.html]",
+				"链接": "href=\"&&\"",
+				//"链接": "href=\"&&\"[替换:play#.html>>/sid/1/nid/1.html]",
+				"直接播放": "1",
+				"嗅探词": "index.m3u8",
 				"搜索模式": "1",
 				"搜索url": "https://jud.jllth9.motorcycles/cn/home/web/index.php/vod/search/page/{pg}/wd/{wd}.html",
 				"分类url": "https://jud.jllth9.motorcycles/cn/home/web/index.php/vod/type/id/{cateId}/{catePg}.html",
@@ -709,13 +679,13 @@
 			"filterable": 1,
 			"ext": {
 				"主页url": "https://xn--xortcy2dfzhr3eq56b.xh5nt25irt6e.buzz/fRiraDwa8/EOStzu/",
-				"数组": "stui-vodlist__box\">&&</li>",
+				"数组": "stui-vodlist__box\">&&</div></div>",
 				"直接播放": "1",
 				"图片": "data-original=\"&&\"",
 				"标题": "title=\"&&\"",
-				"类型": "类型：left\">&&</p >",
+				"类型": "类型：left\">&&</p>",
 				"年份": "年份：</span>&&</p",
-				"副标题": "<p>&&</p >",
+				"副标题": "<p>&&</p>",
 				"链接": "https://xn--xortcy2dfzhr3eq56b.xh5nt25irt6e.buzz/fRiraDwa8/EOStzu/index.php/vod/play/id/+href=\"/fRiraDwa8/EOStzu/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html",
 				"简介": "description\" content=\"&&\"",
 				"搜索模式": "1",
