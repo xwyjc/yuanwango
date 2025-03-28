@@ -37,7 +37,9 @@
 	 "分类url":"https://www.2028p.com/sortlist/{cateId}/{by}-{catePg}.html/[https://www.2028p.com/sortlist/{cateId}.html]"}},
 	
 
-	{"key": "https://www.jb9551.sbs/","name": "🏃‍♀JBTV🏃‍♀️","type": 3, "jar": "./lib/xyqxbpq.jar","api": "csp_XBPQ","ext": {
+	{"key": "https://www.jb9551.sbs/","name": "🏃‍♀JBTV🏃‍♀️","type": 3, 
+	 "jar": "https://ghfast.top/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+	"api": "csp_XBPQ","ext": {
                 "主页url": "https://www.jb9551.sbs/",
                 "直接播放": "1",
                 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
