@@ -888,6 +888,40 @@
       }
     },
 
+
+       	{"key": "xavxx",
+            "name": "💃xavxx| XBPQ💃",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+			 "jar": "./lib/XBPQ.jar",
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext":
+            {
+            "直接播放":"1",
+            "搜索模式":"1",
+            "搜索url":"https://xx.xavxx.xyz/?search={wd}",
+            "数组":"<div class=\"img-box cover-md\">&&</h6>",
+            "图片":"data-src=\"&&\"",
+            "标题":"class=\"title\"<a*>&&</a>",
+            "链接":"href=\"&&\"",
+            "链接前缀":"https://xx.xavxx.xyz/",
+            "副标题":"<i class=\"fas fa-clock icon-bottom-left\">&nbsp;&&</i>",
+            "播放数组":"<h6&&</h6>",
+            "播放列表":"<a&&/a>",
+            "播放标题":">&&<",
+            "播放链接":"href=\"&&\"",
+            "分类":"美少女$美少女#无套$n无套#清纯$清纯#有码$有码#系列$系列#童颜$童颜#萌妹$萌妹",
+            "分类url":"https://xx.xavxx.xyz/?tag={cateId}&p={catePg}&rq={by}",
+            //"免嗅":"0",
+           "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",	 
+            //"页面代理":"127.0.0.1:10072"
+             }},	 
+			 
+
+
     {
       "key": "天美",
       "name": "💃天美|doll🐶",
@@ -898,13 +932,13 @@
         "ratio": 1.7
       },
       "ext": {
-        "搜索链接": "https://www.aidubin.com/vodsearch/{wd}----------{catePg}---/",
+        "搜索链接": "http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
         "数组": "\"box-item\"&&</em>",
         "副标题": "<strong>&&</strong>",
         "分类数组": "<li>&&</li>",
         "分类标题": "\">&&</a",
-        "分类ID": "id/&&.",
-        "分类链接": "https://www.aidubin.com/vodtype/{cateId}-{catePg}/;;mz"
+        "分类ID": "/index.php/vod/type/id/&&.html",
+       "分类链接": "http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz"
       }
     },
 	
@@ -921,7 +955,8 @@
         "ratio": 1.7
       },
       "ext": {
-        "搜索链接": "http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
+		  "搜索链接": "https://www.aidubin.com/vodsearch/{wd}----------{catePg}---/",
+        
         "数组": "\"box-item\"&&</em>",
 		"图片":"src=\"&&\"",
         "标题":"title=\"&&\"",
@@ -932,7 +967,8 @@
          "分类数组": "<a&&/a>",
         "分类标题": ">&&<",
         "分类ID": "/vodtype/&&/",
-        "分类链接": "http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz"
+        "分类链接": "https://www.aidubin.com/vodtype/{cateId}-{catePg}/;;mz"
+		
       }
     },
 
@@ -959,6 +995,9 @@
         "分类url": "https://jable.tv/{cateId}/{catePg}/;;z"
       }
     },
+
+
+
 
   
     {
@@ -1380,17 +1419,17 @@
    
     
        {
-            "key": "色🐒",
+            "key": "色猴",
             "name": "🏆😍猴🐒",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "数组": "<div class=\"card-container&&<div class=\"card-bottom",
+                "数组": "<div class=\"card-container list-content\">&&<div class=\"card-bottom\">",
 				 "图片": "src=\"&&\"",
                 "链接": "href=\"&&\"",
 				  "标题": ">&&</a></p>",
@@ -1408,14 +1447,14 @@
   
    
   {"key": "https://www.jb9551.sbs/","name": "🏃‍♀JBTV🏃‍♀️","type": 3, 
-	   "jar": "./lib/XBPQ.jar",
+	   "jar": "https://ghfast.top/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
 	"api": "csp_XBPQ","ext": {
                 "主页url": "https://www.jb9551.sbs/",
                 "直接播放": "1",
                 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "数组": "class=\"vod\">&&</div></div>",
+                "数组": "<div class=\"vod\">&&</a></div></div>",
                 "图片": "data-original=\"&&\"",
-                "标题": "target=\"_blank\">&&</a>",
+                "标题": "class=\"vod-txt\">&&</a>",
                 "链接": "href=\"&&\"",
 				"搜索url": "https://www.jb9551.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
                 "分类url": "https://www.jb9551.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
