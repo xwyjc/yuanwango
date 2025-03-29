@@ -842,7 +842,7 @@
 
 
       
-{"key":"avxxx","name":"👖avxxx👖","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar",
+{"key":"avxxx-1","name":"👌😍xxx👌","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar",
 "searchable":1,"quickSearch":1,"filterable":1,
 "ext":{
 "主页url":"https://avxxx.avxxx11.xyz/avxxx/",
@@ -863,10 +863,36 @@
 //"播放链接":"href=\"&&\"",
 "简介":"<ul class=\"detail-actor clearfix\">&&VIP[替换:</li>>>💞]",
 "搜索url":"https://avxxx.avxxx11.xyz/avxxx/index.php/vod/search.html?wd={wd}",
-"分类":"视频分类$1#国产视频$3#网报吃瓜$3V#日本无码$4#日本有码$5#无码中字$6#有码中字$7#欧美视频$8#动漫$9",
+"分类":"视频分类$1#国产视频$3#网报吃瓜$2#日本无码$4#日本有码$5#无码中字$6#有码中字$7#欧美视频$8#动漫$9",
 "分类url":"https://avxxx.avxxx11.xyz/avxxx/index.php/vod/type/id/{cateId}/page/{catePg}.html[https://avxxx.avxxx11.xyz/avxxx/index.php/vod/type/id/{cateId}/]"}},
   
   
+
+
+   {"key":"avxxx-2","name":"📹😍xxx-🔍分类🔥","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar",
+"searchable":1,"quickSearch":1,"filterable":1,
+"ext":{
+"主页url":"https://avxxx.avxxx11.xyz/avxxx/",
+
+"数组":"<a class=\"thum&&</a></h5>",
+
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+
+  "链接": "href=\"&&\"[替换:play#.html>>/sid/1/nid/1.html]",
+ "跳转播放链接": "var player_*\"url\":\"&&\"",
+  "直接播放": "1",
+
+"简介":"<ul class=\"detail-actor clearfix\">&&VIP[替换:</li>>>💞]",
+"分类url":"https://avxxx.avxxx11.xyz/avxxx/index.php/vod/search/page/{catePg}/wd/{cateId}.html",
+        "分类数组": "<a>&&/a>",
+        "分类标题": ">&&<",
+        "分类ID": "/avxxx/index.php/vod/search/wd/&&.html"
+//"分类":"视频分类$1#国产视频$3#网报吃瓜$2#日本无码$4#日本有码$5#无码中字$6#有码中字$7#欧美视频$8#动漫$9"
+}},
+  
+
+
 
 
   
