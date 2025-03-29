@@ -37,23 +37,38 @@
 	 "分类url":"https://www.2028p.com/sortlist/{cateId}/{by}-{catePg}.html/[https://www.2028p.com/sortlist/{cateId}.html]"}},
 	
 
-	  {"key": "600老司机","name": "🏃‍♀600老司机🏃‍♀️","type": 3,  "api":"csp_XBPQ",
-       "filterable": 1,
-	  "style":{"type":"rect","ratio":1.333},
-	"ext": {
-                "主页url": "https://lsj53291.600gc.top/",
-                "直接播放": "1",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "数组": " <article>&&</h3>",
-                "图片": "src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "链接": "href=\"&&\"",
-				"搜索url": "https://lsj53291.600gc.top/index.php/vodsearch/{wd}----------{pg}---.html",
-                "分类url": "https://lsj53291.600gc.top/index.php/vodtype/{cateId}-{catePg}.html",
-     	    "分类": "麻豆$1#其他传媒$4#中文$5#星空无限$3#兔子$2#国产精品$20#精品素人$21"}},
 	  
 
-	
+	   	{"key": "xavxx",
+            "name": "💃xavxx| XBPQ💃",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext":
+            {
+            "直接播放":"1",
+            "搜索模式":"1",
+            "搜索url":"https://xx.xavxx.xyz/?search={wd}",
+            "数组":"<div class=\"img-box cover-md\">&&</h6>",
+            "图片":"data-src=\"&&\"",
+            "标题":"class=\"title\"<a*>&&</a>",
+            "链接":"href=\"&&\"",
+            "链接前缀":"https://xx.xavxx.xyz/",
+            "副标题":"<i class=\"fas fa-clock icon-bottom-left\">&nbsp;&&</i>",
+            "播放数组":"<h6&&</h6>",
+            "播放列表":"<a&&/a>",
+            "播放标题":">&&<",
+            "播放链接":"href=\"&&\"",
+            "分类":"美少女$美少女#无套$n无套#清纯$清纯#有码$有码#系列$系列#童颜$童颜#萌妹$萌妹",
+            "分类url":"https://xx.xavxx.xyz/?tag={cateId}&p={catePg}&rq={by}",
+            //"免嗅":"0",
+           "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",	 
+            //"页面代理":"127.0.0.1:10072"
+             }},	 
+			 
 	
 	
 		
