@@ -917,7 +917,7 @@
             "分类url":"https://xx.xavxx.xyz/?tag={cateId}&p={catePg}&rq={by}",
             //"免嗅":"0",
            "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos"
-            //"页面代理":"127.0.0.1:10072"
+            "页面代理":"127.0.0.1:10072"
              }},	 
 			 
 
