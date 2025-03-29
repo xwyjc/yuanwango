@@ -73,7 +73,7 @@
         "分类": "日韩无码$13#日韩有码$15#中文字幕$14#国产视频$1#日韩视频$2#网曝私密$3#欧美高清$5#国产新片$7#精品推荐$21#3d动漫$4"
       }
     },
-	
+	  
 	
 	    {
       "key": "129av",
@@ -417,7 +417,7 @@
   
 
    {
-    "key": "sqhub",
+    "key": "sex166.net",
     "name": "😍📺😍166",
     "type": 3,
     "api": "csp_XBPQ",
@@ -1376,6 +1376,51 @@
 				"分类": "日本有码$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
       }
     },
+   
+   
+    
+       {
+            "key": "色🐒",
+            "name": "🏆😍猴🐒",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "数组": "<div class=\"card-container&&<div class=\"card-bottom",
+				 "图片": "src=\"&&\"",
+                "链接": "href=\"&&\"",
+				  "标题": ">&&</a></p>",
+                "副标题": "class=\"fas fa-clock icon-bottom-left\">&nbsp;&&</i>",
+                "直接播放": "1",
+	            "嗅探词": "index.m3u8",
+               
+                "搜索url": "https://lu-tou-she.381112.com/vod/search.html",
+                "分类数组": "<a&&</a>",
+                "分类标题": ">&&</a",
+                "分类ID": "/?fenlei=&&",
+                "分类链接": "https://vr.17888555.xyz/?fenlei={cateId}&p={catePg}&rq={by}"
+            }
+        },
+  
+   
+  {"key": "https://www.jb9551.sbs/","name": "🏃‍♀JBTV🏃‍♀️","type": 3, 
+	   "jar": "./lib/XBPQ.jar",
+	"api": "csp_XBPQ","ext": {
+                "主页url": "https://www.jb9551.sbs/",
+                "直接播放": "1",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "数组": "class=\"vod\">&&</div></div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "target=\"_blank\">&&</a>",
+                "链接": "href=\"&&\"",
+				"搜索url": "https://www.jb9551.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
+                "分类url": "https://www.jb9551.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+     	    "分类": "国产情色$1#中文字幕$4#日本无码$2#日本有码$3#网红主播$5#动漫$6#欧美$7#国模私拍$8#长腿丝袜$9#邻家人妻$10#三级伦理$11#精品推荐$12"}},
+	  
    
 
 
