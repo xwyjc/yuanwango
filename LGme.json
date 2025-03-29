@@ -386,8 +386,7 @@
         },
   
   
-  
-    {
+  {
             "key": "https://041.bndmpsjx.com/new",
             "name": "91J😍-热门推荐",
             "type": 3,
@@ -400,10 +399,10 @@
             "ext": {
                 "主页url": "https://041.bndmpsjx.com/new",
                 "过滤词": ".mp4",
-                "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
+                "数组": "\"img-box cover-md bind_video_img\"&&\"img-box cover-md bind_video_img\"",
                 "图片": "z-image-loader-url=\"&&\"",
 				"图片代理":"1",
-                "标题": "<h6 class=\"title\">&&</a>",
+                "标题": "alt=\"&&\[不包含:大发娱乐#催情迷药#新葡京娱乐#澳门威尼斯人#51直播]"",
                 "副标题": "class=\"label\">&&</span>",
                 "链接": "href=\"&&\"",
                 "简介": "⚠️慢点撸，皮要掉了！！！",
@@ -411,9 +410,6 @@
                 "分类": "所有$all#本月$month#本周$week#今日$today"
             }
         },
-  
-  
-  
   
 
    {
@@ -847,8 +843,8 @@
 "ext":{
 "主页url":"https://avxxx.avxxx11.xyz/avxxx/",
 
-//"数组":"<a class=\"thum&&</p></div>",
-"数组":"<a class=\"thum&&</a></h5>",
+"数组":"<a class=\"thum&&</p></div>",
+//"数组":"<a class=\"thum&&</a></h5>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
  "副标题":"class=\"title\">&&</span>",
@@ -875,8 +871,8 @@
 "ext":{
 "主页url":"https://avxxx.avxxx11.xyz/avxxx/",
 
-//"数组":"<a class=\"thum&&</p></div>",
-"数组":"<a class=\"thum&&</a></h5>",
+"数组":"<a class=\"thum&&</p></div>",
+//"数组":"<a class=\"thum&&</a></h5>",
 
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
