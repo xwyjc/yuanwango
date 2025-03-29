@@ -847,10 +847,11 @@
 "ext":{
 "主页url":"https://avxxx.avxxx11.xyz/avxxx/",
 
-"数组":"<a class=\"thum&&</a></h5>",
-//"数组":"<a&&</a>",
+"数组":"<a class=\"thum&&</p></div>",
+//"数组":"<a class=\"thum&&</a></h5>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
+ "副标题":"class=\"title\">&&</span>",
 //"链接":"href=\"&&\"",
   "链接": "href=\"&&\"[替换:play#.html>>/sid/1/nid/1.html]",
  "跳转播放链接": "var player_*\"url\":\"&&\"",
@@ -874,11 +875,12 @@
 "ext":{
 "主页url":"https://avxxx.avxxx11.xyz/avxxx/",
 
-"数组":"<a class=\"thum&&</a></h5>",
+"数组":"<a class=\"thum&&</p></div>",
+//"数组":"<a class=\"thum&&</a></h5>",
 
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
-
+ "副标题":"class=\"title\">&&</span>",
   "链接": "href=\"&&\"[替换:play#.html>>/sid/1/nid/1.html]",
  "跳转播放链接": "var player_*\"url\":\"&&\"",
   "直接播放": "1",
