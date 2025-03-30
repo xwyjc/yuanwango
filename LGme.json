@@ -562,7 +562,7 @@
       "api": "csp_RouVideo"
     },
  
-  {"key":"csp_XYQHiker_肉av","name": "肉视频av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./rou.json","style": {"type": "rect","ratio": 1.6}}
+  {"key":"csp_XYQHiker_肉av","name": "肉视频av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./rou.json","style": {"type": "rect","ratio": 1.6}},
  
     {
       "key": "18AV",
