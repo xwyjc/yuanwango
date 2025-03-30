@@ -386,30 +386,6 @@
         },
   
   
-  {
-            "key": "https://041.bndmpsjx.com/new",
-            "name": "91J😍-热门推荐",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
-            "ext": {
-                "主页url": "https://041.bndmpsjx.com/new",
-                "过滤词": ".mp4",
-                "数组": "\"img-box cover-md bind_video_img\"&&\"img-box cover-md bind_video_img\"",
-                "图片": "z-image-loader-url=\"&&\"",
-				"图片代理":"1",
-                "标题": "alt=\"&&\"[不包含:大发娱乐#催情迷药#新葡京娱乐#澳门威尼斯人#51直播]",
-                "副标题": "class=\"label\">&&</span>",
-                "链接": "href=\"&&\"",
-                "简介": "⚠️慢点撸，皮要掉了！！！",
-                "分类url": "https://041.bndmpsjx.com/popular/{cateId}/{catePg};;z",
-                "分类": "所有$all#本月$month#本周$week#今日$today"
-            }
-        },
   
 
    {
@@ -570,11 +546,23 @@
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
       "ext": {
+		 "数组": "<div class=\"aspect-video&&</a></div>",
+        "标题": "alt=\"&&\"",
+        "图片": "src=\"&&\"",
         "分类url": "https://rouvz2.xyz/t/{cateId}?order={by}&page={catePg}",
         "直接播放": "1",
         "分类": "國產AV$國產AV#探花$探花#自拍流出$自拍流出#日本$日本"
       }
     },
+ 
+     {
+      "key": "RouVideo",
+      "name": "🥵肉视频┃科学",
+      "type": 3,
+      "api": "csp_RouVideo"
+    },
+ 
+  {"key":"csp_XYQHiker_肉av","name": "肉视频av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./rou.json","style": {"type": "rect","ratio": 1.6}}
  
     {
       "key": "18AV",
