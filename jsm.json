@@ -37,7 +37,33 @@
 	 "分类url":"https://www.2028p.com/sortlist/{cateId}/{by}-{catePg}.html/[https://www.2028p.com/sortlist/{cateId}.html]"}},
 	
 
-	  
+	  {
+			"key": "XDXX",
+			"name": "🍮XDXX🍮",
+			"type": 3,
+			"jar": "./lib/xyqxbpq.jar",
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"主页url": "https://xdxx6.icu/",
+				"数组": "img lazyload&&</h2>",
+				"标题": "<h2>&&</h2>",
+				"副标题": "duration\">&&</span>",
+				"图片": " src=\"&&\"",
+				"链接": "href=\"&&\"",
+				"跳转播放链接": "var player_*\"url\":\"&&\"",
+				"简介": "description\" content=\"&&\"",
+				"搜索url": "https://xdxx6.icu/tags/page/{pg}/wd/{wd}.html",
+				"分类url": "https://xdxx6.icu/type/{cateId}/{catePg}.html;;z",
+				"分类二次截取": "<a>&&a>",
+				"分类数组": "<span>&&</span>",
+				
+				"分类ID": "/show/id/&&.html"
+			}
+		},
 
 	
 	
