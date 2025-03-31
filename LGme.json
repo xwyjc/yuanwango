@@ -49,7 +49,21 @@
       }
     },
 	
-	  
+	  {"key":"naicha412",
+       "name":"💿奶茶视频💿",
+       "type":3,
+       "api":"csp_XBPQ",
+       "searchable":1,
+       "jar": "./lib/XBPQ.jar",
+       "quickSearch":1,
+       "filterable":1,
+       "ext":{"数组":"stui-vodlist__thumb lazyload&&</a",
+       "副标题":"pic-text text-right\">&&</span>",
+        "简介":"description\" content=\"&&剧情",
+       // "搜索模式":"1",
+      // "搜索url":"https://askdy.net/vodsearch/{wd}----------{pg}---.html",
+      "分类url":"https://www.naicha412.sbs/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html;;z",
+       "分类":"国产自拍$1#日韩无码$3#AV明星$4#中文字幕$5#极骚萝莉$7#强奸乱伦$11#HEYZO$12#独家DMM$13#HEY诱惑$14#童颜巨乳$15#高潮喷吹$16#激情口交$20#绝美少女$21#首次亮相$22"}},
 	
 	
 	    {
