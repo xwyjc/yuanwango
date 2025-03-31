@@ -1500,7 +1500,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "数组": "<div class=\"card-container list-content\">&&<div class=\"card-bottom\">",
+                "数组": "<div class=\"photo-video-container  video-img-box\">&&<div class=\"card-bottom ",
 				 "图片": "src=\"&&\"",
                 "链接": "href=\"&&\"",
 				  "标题": ">&&</a></p>",
