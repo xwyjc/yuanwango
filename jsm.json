@@ -404,7 +404,7 @@
        "type":3,
        "api":"csp_XBPQ",
        "filterable": 1,
-       // "jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/XBPQ/最新.jar",
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/XBPQ/最新.jar",
        "ext":{
        "分类url":"https://xn--0331-1niceavscom-of0zq60c7n0awf4i.niceav0003.top/list/{cateId}/index/{catePg}.html",
        "直接播放":"1",
