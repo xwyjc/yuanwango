@@ -741,7 +741,7 @@
 	"ext":{
 	   "主页url": "https://javp1.cc/",
       
-       "数组": "/video/&&</a>",
+       "数组": "a href=\"/video/&&</a>",
         "图片": "data-src=\"&&\"",
         "标题": "<div class=\"desc\">&&</div>",
 		 "链接": "href=\"&&\"",
@@ -755,49 +755,6 @@
 	"跳转播放链接":"varurlDecode(var player_*url\":\"&&\")",
 	"分类url":"https://javp1.cc/show/by/{by}/id/{cateId}/page/{catePg}.html",
 	"分类":"自拍偷拍$102#国产传媒$2#探花$20042#日本无码$20068#角色剧情$101#中字$112"}},
-
-
-
-	
-{"key":"i18av","name":"I🔟8️⃣ AV ","type":3,"jar": "./wyog2.jar","api":"csp_XBPQ",
-"searchable":1,"quickSearch":1,"filterable":1,"ext":{
-"主页url":"https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/oaoaoa/",
-//"数组":"<a class=\"thu&&</a></h5>",
- "数组":"<li&&</li>",
-"图片":"src=\"&&\"",
-"标题":"alt=\"&&\"",
-//"副标题":" <p>&&</p>",
-//"链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
- "直接播放": "1",
-//"免嗅":"1",
-"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-//"过滤词":"=http#.jpg#.png#.ico#.gif#.js",	
-"链接":"href=\"/voddetail/&&.html\"",
-"链接前缀":"https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/vodplay/",
-"链接后缀":"-1-1.html",
-"简介":"<ul class=\"detail-actor clearfix\">&&VIP[替换:</li>>>💞]",
-"搜索url":"https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/vodsearch/----------{pg}---/?wd={wd}",
-"分类":"中文字幕$52#日本无码$50#日本有码$51#国产情色$49#强奸乱伦$55#童颜巨乳$59",
-"分类url":"https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/vodtype/{cateId}-{catePg}/[https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/vodtype/{cateId}/]"}},
-
-	
-  {"key": "https://avhd101.com/","name": "🎬avhd101🎬","type": 3, 
-  "jar": "./wyog2.jar",
-  "api": "csp_XBPQ","ext": {
-     
-      "主页url": "https://avhd101.com/",
-      "分类url": "https://avhd101.com/{cateId}?page={catePg}", 
-      "分类":"高清&中文字幕&🈚️🐎",
-      "分类值": "hd&chinese&uncensored",
-      "直接播放": "1",
-      "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-      "数组":"<a class=\"cover&&</div></a>",
-      "图片": "src=\"&&\"",
-      "标题": "alt=\"&&\"",
-      "链接": "href=\"&&\""
-     }},
-		
-
 
 
 
@@ -1373,33 +1330,6 @@
 	
 	
 
-
-    {"key":"房中秘术","name":"🏠房中秘术🏠","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{
-"主页url":"https://c9d0e1f2.fzms54.buzz/topic/",
-//"数组":"class=\"thum&&</a></h5></div>",
-"数组":"<li&&</a=li>",
-"图片":"data-original=\"&&\"",
- "标题": "target=\"_blank\">&&</a>",
-"副标题":"video-grade\">&&</span>",
- "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
-//"链接":"href=\"&&\"",
-//"线路数组":"<ul class=\"detail-tab&&</ul>",
-//"线路标题":"<a&&/a>",
-//"播放数组":"<ul class=\"detail-play-list&&</ul>",
-//"播放列表":"<a&&/a>",
-//"播放标题":">&&<",
-//"播放链接":"href=\"&&\"",
-
-  "直接播放": "1",
-    "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-"简介":"<ul class=\"detail-actor clearfix\">&&VIP[替换:</li>>>💞]",
-"搜索url":"https://c9d0e1f2.fzms54.buzz/vodsearch/-------------.html?wd={wd}",
-"分类":"国产传媒$1#国产剧情$2#必射精选$3#精品资源$4#特色仓库$5#中文字幕$6",
-"分类url":"https://c9d0e1f2.fzms54.buzz/vodtype/{cateId}-{catePg}.html"}},
-
-	
-	
-	
 	
 
     {
@@ -1518,49 +1448,7 @@
    
    
     
-       {
-            "key": "色猴",
-            "name": "🏆😍猴🐒",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "数组": "<div class=\"photo-video-container&&<div class=\"card-bottom ",
-				 "图片": "src=\"&&\"",
-                "链接": "href=\"&&\"",
-				  "标题": ">&&</a></p>",
-                "副标题": "class=\"fas fa-clock icon-bottom-left\">&nbsp;&&</i>",
-                "直接播放": "1",
-	            "嗅探词": "index.m3u8",
-               
-                "搜索url": "https://lu-tou-she.381112.com/vod/search.html",
-                "分类数组": "<a&&</a>",
-                "分类标题": ">&&</a",
-                "分类ID": "/?fenlei=&&",
-                "分类链接": "https://vr.17888555.xyz/?fenlei={cateId}&p={catePg}&rq={by}"
-            }
-        },
-  
-   
-  {"key": "https://www.jb9551.sbs/","name": "🏃‍♀JBTV🏃‍♀️","type": 3, 
-	   "jar": "https://ghfast.top/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-	"api": "csp_XBPQ","ext": {
-                "主页url": "https://www.jb9551.sbs/",
-                "直接播放": "1",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "数组": "\"vod\"&&\"vod\"",
-                "图片": "data-original=\"&&\"",
-                "标题": "target=\"_blank\">&&</a>",
-                "链接": "href=\"&&\"",
-				"搜索url": "https://www.jb9551.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
-                "分类url": "https://www.jb9551.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-     	    "分类": "国产情色$1#中文字幕$4#日本无码$2#日本有码$3#网红主播$5#动漫$6#欧美$7#国模私拍$8#长腿丝袜$9#邻家人妻$10#三级伦理$11#精品推荐$12"}},
-	  
-   
+    
 
 
     {
