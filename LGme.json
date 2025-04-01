@@ -240,7 +240,7 @@
   
     {
             "key": "13AV b",
-            "name": "13😍-🎫",
+            "name": "13😍-🔥",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -538,6 +538,35 @@
         "分类": "新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"
       }
     },
+	
+	
+		 {
+      "key": "csp_njav",
+      "name": "🔥123😍",
+      "type": 3,
+      "api": "csp_XBPQ",
+	   "jar": "./lib/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+		"主页url":"https://123av.com/zh/dm5",
+        "数组": "class=\"box-item\">&&</div></div>",
+        "图片": "data-src=\"&&\"",
+        "链接": "href=\"&&\"",
+		"标题":"<div class=\"detail\">&&</a>",
+		"副标题":"<div class=\"duration\">&&</div>",
+        
+        "直接播放": "1",
+        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+        //"嗅探过滤词":".html#=http",
+        "搜索url": "https://123av.com/zh/search?keyword={wd}",
+        "分类url": "https://123av.com/zh/{cateId}?page={catePg}",
+        "分类": "全新上市$dm2/new-release#最近更新$dm2/recent-update#vr影片$dm2/vr#今日热门$dm3/today-hot#本周热门$dm2/weekly-hot#本月热门$dm2/monthly-hot"
+      }
+    },
+		
+	
    {
       "key": "Eighteen",
       "name": "Eighteen┃科学📚",
@@ -1347,7 +1376,7 @@
 
     {"key":"房中秘术","name":"🏠房中秘术🏠","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{
 "主页url":"https://c9d0e1f2.fzms54.buzz/topic/",
-"数组":"class=\"thum&&</a></h5>",
+"数组":"class=\"thum&&</a></h5></div>",
 //"数组":"<a&&</a>",
 "图片":"data-original=\"&&\"",
 "标题":">&&</a>",
