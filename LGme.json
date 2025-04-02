@@ -83,14 +83,14 @@
        "搜索模式":"1",
 	   "分类url":"https://hsck43.25img.com{cateId}&p={catePg}",
       "分类":"国产新品$/?type=ycgc#无码中字$/?type=wz#🈶️码中字$/?type=yz#无码$/?type=rw#🈶️码$/?type=ry#国产视频$/?type=gc",
-       //"嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   //"直接播放":"1"  
+       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	   "直接播放":"1"  
 	   
-	    "播放二次截取":"<div class=\"stui-pannel-bd\">&&<div class=\"mac_digg\"",
-    "播放数组":"<div id=\"widthVideoVideo\"&&</script>",
-    "播放标题":"id=\"&&\"",
-    "播放列表":"<video&&</video>",
-    "播放链接":"src=\"&&\""}
+	   // "播放二次截取":"<div class=\"stui-pannel-bd\">&&<div class=\"mac_digg\"",
+   // "播放数组":"<div id=\"widthVideoVideo\"&&</script>",
+   // "播放标题":"id=\"&&\"",
+   // "播放列表":"<video&&</video>",
+   // "播放链接":"src=\"&&\""}
     },
 	  
 	
