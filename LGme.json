@@ -174,8 +174,12 @@
         "链接": "href=\"&&\"",
        "标题": "alt=\"&&\"",
        "直接播放":"1",
-       "分类url": "https://www.1av.shop/vodtype/{cateId}-{catePg}.html;;z",
-       "分类": "亚洲色情$16#中文字幕$20#童颜巨乳$23#少女萝莉$26#人妻少妇$7#学生嫩妹$#6美腿丝袜$24#强奸乱伦$27#国产乱伦$13#国产视频$1#欧美高清$18#日韩视频$17#熟女人妻$25#国产传媒$11#精品推荐$16#网曝私密$2#三级电影$21"
+       //"分类url": "https://www.1av.shop/vodtype/{cateId}-{catePg}.html;;z",
+	     "分类url": "https://www.1av.shop/vodtype/{cateId}-{catePg}.html",
+	   "分类数组": "<a&&</a>",
+        "分类标题": ">&&<",
+        "分类ID": "/vodtype/&&.html",
+       //"分类": "亚洲色情$16#中文字幕$20#童颜巨乳$23#少女萝莉$26#人妻少妇$7#学生嫩妹$#6美腿丝袜$24#强奸乱伦$27#国产乱伦$13#国产视频$1#欧美高清$18#日韩视频$17#熟女人妻$25#国产传媒$11#精品推荐$16#网曝私密$2#三级电影$21"
       }
     },
 	
@@ -958,9 +962,10 @@
             "直接播放":"1",
             "搜索模式":"1",
             "搜索url":"https://xx.xavxx.xyz/?search={wd}",
-          
+             "主页url": "https://xx.xavxx.xyz",
              "过滤词": ".mp4",
-             "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
+             //"数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
+			  "数组":"<div class=\"img-box cover-md\">&&</a></h6>",
              "图片": "data-src=\"&&\"",
              "标题": "<h6 class=\"title\">&&</a>",
             
@@ -974,7 +979,7 @@
             "分类url":"https://xx.xavxx.xyz/?tag={cateId}&p={catePg}&rq={by}",
             //"免嗅":"0",
            "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-          
+            "页面代理":"127.0.0.1:10072"
              }},	 
 			 
 
