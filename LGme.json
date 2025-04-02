@@ -63,8 +63,7 @@
        // "搜索模式":"1",
       // "搜索url":"https://askdy.net/vodsearch/{wd}----------{pg}---.html",
       "分类url":"https://www.naicha412.sbs/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html;;z",
-       "分类":"国产自拍$1#日韩无码$3#AV明星$4#中文字幕$5#极骚萝莉$7#强奸乱伦$11#HEYZO$12#独家DMM$13#HEY诱惑$14#童颜巨乳$15#高潮喷吹$16#激情口交$20#绝美少女$21#首次亮相$22"
-       }},
+       "分类":"国产自拍$1#日韩无码$3#AV明星$4#中文字幕$5#极骚萝莉$7#强奸乱伦$11#HEYZO$12#独家DMM$13#HEY诱惑$14#童颜巨乳$15#高潮喷吹$16#激情口交$20#绝美少女$21#首次亮相$22"}},
 	
 	
 	   {"key":"黄色仓库",
@@ -92,13 +91,12 @@
     //"播放标题":"id=\"&&\"",
    // "播放列表":"<video&&</video>",
    // "播放链接":"src=\"&&\""
-       }
+   }
     },
 	  
 	
 	
-	
-	
+
 	
 	
 	    {
@@ -577,6 +575,32 @@
         "分类": "新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"
       }
     },
+	
+	
+	{
+      "key": "24av.net",
+      "name": "🌳24av🌳",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "ext": {
+        "主页url": "https://24av.net/zh/dm5",
+        "直接播放": "1",
+        "数组": "movie-item\"&&</div></div>",
+        "图片": "style=\"background-image: url(&&);\"",
+        "副标题": "</i>&&</span>",
+        "标题": "class=\"name\">&&</a>",
+        "简介": "title\"&&</div>",
+        "链接": "href=\"&&\"",
+		"搜索url": "https://24av.net/zh/search?keyword={wd}",
+        "分类url": "https://24av.net/zh/{cateId}?page={catePg}",
+        "分类": "审查$dm2/censored#最近更新$dm3/recent-update#新发布$dm3/new-release#热门🔥$dm3/trending#今天🔥$dm3/today-hot#本周🔥$dm2/weekly-hot#本月🔥$dm2/monthly-hot"
+      }
+    },
+	
+	
+	
+	
 	
 	
 		 {
