@@ -590,7 +590,7 @@
         "副标题": "</i>&&</span>",
         "标题": "title\"&&</div>",
 		"播放数组":"id=\"player&&</div>",
-		
+		  "直接播放": "1",
         //"简介": "title\"&&</div>",
         "链接": "href=\"&&\"",
 		"搜索url": "https://24av.net/zh/search?keyword={wd}",
