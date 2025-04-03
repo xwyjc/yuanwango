@@ -107,7 +107,7 @@
 	   "图片":"data-original=\"&&\"",
       "标题":"title=\"&&\"",
        "链接":"href=\"&&\"",
-       "副标题":"sub\">&&</p>",
+       "副标题":"sub\"</span>&&</p>",
 	   "搜索url":"https://hsck.la/index.php/vod/search/page/{Pg}/wd/{wd}.html",
        "搜索模式":"1",
 	   "分类url":"https://hsck.la/index.php/vod/type/id/{cateId}/page/{catePg}.html",
