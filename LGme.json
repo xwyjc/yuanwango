@@ -1178,11 +1178,11 @@
       "filterable": 1,
       "jar": "./lib/XBPQ.jar",
       "ext": {
-        "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\">&& </a></div>",
+        "数组": "class=\"thumbnail group\">&&</div></div>",
         "图片": "data-src=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "副标题": "<span class=\"absolute*>&&</span>",
-        "简介": "description\" content=\"&&\"",
+
+        "标题": "class=\"text-secondary&&></a>",
+     
 		 "直接播放": "1",
 		  "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
         "链接": "href=\"&&\"",
