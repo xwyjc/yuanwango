@@ -95,7 +95,33 @@
     },
 	  
 	
-	
+	{"key":"黄色仓库啦",
+       "name":"🌶黄色仓库啦🌶",
+       "type":3,
+       "api":"csp_XBPQ",
+       "searchable":1,
+       "jar": "./lib/XBPQ.jar",
+       "quickSearch":1,
+       "filterable":1,
+       "ext":{"数组":"stui-vodlist__box\">&&</div></div>",
+	   "图片":"data-original=\"&&\"",
+      "标题":"title=\"&&\"",
+       "链接":"href=\"&&\"",
+       "副标题":"sub\">&&</p>",
+	   "搜索url":"https://hsck.la/index.php/vod/search/page/{Pg}/wd/{wd}.html",
+       "搜索模式":"1",
+	   "分类url":"https://hsck.la/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+      "分类":"麻豆$1#中字$2#国产$3#欧美$4#日韩$5",
+       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	   "直接播放":"1"  
+	   
+	    //"播放二次截取":"<div class=\"stui-pannel-bd\">&&<div class=\"mac_digg\"",
+   // "播放数组":"<div id=\"widthVideoVideo\"&&</script>",
+    //"播放标题":"id=\"&&\"",
+   // "播放列表":"<video&&</video>",
+   // "播放链接":"src=\"&&\""
+   }
+    },
 
 	
 	
@@ -1168,31 +1194,7 @@
       }
     },
 
-    {
-      "key": "MissAV.ai",
-      "name": "🐟MissAV🌧️",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/XBPQ.jar",
-      "ext": {
-        "数组": "class=\"thumbnail group\">&&</div></div>",
-        "图片": "data-src=\"&&\"",
-
-        "标题": "class=\"text-secondary&&></a>",
-     
-		 "直接播放": "1",
-		  "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        "链接": "href=\"&&\"",
-        "搜索url": "https://missav.ai/search/{wd}",  
-		"分类url": "https://missav.ai/{cateId}?page={catePg}",
-        "分类": "中文字幕$dm265/chinese-subtitle#最近更新$dm514/new#新作上市$dm588/release#无码流出$dm620/uncensored-leak#今日热门$dm291/today-hot#本週热门$dm169/weekly-hot#本月热门$dm256/monthly-hot#SIRO$dm23/siro#LUXU$dm20/luxu#GANA$dm17/gana#PRESTIGE PREMIUM$dm436/maan#S-CUTE$dm23/scute#ARA$dm19/ara#无码流出$dm620/uncensored-leak#FC2$dm95/fc2#HEYZO$dm631/heyzo#东京热$dm29/tokyohot#一本道$dm370178/1pondo#Caribbeancom$dm532508/caribbeancom#Caribbeancompr$dm7530/caribbeancompr#10musume$dm558727/10musume#pacopacomama$dm989/pacopacomama#Gachinco$dm135/gachinco#XXX-AV$dm29/xxxav#人妻斩$dm24/marriedslash#顽皮 4610$dm19/naughty4610#顽皮 0930$dm22/naughty0930#麻豆传媒$dm34/madou#TWAV$dm17/twav#Furuke$dm15/furuke"
-       // "页面代理": "proxy"
-		}
-    },
-
+   
     {
       "key": "AVMobTV",
       "name": "🐿AVMobTV🚿",
