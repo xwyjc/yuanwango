@@ -1420,11 +1420,11 @@
 	
 	
 	
-    {"key": "乱伦色情","name": "🔞乱伦色情","type": 3,"api": "csp_XBPQ",
+    {"key": "乱伦色情","name": "🛹乱伦色情🛹","type": 3,"api": "csp_XBPQ",
 	"jar": "./lib/XBPQ.jar","filterable": 1,
 	"ext": {  "发布地址": "1:https://yudiewfed-82.luanlxsf001.sbs/,2:www.crzk3.top", 
 	"主页url": "https://luanl-001.luanlxsf002.sbs/", 
-	"数组": "<li>class=\"thumbnail&&</li", 
+	"数组": "<a class=\"thumbnail&&</li>", 
 	"图片": "src=\"&&\"", 
 	"标题": "alt=\"&&\"", 
 	"副标题": "<p>&&</p>", 
@@ -1433,8 +1433,9 @@
 	"跳转播放链接": "urlDecode(var player_*url\":\"&&\")", 
 	"搜索模式": "1", 
 	"搜索url": "https://luanl-001.luanlxsf002.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html", 
-	"分类数组": "<a&&/a",  "分类标题": ">&&<", 
-	"分类ID": "/index.php/vod/type/id/&&.html",  
+	//"分类数组": "<a&&/a", 
+	"分类": "视频一区$1#视频二区$2#视频三区$3#视频四区$4", 
+	//"分类ID": "/index.php/vod/type/id/&&.html",  
 	"分类url": "https://luanl-001.luanlxsf002.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
   
     
