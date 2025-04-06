@@ -1420,7 +1420,7 @@
 	
 	
 	
-    {"key": "乱伦色情","name": "🛹乱伦色情🛹","type": 3,"api": "csp_XBPQ",
+    {"key": "乱伦色情","name": "🛹乱弹琴🛹","type": 3,"api": "csp_XBPQ",
 	"jar": "./lib/XBPQ.jar","filterable": 1,
 	"ext": {  "发布地址": "1:https://yudiewfed-82.luanlxsf001.sbs/,2:www.crzk3.top", 
 	"主页url": "https://luanl-001.luanlxsf002.sbs/", 
@@ -1439,6 +1439,25 @@
 	"分类url": "https://luanl-001.luanlxsf002.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
   
     
+	
+	  {"key": "超清福利AV","name": "🛹超清福利🛹","type": 3,"api": "csp_XBPQ",
+	"jar": "./lib/XBPQ.jar","filterable": 1,
+	"ext": {  "发布地址": "1:https://yudiewfed-82.luanlxsf001.sbs/,2:www.crzk3.top", 
+	"主页url": "https://xn--cq-wu2c.chaoqingfl7.sbs/", 
+	"数组": "<div class=\"vod\">&&</div></div>", 
+	"图片": "data-original=\"&&\"", 
+	//"标题": "alt=\"&&\"", 
+	
+	  
+	"链接": "https://xn--cq-wu2c.chaoqingfl7.sbs/cq/index.php/vod/play/id/+href=\"/cq/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html",  
+	"跳转播放链接": "urlDecode(var player_*url\":\"&&\")", 
+	"搜索模式": "1", 
+	"搜索url": "https://xn--cq-wu2c.chaoqingfl7.sbs/cq/index.php/vod/search/page/{pg}/wd/{wd}.html", 
+	"分类数组": "<a&&/a>", 
+	 "分类标题": ">&&<",
+	//"分类": "视频一区$1#视频二区$2#视频三区$3#视频四区$4", 
+	"分类ID": "/cq/index.php/vod/type/id/&&.html",  
+	"分类url": "https://xn--cq-wu2c.chaoqingfl7.sbs/cq/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
  
 
 	
@@ -1459,20 +1478,7 @@
         "分类": "国产精品$20#主播大秀$21#唯美视频$22#口交视频$23#日本有碼$24#日本無碼$25#动漫视频$26#欧美视频$27"
       }
     },
-    {
-      "key": "蓝金鱼AV",
-      "name": "🔞蓝金鱼AV🐳",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "页面代理": "127.0.0.1:10172",
-      "jar": "./lib/XBPQ.jar",
-      "ext": {
-        "主页url": "https://cezeoj.ljyav7.beauty/cn/home/web/",
-        "直接播放": "1",
-        "分类url": "https://cezeoj.ljyav7.beauty/vodtype/{cateId}.html",
-        "分类": "国产精品$20#主播大秀$21#唯美视频$22#口交视频$23#日本有碼$24#日本無碼$25#动漫视频$26#欧美视频$27"
-      }
-    },
+    
     {
       "key": "javbar",
       "name": "💗┃💋JAVBar┃💠",
