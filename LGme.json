@@ -32,7 +32,7 @@
 	   "api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
         "直接播放": 1,
         "主页url": "https://avstime.com/",
-        "数组": "class=\"videoBox\"&&</a>",
+        "数组": "class=\"videoBox&&</h4>",
         "图片": "data-original=\"&&\"",
         "链接": "a href=\"&&\"",
         "线路标题": " <h4 class=\"title\">&&</h4>",
