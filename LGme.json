@@ -48,7 +48,7 @@
       "name": "©️12av┃影视©️",
       "type": 3,
       "api": "csp_XBPQ",
-      //"jar": "./lib/o.jar",
+      "jar": "./lib/o.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
