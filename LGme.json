@@ -43,18 +43,18 @@
         "分类": "中文$28#有码$21#🈚️🐎$22#欧美$23#动漫$24#伦理$25"}},
    
    
-     {
+       {
       "key": "12av",
       "name": "©️12av┃影视©️",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/o.jar",
+         "jar": "./lib/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
         "主页url": "https://www.12av.me/",
-		  "数组": "class=\"col-style&&</a>",
+		  "数组": "class=\"col-style d-4 m-2 lazy loaded\">&&</div></a>",
 		  "副标题":"number\">&&</span>",
         //"播放数组":"mod play-list&&</ul",
         //"跳转播放链接": "var playUrl=\"&&\"",
