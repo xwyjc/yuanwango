@@ -42,30 +42,24 @@
 		  "直接播放":"1",           
         "分类": "中文$28#有码$21#🈚️🐎$22#欧美$23#动漫$24#伦理$25"}},
    
-   
-        {"key":"凸凹不平点",
-       "name":"🚄凸凹片库🚄",
-       "type":3,
-       "api":"csp_XBPQ",
-	    "jar": "./lib/XBPQ.jar",
-       "filterable": 1,
-       "style":{"type":"rect","ratio":1.333},
-       "ext":{
-		"主页url":"https://xn--0413-1com-qc6ny85ama7362bhq5c.tutu17.cfd/",
-		"分类url":"https://xn--0413-1com-qc6ny85ama7362bhq5c.tutu17.cfd/?m=list&u=ls&k={cateId}&p={catePg}",
-	   "分类": "中文字幕$2#东京热$5#一本道$6#HeyZo$4#XXX-AV$12#人妻斩$13#TWAV$24",
-	   "数组":"<ul>&&</ul>",
-		 
-		"图片":"src=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接":"href=\"&&\"",
-        "副标题":"<span class=\"note\">&&</span>",
-         "直接播放": "1",
-		
-	 
-       "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",	   
+   {"key": "https://www.jb9551.sbs/","name": "🏃‍♀JBTV🏃‍♀️","type": 3, 
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/XBPQ.jar",
+	   
+	"api": "csp_XBPQ","ext": {
+                "主页url": "https://www.jb9551.sbs/",
+                "直接播放": "1",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "数组":" <div class=\"vod\">&&</div></div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "target=\"_blank\">&&</a>",
+                "链接": "href=\"&&\"",
+				"搜索url": "https://www.jb9551.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
+                "分类url": "https://www.jb9551.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+     	    "分类": "国产情色$1#中文字幕$4#日本无码$2#日本有码$3#网红主播$5#动漫$6#欧美$7#国模私拍$8#长腿丝袜$9#邻家人妻$10#三级伦理$11#精品推荐$12"}},
 	  
-       "搜索url":"https://xn--0413-1com-qc6ny85ama7362bhq5c.tutu17.cfd/?m=search&u=ls&k={wd}&p={pg}" }},
 	
    
    
@@ -726,47 +720,17 @@
         "图片": "style=\"background-image: url(&&);\"",
         "副标题": "</i>&&</span>",
         "标题": "title\"&&</div>",
-		"播放数组":"d-flex&&</div>",
+		"播放数组":"<div id=\"movie-title\">&&</h2>",
 		  "直接播放": "1",
         //"简介": "title\"&&</div>",
         "链接": "href=\"&&\"",
 		"搜索url": "https://24av.net/zh/search?keyword={wd}",
         "分类url": "https://24av.net/zh/{cateId}?page={catePg}",
-        "分类": "审查$dm2/censored#最近更新$dm3/recent-update#新发布$dm3/new-release#热门🔥$dm3/trending#今天🔥$dm3/today-hot#本周🔥$dm2/weekly-hot#本月🔥$dm2/monthly-hot"
+        "分类": "审查$dm3/censored#最近更新$dm5/recent-update#新发布$dm4/new-release#热门🔥$dm4/trending#今天🔥$dm4/today-hot#本周🔥$dm3/weekly-hot#本月🔥$dm3/monthly-hot"
       }
     },
 	
-	{"key":"csp_xBP顶级国产","name":"📀顶级国产📀","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar",
-	"searchable":1,"quickSearch":1,"filterable":1,"ext":
-{"站名":"顶级国产",
-//"发布url":"https://eitha--ytf.anyeav018.xyz/%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3/",
-"主页url":"https://faequeim-ub2za-faequeim.qoqavideo7y3m1.com/aovaov",
-"直接播放":"1",
-"数组":"class=\"thum&&</a></h5>",
-"数组二次截取":"<li>&&</li>",
-"图片":"data-original=\"&&\"",
-"标题":"title=\"&&\"",
-"链接":"href=\"&&\"",
-"副标题":"<span class=\"video-grade\">&&</span>",
-"搜索url": "https://faequeim-ub2za-faequeim.qoqavideo7y3m1.com/vodsearch/-------------/?wd=",
-"搜索模式":"0",
-"搜索数组":"<div class=\"myui-vodlist__box&&</h4>",
-"搜索图片":"data-original=\"&&\"",
-"搜索标题":"title=\"&&\"",
-"搜索链接":"href=\"&&\"",
-"搜索副标题":"<span class=\"score\">&&</span>",
-"搜索后缀":"/playgaokk/",
-//"播放数组": "<a class=\"myui-vodlist__thumb lazyload\">&&<h4",
-//"列表二次截取": "",
-//"播放列表": "<li class=&&</a></li>",
-//"播放标题": ">&&<",
-//"播放链接": "href=\"&&\"",
-"链接": "/vodplay/+href=\"/voddetail/&&/\"+-1-1",
-"免嗅":"0",
-//"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-"分类":"AV解说$1#中文字幕$3#国产传媒$4#日本有码$20#日本无码$21#素人搭讪$23#强奸乱伦$24#国产青色$47#黑料$29#三级$28#美巨乳$56#熟女人妻$58#自拍偷拍$60#精选日本$84#探花$80#黑料$79#cosplay$77#门事件$82#AI换脸$79#女优明星$83",
-"分类url":"https://faequeim-ub2za-faequeim.qoqavideo7y3m1.com/vodtype/{cateId}-{catePg}/"}},
-          
+	
 	
 	
 	
@@ -781,19 +745,20 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-		"主页url":"https://123av.com/zh/dm5",
+		"主页url":"https://123av.com/zh/dm6",
         "数组": "class=\"box-item\">&&</div></div>",
         "图片": "data-src=\"&&\"",
         "链接": "href=\"&&\"",
 		"标题":"<div class=\"detail\">&&</a>",
 		"副标题":"<div class=\"duration\">&&</div>",
-        
-        "直接播放": "1",
-        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+        "播放数组":"<video&&</video>",
+		 "播放链接": "src=\"&&\"",
+        //"直接播放": "1",
+        "嗅探词": "preview.mp4#.mp4?#index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
         //"嗅探过滤词":".html#=http",
         "搜索url": "https://123av.com/zh/search?keyword={wd}",
         "分类url": "https://123av.com/zh/{cateId}?page={catePg}",
-        "分类": "全新上市$dm2/new-release#最近更新$dm2/recent-update#vr影片$dm2/vr#今日热门$dm3/today-hot#本周热门$dm2/weekly-hot#本月热门$dm2/monthly-hot"
+        "分类": "全新上市$dm4/new-release#最近更新$dm5/recent-update#vr影片$dm2/vr#今日热门$dm4/today-hot#本周热门$dm3/weekly-hot#本月热门$dm3/monthly-hot"
       }
     },
 		
@@ -1306,22 +1271,7 @@
     },
 
    
-    {
-      "key": "AVMobTV",
-      "name": "🐿AVMobTV🚿",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://avmob.tv",
-        "分类url": "https://avmob.tv/zh-hant/c/category/&&/source=ja/{cateId}/",
-        "分类": "最新更新$new#日本高清$jp-hd#日本無碼$jp-uncensored#台灣高清$tw-hd#自拍流出$self-post"
-      }
-    },
-
+   
     
    
  
@@ -1479,36 +1429,7 @@
         "分类":"推荐视频$5#强奸乱伦$17#日韩亚洲$2#巨乳颜射$7#中文字幕$4#口交自慰$8#制服淫穴$9#日韩无码$11#精品女优$18#人妻系列$19#极骚萝莉$20#HEYZO$21#独家诱惑$22#高潮吹$24#三级综艺$12#首次少女$23"}},
 	 
    
-    {
-      "key": "我爱AV",
-      "name": "我爱AV社区|WO❤️AV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
-        "副标题": "span class=\"pic-text text-right\">&&</p",
-       //"线路数组":"<ul class=\"tab-top play-tab clearfix\"&&</div>", 
-       //"线路标题":"<h3>&&</h3>", 
-       //"播放数组":"<ul class=\"stui-play__list clearfix\"&&</ul>", 
-       //"播放列表":"<a&&/a>", 
-       //"播放标题":">&&<", 
-	   "线路数组": "<li&&</li>",
-        "线路标题": "✨PYLB专享✨+<h3> 私密专线 </h3> ",
-        "播放标题": ">&&</a",
-        "搜索模式": "1",
-        "搜索url": "/vodsearch/{wd}----------{pg}---.html",
-        "分类数组": "<li&&</li>",
-        "分类标题": ">&&</a",
-        "分类ID": "/vodtype/&&.html",
-        "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"
-      }
-    },
-	
+   
 	
 	
 	
