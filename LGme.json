@@ -713,7 +713,7 @@
       "name": "🌳24av🌳",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+     "jar": "./wyog2.jar",
       "ext": {
         "主页url": "https://24av.net/zh/dm5",
         "数组": "movie-item\"&&</div></div>",
@@ -740,7 +740,7 @@
       "name": "🔥123😍",
       "type": 3,
       "api": "csp_XBPQ",
-	   "jar": "./lib/XBPQ.jar",
+	 "jar": "./wyog2.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -939,17 +939,17 @@
 	"ext":{
 	"主页url": "https://avbro.xyz/", 
  
-   "数组": "<li class=\"hl-list-item&&</a>",
+   "数组": "<a class=\"hl-item-thumb hl-lazy&&</a>",
     "图片": "data-original=\"&&\"",
 	"链接": "href=\"&&\"",
 	 "标题": "title=\"&&\"",
-   "副标题": "hl-lc-1 remarks\"&&</span>",
+  // "副标题": "hl-lc-1 remarks\"&&</span>",
   
 	 "嗅探词": "index.m3u8",
 	 "直接播放": "1",
 	"跳转播放链接":"varurlDecode(var player_*url\":\"&&\")",
 	"分类url":"https://avbro.xyz/vodshow/{cateId}--{by}---{letter}---{catePg}---/",
-	"分类":"国产主播$35#国产精品$26#国产剧情$27#国产🤳$29#国模私拍$85#网红明星$91#台湾辣妹$107#香港正妹$108#人妻$31#素人$44#日本中字$51#日本🈚️🐎$22#日本有🐎$21#中字$28#口爆颜射$46#萝莉少女$47#美乳巨乳$48#制服诱惑$52#调教$57#出轨$58#有码精品$101#🈚️🐎精品$102#欧美$23#欧美精品$104"}},
+	"分类":"国产剧情$27#国产🤳$29#国模私拍$85#网红明星$91#台湾辣妹$107#香港正妹$108#人妻$31#素人$44#日本中字$51#日本🈚️🐎$22#日本有🐎$21#中字$28#口爆颜射$46#萝莉少女$47#美乳巨乳$48#制服诱惑$52#调教$57#出轨$58#有码精品$101#🈚️🐎精品$102#欧美$23#欧美精品$104"}},
 
 
 
@@ -1718,32 +1718,6 @@
         "直接播放": 1,
         "分类url": "https://airav.io/list?idx={catePg}&sort={cateId}",
         "分类": "最新發行$2#今日热门$3#本周热门$4#本月热门$5"
-      }
-    },
-   
-    {
-      "key": "ppp",
-      "name": "🎫ppp🎫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "页面代理": "127.0.0.1:10172",
-      "style": {
-        "type": "rect",
-        "ratio": 1.6
-      },
-      "ext": {
-        "主页url": "https://ppp.porn/",
-        "直接播放": "1",
-        "数组": "<figure class=\"aspect-ratio\">&&</a",
-        "图片": "data-src=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "链接": "href=\"&&\"",
-        "搜索url": "https://ppp.porn/search/{wd}/",
-        "搜索图片": "data-src=\"&&\"",
-        "搜索数组": "<figure class=\"aspect-ratio\">&&</a",
-        "分类url": "https://ppp.porn/categories/{cateId}/{catePg}/;;a",
-        "分类": "中國AV$china-av#日本片商$japan-producer#素人自拍$amateur#中國$china#台灣$taiwan#日本$japan#東南亞$se-asia#韓國$korea#香港$hongkong#Cosplay$cosplay#主播$streamer#主觀視角$first-person-pov#凌辱$bdsm#劇情$drama#多P$threesome#探花$91-tanhua#流出$released#無碼$uncensored#百合$lesbian#野外露出$exhibitionists#OL$office-lady#動漫$ac#古裝$costume#女僕$maid#學生$student#旗袍$cheongsam#獸耳$kemonomimi#瑜伽褲$yoga-pants#真理褲$dolfin-shorts#空姐$flight-attendant#絲襪$pantyhose#護士$nurse#過膝襪$knee-socks"
       }
     }
   ],
