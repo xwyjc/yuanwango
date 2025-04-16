@@ -23,7 +23,8 @@
        "type":3,
        "api":"csp_XBPQ",
        "filterable": 1,
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/XBPQ/最新.jar",
+	    "jar": "./lib/xyqxbpq.jar",
+        //"jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/XBPQ/最新.jar",
        "ext":{
 		"数组":"<div class=\"item\">&&</a></div>", 
 		"链接":"href=\"&&\"",
@@ -37,7 +38,7 @@
        "分类ID": "/list/&&.html"
        //"分类":"黄瓜资源&155资源&仓仓资源&森林资源&奥斯卡资源",
        //"分类值":"87&211&191&117&86"
-       }
+	   }
        },
 		
 	
