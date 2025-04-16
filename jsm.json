@@ -16,6 +16,32 @@
         "ratio": 1.5
       }
     },
+	
+	
+	   {"key":"AV集中营",
+       "name":"🏆sex-集中营📀",
+       "type":3,
+       "api":"csp_XBPQ",
+       "filterable": 1,
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/XBPQ/最新.jar",
+       "ext":{
+		"数组":"<div class=\"item\">&&</a></div>", 
+		"链接":"href=\"&&\"",
+	   "标题":"<h3>&&</h3>",
+       "分类url":"https://xn--0415-2sa02cc-ig5sk33b7qvq24g.ssvv0007.top/list/{cateId}/index/{catePg}.html",
+       "直接播放":"1",
+       "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+	   "分类二次截取": "<ul class=\"selects\">&&</ul>",
+       "分类数组": "<a&&/a",
+       "分类标题": ">&&<",
+       "分类ID": "/list/&&.html"
+       //"分类":"黄瓜资源&155资源&仓仓资源&森林资源&奥斯卡资源",
+       //"分类值":"87&211&191&117&86"}
+       },
+		
+	
+	
+	
      
 	 {"key":"2028天天看",
 	 "name":"📚2028天天看📚","type":3,
@@ -398,8 +424,7 @@
        },
 		
 		
-		
-	 
+	
 		
 	
 		{
