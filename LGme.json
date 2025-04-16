@@ -50,8 +50,9 @@
        "searchable":1,
        "quickSearch":1,
        "filterable":1,
+	    "jar": "./lib/XBPQ.jar",
        "ext":{
-	   "数组":"card-app card\">&&</div></div>",
+	   "数组":"card-app&&</div></div></div>",
 	  "图片": "src=\"&&\"",
       "标题":"class=\"text-xs overflowClip_1\">&&<span",
        "链接":"href=\"&&\"",
