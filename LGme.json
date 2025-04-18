@@ -70,6 +70,7 @@
        "name":"📺蜜柚视频📺",
        "type":3,
        "api":"csp_XBPQ",
+	    "jar": "./lib/XBPQ.jar",
        "searchable":1,
        "quickSearch":1,
        "filterable":1,
