@@ -237,7 +237,7 @@
       "filterable": 1,
       "ext": {
        "主页url": "https://www.125av.cc/",
-       "数组":"<div class=\"item-box\">&&</a>[不包含:125av]",
+       "数组":"<section class=\"item-box\">&&</a>[不包含:125av]",
        "图片":"src=\"&&\"",
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
@@ -247,7 +247,7 @@
 	  "播放链接": "href=\"&&\"",
 	    "搜索模式":"1",
         "搜索url":"https://www.125av.cc/vodsearch/-.html?wd={wd}",
-       "分类url": "https://www.125av.cc/vodtype/{cateId}-{catePg}.html;;a",
+       "分类url": "https://www.125av.cc/vodtype/{cateId}-{catePg}.html",
         "分类": "日韩无码$20#亚洲情色$21#中文字幕$24#国产视精品$17#制服丝袜$28#少女萝莉$29#欧美高清$22#国产自拍$18#巨乳美乳$31#熟女人妻$26#潮吹口交$20#强奸乱伦$27#三级伦理$23#少女萝莉$19"
       }
     },
