@@ -4,6 +4,37 @@
     "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
   "sites": [
     
+	
+	
+	    {
+      "key": "蜜桃屯",
+      "name": "🍑38D蜜桃臀🍑",
+      "type": 3,
+      "api": "csp_XBPQ",
+      //"jar": "./lib/xyqxbpq.jar",
+      "ext": {
+      
+        "数组": "<dl>&&</dl>",
+        "图片": "data-original=\"&&\"",
+        "标题": "<h3>&&</h3>",
+        "链接": "href=\"&&\"",
+        "直接播放": "1",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "搜索url": "https://u3v4w5x6.nxcy1.cc/vodsearch/-------------.html?wd={wd}",
+        "分类url": "https://u3v4w5x6.nxcy1.cc/vodtype/{cateId}-{catePg}.html",
+		  
+	   "分类数组": "<a&&a>",
+        "分类标题": ">&&</",
+        "分类ID": "/vodtype/&&.html"
+        //"分类": "国产AV$1#日韩AV$2#欧美AV$3#污污动漫$4#高清字幕$5#顶级主播$9#外流泄密$11#偷窥偷拍$14#传媒剧情$15#强奸乱伦$13#三级伦理$16",
+    
+      }
+    },
+	
+	
+	
+	
+	
      {"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy",
       "style": {
         "type": "rect",
@@ -67,7 +98,6 @@
 	  
    	  
 
-	
  
 	  
    
@@ -131,7 +161,7 @@
 	
 	
 	   {"key":"黄色仓库",
-       "name":"🧎‍♀️黄色仓库🧎‍♀️",
+       "name":"🧎‍♀️黄色仓库hsck43🧎‍♀️",
        "type":3,
        "api":"csp_XBPQ",
        "searchable":1,
@@ -160,7 +190,7 @@
 	  
 	
 	{"key":"黄色仓库啦",
-       "name":"🌶黄色仓库啦🌶",
+       "name":"🌶黄色仓库hsck.la🌶",
        "type":3,
        "api":"csp_XBPQ",
        "searchable":1,
@@ -274,7 +304,7 @@
       "filterable": 1,
       "ext": {
         "主页url": "https://www.1av.shop/label/new.html",
-        "播放数组":"mod play-list&&</ul",
+       
         "跳转播放链接": "var player_aaaa*url\":\"&&\"",
         "链接": "href=\"&&\"",
        "标题": "alt=\"&&\"",
