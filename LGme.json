@@ -251,27 +251,7 @@
     },
 	
 	
-	 	{"key":"天籁精选",
-       "name":"📺天籁精选📺",
-       "type":3,
-       "api":"csp_XBPQ",
-       "searchable":1,
-       "quickSearch":1,
-	   "jar": "./lib/xbpq.jar",
-       "filterable":1,
-       "ext":{"数组":"<li>&&</li>",
-	   "图片": "data-original=\"&&\"",
-      "标题":">&&</a></h5>",
-      "链接": "href=\"&&\"", 
-      "副标题":"class=\"title\">&&</span></p>",
-	   "搜索url":"https://xn--0420-1tianlailat-qy21b.tianlai17.my/?m=search&u=ls&k={wd}&p=1",
-       "搜索模式":"1",
-	   "分类url":"https://xn--0420-1tianlailat-qy21b.tianlai17.my/?m=list&u=ls&k={cateId}&p={catePg}",
-      "分类":"步兵$1#中字$2#FC2$3#HeyZo$4#东京热$5#一本道$6#Caribb$7#Caribpr$8#Pacopa$10#Gachinco$11#XXX-AV$12#人妻斩$13#顽皮4610$14#顽皮0930$15#SIRO$16#GANA$18#PRESTIG$20#S-CUTE$21#ARA$22#麻豆传媒$23#TWAV$24#Furuke$25",
 	 
-	   "直接播放":"1"  
-   }
-    },
 	
 	
 	
