@@ -81,25 +81,7 @@
 
 	
 
- {"key":"7mmtv.sx",
-       "name":"🏀7MMTV🏀",
-       "type":3,
-       "api":"csp_XBPQ",
-	   //"jar": "./lib/xyqxbpq.jar",
-	  
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1,
-       "ext":{"主页url": "https://7mmtv.sx/zh/",
-	  "数组":"<figure class=\"video-preview\">&&</figure>",
-	  "图片": "src=\"&&\"",
-      "标题":"alt=\"&&\"",
-       "链接":"href=\"&&\"",
-	   "搜索url":"https://7mmtv.sx/zh/searchform_search/all/index.html",
-       "搜索模式":"1",
-	   "分类url":"https://7mmtv.sx/zh/{cateId}/all/{catePg}.html",
-      "分类":"步兵破解$reducing-mosaic_list#中字$chinese_list#骑兵$censored_list#素人$amateurjav_list#步兵$uncensored_list#国产$amateur_list",
-	   "直接播放":"1"  }},	
+ 
 	  
    
    
