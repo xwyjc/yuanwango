@@ -19,10 +19,10 @@
 	
 	
 		     {"key":"蜜柚视频",
-       "name":"🐝蜜柚视频🐝",
+       "name":"📺蜜柚视频📺",
        "type":3,
        "api":"csp_XBPQ",
-	"jar": "./lib/xyqxbpq.jar",
+	 "jar": "./lib/xyqxbpq.jar",
        "searchable":1,
        "quickSearch":1,
        "filterable":1,
@@ -34,11 +34,11 @@
 	   "搜索url":"https://go.miyoav.fun/vodsearch/-------------.html?wd={wd}",
        "搜索模式":"1",
 	   "分类url":"https://go.miyoav.fun/vodtype/{cateId}-{catePg}.html",
-	  "分类数组": "<a&&a>",
-       "分类标题": ">&&</",
-        "分类ID": "/vodtype/&&.html",
+	    "分类数组": "<a&&a>",
+        "分类标题": ">&&</",
+         "分类ID": "/vodtype/&&.html",
       //"分类":"一区$1#二区$2",
-	  //"类型":"国产视频$6#传媒$7#主播$8#网红$9#网暴$10#极品$11#抖音$12#女优$20#日本传媒$13#日本🈶️🐎$14#🈚️🐎$15#强+伦$16#调教$21#萝莉$22#欧美$23#动漫$24",
+	 // "类型":"国产视频$6#传媒$7#主播$8#网红$9#网暴$10#极品$11#抖音$12#女优$20#日本传媒$13#日本🈶️🐎$14#🈚️🐎$15#强+伦$16#调教$21#萝莉$22#欧美$23#动漫$24",
        "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	   "直接播放":"1"  
    }
@@ -46,16 +46,15 @@
 	
 	
 	 
-		
-		{"key":"天籁精选",
+			{"key":"天籁精选",
        "name":"😁天籁精选😁",
        "type":3,
        "api":"csp_XBPQ",
        "searchable":1,
        "quickSearch":1,
-	   "jar":"https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/jar/He.jar",
+	   "jar": "./lib/xyqxbpq.jar",
        "filterable":1,
-       "ext":{"数组":"<li>&&</li>",
+       "ext":{"数组":"\"thumbnail random-list\"&&\"thumbnail random-list\"",
 	   	"主页url": "https://xn--0420-2tianlailat-qy21b.tianlai17.my/?",
 	   "图片": "data-original=\"&&\"",
       "标题":">&&</a></h5>",
@@ -69,6 +68,27 @@
 	   "直接播放":"1"  
    }
     },
+	
+	
+	
+   	   {"key":"7mmtv.sx",
+       "name":"🏀7MMTV🏀",
+       "type":3,
+       "api":"csp_XBPQ", "jar": "./lib/xyqxbpq.jar",
+	  
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+       "ext":{"主页url": "https://7mmtv.sx/zh/",
+	  "数组":"<figure class=\"video-preview\">&&</figure>",
+	  "图片": "src=\"&&\"",
+      "标题":"alt=\"&&\"",
+       "链接":"href=\"&&\"",
+	   "搜索url":"https://7mmtv.sx/zh/searchform_search/all/index.html",
+       "搜索模式":"1",
+	   "分类url":"https://7mmtv.sx/zh/{cateId}/all/{catePg}.html",
+      "分类":"步兵破解$reducing-mosaic_list#中字$chinese_list#骑兵$censored_list#素人$amateurjav_list#步兵$uncensored_list#国产$amateur_list",
+	   "直接播放":"1"  }},	
 	
 	
      
