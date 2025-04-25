@@ -16,7 +16,24 @@
         "ratio": 1.5
       }
     },
-	
+	      { "key": "jav名优馆","name": "名优🚎影视",
+      "type": 3,"api": "csp_XBPQ",
+	  "jar": "./lib/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://mygzyz.com/",
+       "数组": "\"grid_item\"&&\"grid_item\"",
+       "标题": "<p class=\"description\"></span>&&</p>",
+       "图片": "data-src=\"&&\"",
+       "链接": "href=\"&&\"",
+       "直接播放":"1",
+	   "搜索模式": "1", 
+	   "搜索url": "https://mygzyz.com/search/?searchtypeval=&keyword={wd}&page=1",
+	   "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+       "分类url": "https://mygzyz.com/8/{cateId}.html?page={catePg}",
+        "分类": "中文字幕$250#步兵典藏$224#骑马精品$275#国产片商$276"
+      }},
 	
 		     {"key":"蜜柚视频",
        "name":"📺蜜柚视频📺",
