@@ -20,7 +20,7 @@
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
-    "jar": "./lib/XBPQ.jar",
+    "jar": "./lib/fm.jar",
     "quickSearch":1,
     "filterable":1,
     "ext":{"数组":"stui-vodlist__thumb lazyload&&</a",
