@@ -38,7 +38,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {"主页url": "https://mygzyz.com/",
-       "数组": "<div class=\"grid_item\">&&</a>",
+       "数组": "\"grid_item\"&&\"grid_item\"",
        "标题": "<p class=\"description\"></span>&&</p>",
        "图片": "data-src=\"&&\"",
        "链接": "href=\"&&\"",
