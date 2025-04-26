@@ -69,27 +69,40 @@
 
 	
 
+         { "key": "红桃🍑影视","name": "红桃🐣影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+	    "jar": "./lib/XBPQ.jar",
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://www.htkt106.vip:9527/",
+       "数组": "\"v-item\"&&\"v-item\"",
+       "标题": " vclass=\"v-title\">&&</a>",
+       "图片": "data-original=\"&&\"",
+       "链接": "href=\"&&\"",
+       "直接播放":"1",
+	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+       "分类url": "https://www.htkt106.vip:9527/type/{cateId}/--{by}-{catePg}",
+        "分类": "传媒$chuanmei#日韩$rihan#解说$zongyi"
+      }},
+  
  
-	   
-    {"key": "69avwang","name": "69🎦影院",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-     "jar": "./lib/XBPQ.jar",
-	"ext": { "主页url": "https://69.69avw9.buzz/69/", 
-	"数组":"stui-vodlist__box\">&&</div></div>",
-	"图片": "data-original=\"&&\"",
-    "标题":"title=\"&&\"",
-	"简介": "description\" content=\"&&剧情",  
-	//"线路数组": "<ul class=\"tab-top play-tab clearfix\">&&</ul>",
-	//"线路标题": ">&&</a>",
-	"播放数组": "<ul class=\"stui-play__list clearfix\">&&</ul>",
-    "播放列表": "<a&&a>",
-	"播放标题": ">&&</",
-	"播放链接": "href=\"&&\"",
-	 "分类": "全站$1#步兵$26#骑兵$31#强轮$33#制服$65#中字$69#女优$72#素人$73#角色$85#萝莉$84#熟女$83#汝汝$82#骑兵$81",
-	  
-	"搜索模式": "1", 
-	"搜索url": "https://69.69avw9.buzz/69/index.php/vod/search.html?wd={wd}",
-	"分类url":"https://69.69avw9.buzz/69/index.php/vod/show/type/id/{cateId}/page/{catePg}.html"}},
+	{"key":"狼友影院","name":"狼友🐺影院","type":3,  "jar": "./lib/XBPQ.jar",
+         "api":"csp_XBPQ","searchable":1,
+        "quickSearch":1,"filterable":1,"ext":{
+        "主页url":"https://xn--fjq226l.langyou362.lat/",
+        "数组":"<div class=\"item&&</a>",
+        "图片":"data-original=\"&&\"",
+        "标题":"class=\"title\">&&</strong>",
+        "副标题":"<em>&&</em",
+        "简介":"description\" content=\"&&",
+		 "链接": "href=\"&&\"",
+        "直接播放":"1",
+        "搜索模式":"1",
+        "搜索url":"https://xn--fjq226l.langyou362.lat/index.php/vod/search/wd/{wd}.html",
+        
+		 "分类": "国产情色$1517#主播探花$1534#日本无码$1518#中文字幕$1520#有码$1519",
+        "分类url":"https://xn--fjq226l.langyou362.lat/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
    
    
    
