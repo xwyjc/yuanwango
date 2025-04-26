@@ -69,41 +69,6 @@
 
 	
 
-         { "key": "红桃🍑影视","name": "红桃🐣影视",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-	    "jar": "./lib/fm.jar",
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"主页url": "https://www.htkt106.vip:9527/",
-       "数组": "\"v-item\"&&\"v-item\"",
-       "标题": " vclass=\"v-title\">&&</a>",
-       "图片": "data-original=\"&&\"",
-       "链接": "href=\"&&\"",
-       "直接播放":"1",
-	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-       "分类url": "https://www.htkt106.vip:9527/type/{cateId}/--{by}-{catePg}",
-        "分类": "传媒$chuanmei#日韩$rihan#解说$zongyi"
-      }},
-  
- 
-	{"key":"狼友影院","name":"狼友🐺影院","type":3,  "jar": "./lib/fm.jar",
-         "api":"csp_XBPQ","searchable":1,
-        "quickSearch":1,"filterable":1,"ext":{
-        "主页url":"https://xn--fjq226l.langyou362.lat/",
-        "数组":"<div class=\"item&&</a>",
-        "图片":"data-original=\"&&\"",
-        "标题":"class=\"title\">&&</strong>",
-        "副标题":"<em>&&</em",
-        "简介":"description\" content=\"&&",
-		 "链接": "href=\"&&\"",
-        "直接播放":"1",
-        "搜索模式":"1",
-        "搜索url":"https://xn--fjq226l.langyou362.lat/index.php/vod/search/wd/{wd}.html",
-        
-		 "分类": "国产情色$1517#主播探花$1534#日本无码$1518#中文字幕$1520#有码$1519",
-        "分类url":"https://xn--fjq226l.langyou362.lat/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
-   
    
    
    
