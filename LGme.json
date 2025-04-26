@@ -72,7 +72,7 @@
          { "key": "红桃🍑影视","name": "红桃🐣影视",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
-	    "jar": "./lib/XBPQ.jar",
+	    "jar": "./lib/fm.jar",
       "quickSearch": 1,
       "filterable": 1,
       "ext": {"主页url": "https://www.htkt106.vip:9527/",
@@ -87,7 +87,7 @@
       }},
   
  
-	{"key":"狼友影院","name":"狼友🐺影院","type":3,  "jar": "./lib/XBPQ.jar",
+	{"key":"狼友影院","name":"狼友🐺影院","type":3,  "jar": "./lib/fm.jar",
          "api":"csp_XBPQ","searchable":1,
         "quickSearch":1,"filterable":1,"ext":{
         "主页url":"https://xn--fjq226l.langyou362.lat/",
