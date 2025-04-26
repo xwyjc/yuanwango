@@ -73,14 +73,14 @@
 	   
     {"key": "69avwang","name": "69🎦影院",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	  "jar": "./lib/XBPQ.jar",
+
 	"ext": { "主页url": "https://69.69avw9.buzz/69/", 
 	"数组":"stui-vodlist__box\">&&</div></div>",
 	"图片": "data-original=\"&&\"",
     "标题":"title=\"&&\"",
 	"简介": "description\" content=\"&&剧情",  
-	"线路数组": "<ul class=\"tab-top play-tab clearfix\">&&</ul>",
-	"线路标题": ">&&</a>",
+	//"线路数组": "<ul class=\"tab-top play-tab clearfix\">&&</ul>",
+	//"线路标题": ">&&</a>",
 	"播放数组": "<ul class=\"stui-play__list clearfix\">&&</ul>",
     "播放列表": "<a&&a>",
 	"播放标题": ">&&</",
