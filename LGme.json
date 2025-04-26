@@ -73,7 +73,7 @@
 	   
     {"key": "69avwang","name": "69🎦影院",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-         
+     "jar": "./lib/XBPQ.jar",
 	"ext": { "主页url": "https://69.69avw9.buzz/69/", 
 	"数组":"stui-vodlist__box\">&&</div></div>",
 	"图片": "data-original=\"&&\"",
@@ -85,9 +85,8 @@
     "播放列表": "<a&&a>",
 	"播放标题": ">&&</",
 	"播放链接": "href=\"&&\"",
-	 "分类数组": "<a&&/a>",
-     "分类标题": ">&&<",
-     "分类ID": "/69/index.php/vod/show/id/&&.html", 
+	 "分类": "全站$1#步兵$26#骑兵$31#强轮$33#制服$65#中字$69#女优$72#素人$73#角色$85#萝莉$84#熟女$83#汝汝$82#骑兵$81",
+	  
 	"搜索模式": "1", 
 	"搜索url": "https://69.69avw9.buzz/69/index.php/vod/search.html?wd={wd}",
 	"分类url":"https://69.69avw9.buzz/69/index.php/vod/show/type/id/{cateId}/page/{catePg}.html"}},
