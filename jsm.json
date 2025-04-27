@@ -45,20 +45,29 @@
     },
 	
 	
-	   
-    {"key": "69avwang","name": "69🎦影院",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-     "jar": "./lib/xyqxbpq.jar",
-	"ext": {  
-	"数组":"stui-vodlist__box\">&&</div></div>",
-	"图片": "data-original=\"&&\"",
-    "标题":"title=\"&&\"",
-	"简介": "description\" content=\"&&剧情",  
-    "跳转播放链接": "var player_*\"url\":\"&&\"",
-	 "分类": "全站$1#步兵$26#骑兵$31#强轮$33#制服$65#中字$69#女优$72#素人$73#角色$85#萝莉$84#熟女$83#汝汝$82#骑兵$81",
-	"搜索模式": "1", 
-	"搜索url": "https://69.69avw9.buzz/69/index.php/vod/search.html?wd={wd}",
-	"分类url":"https://69.69avw9.buzz/69/index.php/vod/show/type/id/{cateId}/page/{catePg}.html"}},
+	      { "key": "gqxhl","name": "高清黑料🌚影视",
+      "type": 3,"api": "csp_XBPQ",  "jar": "./lib/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://www.gqxhl.top/",
+         "数组": "<div class=\"item \">&&</a></div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "<strong class=\"title\">&&</strong>",
+                "链接": "href=\"&&\"",
+                "副标题": "  <div class=\"added\"><em>&&</em></div>",
+                "线路数组": "<div class=\"tabs-menu\">&&</div>[排序:在线播放>备用播放>在线播放>备用播放]",
+                "线路标题": ">&&</a>",
+                "播放数组": "<div class=\"tabs-menu\">&&</div>",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&<",
+                "播放链接": "href=\"&&\"",
+              "分类url": "https://www.gqxhl.top/index.php/vod/type/id/cateId}/page/{catePg}.html",
+              "分类数组": "<a&&</a>",
+              "分类标题": ">&&<",
+               "分类ID": "/index.php/vod/type/id/&&.html"
+      }},
+
 	
      
 	 {"key":"2028天天看",
