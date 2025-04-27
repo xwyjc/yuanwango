@@ -5,7 +5,29 @@
   "sites": [
     
 
-	
+	      { "key": "gqxhl","name": "高清黑料🌚影视",
+      "type": 3,"api": "csp_XBPQ",  "jar": "./lib/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://www.gqxhl.top/",
+         "数组": "<div class=\"item \">&&</a></div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "<strong class=\"title\">&&</strong>",
+                "链接": "href=\"&&\"",
+                "副标题": "  <div class=\"added\"><em>&&</em></div>",
+                "线路数组": "<div class=\"tabs-menu\">&&</div>[排序:在线播放>备用播放>在线播放>备用播放]",
+                "线路标题": ">&&</a>",
+                "播放数组": "<div class=\"tabs-menu\">&&</div>",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&<",
+                "播放链接": "href=\"&&\"",
+              "分类url": "https://www.gqxhl.top/index.php/vod/type/id/cateId}/page/{catePg}.html",
+              "分类数组": "<a&&</a>",
+              "分类标题": ">&&<",
+               "分类ID": "/index.php/vod/type/id/&&.html"
+      }},
+  
 	
 	
      {"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy",
