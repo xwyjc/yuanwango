@@ -650,6 +650,24 @@
             }
         },
         
+		
+		    { "key": "偷偷啪","name": "偷偷啪😱影视",
+      "type": 3,"api": "csp_XBPQ", "jar": "./lib/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://ttp224.shop",
+       "数组": "<a class=\"link&&</a>",
+       "标题": "title=\"&&\"",
+       "图片": "data-src=\"&&\"",
+       "副标题":"<i class=\"time icon p16\">&&</i>",
+       "链接": "href=\"&&\"",
+      "直接播放":"1",
+       "分类url": "https://ttp224.shop/videolist/{cateId}-{catePg}.html",
+        "分类": "国产视频$6#字幕视频$4#中文字幕$3#高清欧美$1#性吧视频$7"
+      }},
+		
+		
   
        {
       "key": "JAVSB",
