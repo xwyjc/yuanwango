@@ -31,8 +31,29 @@
    "分类url":"https://askdy.net/vodtype/{cateId}-{catePg}.html;;z",
    "分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#无码精选$27#动漫卡通$28#换脸系列$29#欧美大片$30"}},
    
-
-
+   
+      { "key": "绅士影院","name": "绅士🙂影院",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	   "jar": "./lib/XBPQ.jar",
+      "ext": {
+       "数组": " <div class=\"mdui-col&&</div></div>",
+       "标题": "class=\"mdui-text-center mdui-p-y-1 mdui-m-x-1 mdui-text-truncate\">&&<br/>",
+       "图片": " data-original=\"&&\"",
+       "副标题":"class=\"mdui-typo-caption-opacity\">&&</span>",
+       "链接": "href=\"&&\"",
+      "直接播放":"1",
+       "分类url": "https://xn--fy2a65v.admin44.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+	    "分类数组": "<a&&/a>",
+        "分类标题": ">&&<",
+        "分类ID": "/index.php/vod/type/id/&&/"
+       
+      }},
+    
+	
+	
    
      
     {"key":"https://avfls.xyz/",
@@ -1678,7 +1699,7 @@
       }
     },
   
-
+  
   
 
   
