@@ -37,7 +37,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	   "jar": "./lib/XBPQ.jar",
+	   "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lishuncai8881/c/jar/xbpq.jar",
       "ext": {
        "数组": " <div class=\"mdui-col&&</div></div>",
        "标题": "class=\"mdui-text-center mdui-p-y-1 mdui-m-x-1 mdui-text-truncate\">&&<br/>",
