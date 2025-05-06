@@ -55,7 +55,7 @@
   
      {"key":"骑士视频", "name":"骑士🐎视频",
        "type":3,"api":"csp_XBPQ","searchable":1,
-	    "jar": "./lib/XBPQ.jar",
+	  "jar":"http://mgz.eoes.top/down.php/fd3cefc7302f3a39a442682f802b11e5.jar",
        "quickSearch":1, "filterable":1,
 	   "ext":{"数组":"<a class=\"js-gallery-stats&&</a>",
 	   "图片": "src=\"&&\"",
@@ -758,7 +758,7 @@
       "name": "🌳24av🌳",
       "type": 3,
       "api": "csp_XBPQ",
-  
+    "jar":"http://mgz.eoes.top/down.php/fd3cefc7302f3a39a442682f802b11e5.jar",
       "ext": {
         "主页url": "https://24av.net/zh/dm5",
         "数组": "movie-item\"&&</div></div>",
@@ -785,7 +785,7 @@
       "name": "🔥123😍",
       "type": 3,
       "api": "csp_XBPQ",
-	  
+	  "jar":"http://mgz.eoes.top/down.php/fd3cefc7302f3a39a442682f802b11e5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
