@@ -80,6 +80,27 @@
     },
 	
    
+     {
+    "key": "小淫虫",
+    "name": "📺小淫虫",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./lib/XBPQ.jar",
+    "ext": {
+        "主页url": "https://xyc13.xyz",
+        "直接播放": "1",
+        "数组": "\"van-col van-col--12 madou_item\"&&\"van-col van-col--12 madou_item\"",
+         "图片":"data-src=\"&&\"",
+      "标题":"title=\"&&\"",
+       "链接":"href=\"&&\"",
+        "分类": "日韩步兵$1#国产精品$2#中文字幕$156#日韩精品$3#制服$158#解说$162#传媒合集$163",
+        "分类url":"https://xyc13.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"}
+    },
+
+	
+   
+   
+   
      
     {"key":"https://avfls.xyz/",
        "name":"🌶avfls.xyz🌶",
