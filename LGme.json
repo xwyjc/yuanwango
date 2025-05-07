@@ -55,7 +55,7 @@
   
      {"key":"骑士视频", "name":"骑士🐎视频",
        "type":3,"api":"csp_XBPQ","searchable":1,
-	  "jar":"http://mgz.eoes.top/down.php/fd3cefc7302f3a39a442682f802b11e5.jar",
+	   "jar": "./lib/o.jar",
        "quickSearch":1, "filterable":1,
 	   "ext":{"数组":"<a class=\"js-gallery-stats&&</a>",
 	   "图片": "src=\"&&\"",
@@ -696,7 +696,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {"主页url": "https://ttp224.shop",
-       "数组": "<a class=\"link&&</a>",
+       "数组": "<div class=\"grid_item\">&&</a></div>",
        "标题": "title=\"&&\"",
        "图片": "data-src=\"&&\"",
        "副标题":"<i class=\"time icon p16\">&&</i>",
@@ -758,7 +758,7 @@
       "name": "🌳24av🌳",
       "type": 3,
       "api": "csp_XBPQ",
-    "jar":"http://mgz.eoes.top/down.php/fd3cefc7302f3a39a442682f802b11e5.jar",
+   
       "ext": {
         "主页url": "https://24av.net/zh/dm5",
         "数组": "movie-item\"&&</div></div>",
@@ -766,7 +766,7 @@
         "副标题": "</i>&&</span>",
         "标题": "title\"&&</div>",
 		"播放数组":"<div id=\"movie-title\">&&</h2>",
-		  "直接播放": "1",
+		  "直接播放": "0",
         //"简介": "title\"&&</div>",
         "链接": "href=\"&&\"",
 		"搜索url": "https://24av.net/zh/search?keyword={wd}",
@@ -785,7 +785,7 @@
       "name": "🔥123😍",
       "type": 3,
       "api": "csp_XBPQ",
-	  "jar":"http://mgz.eoes.top/down.php/fd3cefc7302f3a39a442682f802b11e5.jar",
+	 
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -799,7 +799,7 @@
 		"播放数组":"<div id=\"player&&</div>",
         "播放列表":"<video&&</video>",
 		 "播放链接": "src=\"&&\"",
-        "直接播放": "1",
+        "直接播放": "0",
         "嗅探词": "preview.mp4#.mp4?#index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
         //"嗅探过滤词":".html#=http",
         "搜索url": "https://123av.com/zh/search?keyword={wd}",
