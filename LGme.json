@@ -690,12 +690,10 @@
         },
         
 		
-		    { "key": "偷偷啪","name": "偷偷啪😱影视",
-      "type": 3,"api": "csp_XBPQ", "jar": "./lib/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"主页url": "https://ttp224.shop",
+	{ "key": "偷偷啪","name": "偷偷啪😱影视",
+      "type": 3,"api": "csp_XBPQ", 
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {
        "数组": "<div class=\"grid_item&&</a>",
        "标题": "title=\"&&\"",
        "图片": "data-src=\"&&\"",
@@ -709,10 +707,8 @@
 		
   
        {
-      "key": "JAVSB",
-      "name": "👨JAVSB👨",
-      "type": 3,
-      "api": "csp_XBPQ",
+      "key": "JAVSB","name": "👨JAVSB👨",
+      "type": 3,"api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
       "ext": {
         "主页url": "https://jav.sb/",
