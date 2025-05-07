@@ -696,7 +696,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {"主页url": "https://ttp224.shop",
-       "数组": "<div class=\"grid_item\">&&</a></div>",
+       "数组": "<div class=\"grid_item&&</a>",
        "标题": "title=\"&&\"",
        "图片": "data-src=\"&&\"",
        "副标题":"<i class=\"time icon p16\">&&</i>",
