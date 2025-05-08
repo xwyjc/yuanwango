@@ -824,8 +824,8 @@
 				"链接": "href=\"&&\"",
 				"搜索模式": "1",
 				"搜索url": "https://www.kissavtv.com/search/page/{pg}/wd/{wd}.html",
-				"分类数组": "<a class=\"tag text-light&&</a",
-				"分类标题": "title=\"&&\"",
+				"分类数组": "<div class=\"horizontal-img-box ml-3 mb-3\">&&</a>",
+				"分类标题": "<h6 class=\"title\">&&</h6>",
 				"分类ID": "https://www.kissavtv.com/index/tagMvs/tags/&&\"",
 				"分类url": "https://www.kissavtv.com/index/tagmvs/tags/{cateId}/sort/update/page/{catePg};;z"
 			}
