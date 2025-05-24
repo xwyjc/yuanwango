@@ -284,6 +284,44 @@
 			}
 		},
 		
+			{
+            "key": "5199影院",
+            "name": "5199┃影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://5199ys.com/",
+                "数组": "<li><div class=\"stui-vodlist__box\">&&</li>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "<span class=\"pic-text1 text-right\"><b>&&</b>",
+				"主演": "<p class=\"text text-overflow text-muted hidden-xs\">&&</p>",
+				"导演": "导演：&&</p>",
+				"状态": "状态：&&</p>",
+				"更新": "更新：&&</p>",
+				"简介": "detail-sketch\">&&</span>",
+                "链接": "href=\"&&\"",
+                "播放数组": "<ul class=\"stui-play__list clearfix\">&&</ul>",
+                "播放链接": "href=\"&&\"",
+                "播放列表": "<a&&a>",
+                "播放标题": ">&&</",
+                "线路数组": "<ul class=\"tab-top&&</ul>",
+                "线路标题": ">&&</a>",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+				"搜索模式": "1",
+				"搜索url": "https://5199ys.com/filmsearch/-------------.html",
+                "分类url": "https://5199ys.com/class/{cateId}-{catePg}.html",
+                "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#短剧$duanju#动作片$dongzuo#爱情片$aiqing#喜剧片$xiju#剧情片$juqing#战争片$zhanzheng#纪录片$jilupian#大陆剧$guochanju#韩剧$hanju#台湾剧$taiju#日本剧$riju#香港剧$gangju#欧美剧$uomeiju#大陆综艺$daluzy#港台综艺$gangtaizy#日韩综艺$rihanzy"
+            }
+        },
+		
+		
+		
 		{
             "key": "GimyTV",
             "name": "💕GimyTV",
@@ -552,7 +590,24 @@
         "线路标题": ">&&</span>",
         "分类url": "https://kimivod.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$2#电视剧$1#动漫$3#综艺$4#短剧$39"}},
-	{"key":"csp_XBPQ_555","name":"🍚555(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"站名":"555影视","主页url":"https://www.zxk555.com/","简介":"video-info-item video-info-content vod_content\"&&</div>","导演":"导演：&&</div>","主演":"主演：&&</div>","影片状态":"集数：&&</div>","影片类型":"module-info-tag\">&&立即播放","数组":"<a&&</div></div></a>","标题":"title=\"&&\"","副标题":"note\">&&</div>","图片":"data-original=\"&&\"","链接":"href=\"&&\"","线路数组":"data-dropdown-value=&&</div>[不包含:新浪线路#无尽线路#天空线路#红牛线路#DM线路][排序:珊瑚蓝光]","线路标题":"<span>&&</small>[替换:555蓝光>>珊瑚蓝光#</span><small>>>共]+集","播放数组":"<div class=\"module-play-list-content&&</div>","播放标题":"<span>&&</span>","播放列表":"<a&&</a>","分类url":"https://www.zxk555.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak","分类":"电影$1#电视剧$2#综艺纪录$3#动漫$4"}},	
+	
+	{"key":"csp_XBPQ_555","name":"🍚555(XBPQ)","type":3,
+	"api":"csp_XBPQ","searchable":1,
+	"quickSearch":1,"filterable":1,
+	"ext":{"站名":"555影视","主页url":"https://www.zxk555.com/",
+	"简介":"video-info-item video-info-content vod_content\"&&</div>",
+	"导演":"导演：&&</div>","主演":"主演：&&</div>",
+	"影片状态":"集数：&&</div>",
+	"影片类型":"module-info-tag\">&&立即播放",
+	"数组":"<a&&</div></div></a>","标题":"title=\"&&\"",
+	"副标题":"note\">&&</div>","图片":"data-original=\"&&\"",
+	"链接":"href=\"&&\"",
+	"线路数组":"data-dropdown-value=&&</div>[不包含:新浪线路#无尽线路#天空线路#红牛线路#DM线路][排序:珊瑚蓝光]",
+	"线路标题":"<span>&&</small>[替换:555蓝光>>珊瑚蓝光#</span><small>>>共]+集",
+	"播放数组":"<div class=\"module-play-list-content&&</div>",
+	"播放标题":"<span>&&</span>","播放列表":"<a&&</a>",
+	"分类url":"https://www.zxk555.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
+	"分类":"电影$1#电视剧$2#综艺纪录$3#动漫$4"}},	
 		
 		
 		{
@@ -722,7 +777,7 @@
 		  {"key": "无线资源网",  "name": "无线资源网",  "type": 0,  "api": "https://api.wuxianzy.net/api.php/provide/vod/at/xml/",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
 		
 		
-		  		  {"key": "魔爪资源采集网",  "name": "魔爪资源",  "type": 0,  "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
+		 {"key": "魔爪资源采集网",  "name": "魔爪资源",  "type": 0,  "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
 		
 		  {"key": "蜂巢片库采集站",  "name": "蜂巢片库",  "type": 0,  "api": "https://api.fczy888.me/api.php/provide/vod/at/xml",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
 		
