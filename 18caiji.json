@@ -46,6 +46,39 @@
     },
 	
 	
+	   {
+      "key": "黄色仓库资源",
+      "name": "🔞黄色仓库",
+      "type": 1,
+      "api": "https://hsckzy.vip/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	
+	
+	  {
+      "key": "小鸡资源采集站",
+      "name": "🔞小鸡资源",
+      "type": 1,
+      "api": "https://api.xiaojizy.live/provide/vod?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	
+	 {
+      "key": "杏吧资源站",
+      "name": "🔞杏吧资源",
+      "type": 1,
+      "api": "https://xingba111.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	
+	
+	
 	  {
       "key": "apidanaizi",
       "name": "🔞大奶子",
@@ -81,18 +114,7 @@
 	
 	
 	
-	
-	
-	 {
-      "key": "花猫",
-      "name": "花猫",
-      "type": 1,
-      "api": "https://to.to-long.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-	
+
 	{
       "key": "api.sexnguon.com",
       "name": "🔞色南国✈️",
