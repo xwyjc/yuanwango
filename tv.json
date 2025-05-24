@@ -719,6 +719,18 @@
 		   {"key": "https://tyyszy.com/",  "name": "天涯影视",  "type": 0,  "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
 		 {"key": "樱花",  "name": "樱花资源网",  "type": 0,  "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
 		
+		  {"key": "无线资源网",  "name": "无线资源网",  "type": 0,  "api": "https://api.wuxianzy.net/api.php/provide/vod/at/xml/",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
+		
+		
+		  		  {"key": "魔爪资源采集网",  "name": "魔爪资源",  "type": 0,  "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
+		
+		  {"key": "蜂巢片库采集站",  "name": "蜂巢片库",  "type": 0,  "api": "https://api.fczy888.me/api.php/provide/vod/at/xml",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
+		
+		 {"key": "爱奇艺资源站",  "name": "爱奇艺",  "type": 0,  "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
+		
+		 {"key": "茅台资源站",  "name": "茅台资源站",  "type": 0,  "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
+		
+		 {"key": "金蝉官采影视",  "name": "金蝉官采影视",  "type": 1,  "api": "http://jczy.jinchan.pro/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": [ ]},
 		
 		{"key": "360",  "name": "360资源",  "type": 1,  "api": "https://360zy.com/api.php/provide/vod/at/json",  "searchable": 1,  "changeable": 1,  "categories": ["历史片","古装片","灾难片","悬疑片","动作片","喜剧片","爱情片","科幻片","战争片","剧情片","犯罪片","欧美剧","动画电影","国产剧","香港剧","台湾剧","记录片","韩国剧","日本剧","港台综艺","日韩综艺","大陆综艺" ]},
 		  {"key": "YY",  "name": "丫丫资源",  "type": 1,  "api": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1,  "categories": ["4K电影","动作片","喜剧片","爱情片","科幻片","战争片","剧情片","犯罪片","欧美剧","动画电影","国产剧","港剧","台湾剧","记录片","韩剧","日剧","港台综艺","日韩综艺","大陆综艺"]},
@@ -993,6 +1005,55 @@
 				"播放列表": "<a&&/a>",
 				"分类url": "https://www.03yy.co/{cateId}-{catePg}.html",
 				"分类": "豆瓣电影Top250$topiclist/1#奥斯卡最佳影片$topiclist/17#网飞专场$topiclist/24#热映电影$topiclist/25#动作片$type/index5#喜剧片$type/index10#爱情片$type/index6#科幻片$type/index7#恐怖片$type/index8#战争片$type/index9#剧情片$type/index12#动画片$type/index25#大陆剧$type/index13#欧美剧$type/index27#韩国剧$type/index26#香港剧$type/index14#台湾剧$type/index46#日本剧$type/index16#泰国剧$type/index47#海外剧$type/index28#大陆动漫$type/index33#日韩动漫$type/index34#欧美动漫$type/index35#少儿动画$type/index64#大陆综艺$type/index29#港台综艺$type/index30#日韩综艺$type/index31#欧美综艺$type/index32#经典韩剧（国语）$topiclist/19#经典港剧（粤语）$topiclist/18#经典美剧（英语）$topiclist/21"
+			}
+		},
+		
+		
+		
+		{
+			"key": "6vdy",
+			"name": "6V电影",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./lib/xyqxbpq.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+			"作者":"",
+"站名":"6v电影",
+"请求头": "",
+"调试":"",
+//"起始页": "",
+"图片代理": "1",
+"分类url":"https://www.66s6.net/{cateId}/index_{catePg}.html[firstPage=https://www.66s6.net/{cateId}/index.html]",//[firstPage=https://www.66s6.net/{cateId}/index.html]}加在后面可以去掉起始页项
+"分类":"喜剧片$xijupian#动作片$dongzuopian#科幻片$kehuanpian#恐怖片$kongbupian#爱情片$aiqingpian#纪录片$jilupian#动画片$donghuapian#剧情片$juqingpian#战争片$zhanzhengpian#电视剧$dianshiju#综艺$zongyi",
+"主页url":"https://www.66s6.net",
+"数组":"<div class=\"post_hover\">&&<div class=\"info\">",
+"图片":"<img src=\"&&\"",
+//"标题":"影片信息\">&&</div>",
+"链接":"href=\"&&\"",
+//"副标题":"<div class=\"movie-rating cor4\">&&</div>",
+"搜索模式":"1",
+"搜索图片":"data-original=\"&&\"",
+"搜索标题":"影片信息\">&&</div>",
+"搜索链接":"href=\"&&\"",
+"搜索后缀":"/v/",
+//"线路数组":"<td style=\"word-break&&</a>",
+//"二次截取":"<div class="clear">&&<div class=\"navigation container\"",
+//"线路标题":">&&</a>",
+"播放数组": "<div class=\"clear\">&&<div class=\"navigation container\">",
+//"播放二次截取": "<div class=\"clear\">&&<div class=\"navigation container\"",
+//"播放列表": "<a title&&</a>",
+//"播放标题":">&&</a>",
+//"播放链接":"href=\"&&\"",
+"影片类型":"<div class=\"scroll-content\">&&</p>",
+"导演":"导演：&&</div>",
+"主演":"演员：&&</div>",
+"简介":"<div class=\"summary detailsTxt\"&&</div>",
+"免嗅":"0",
+"嗅探词":".m3u8#.mp4",
+"过滤词":".jpg#.png#.ico#.gif"
 			}
 		},
 		
