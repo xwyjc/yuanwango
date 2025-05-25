@@ -23,6 +23,8 @@
       "播放列表":"<a&&/a>",
        "播放标题":">&&<",
       "播放链接":"href=\"&&\"",
+	  "搜索模式":"1",
+     "搜索url":"https://bbbsss.org/search/page/{pg}/wd/{wd}.html",
 		"分类url": "https://bbbsss.org/vodshow/{cateId}--{by}------{catePg}---.html",
         "分类": "国产自拍$1#麻豆$2#步兵$3#中字$4",
 		"排序": "最近更新$time#今日浏览数$hits_day#本周浏览数$hits_day#本月浏览数$hits_month#总浏览数$hits"
