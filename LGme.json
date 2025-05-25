@@ -13,11 +13,11 @@
       "ext": {
         "主页url": "https://bbbsss.org/",
         "数组": "thumbnail group\">&&</a></div></div>",
-        "直接播放": "1",
+       
         "图片": "data-src=\"&&\"",
         "标题": "alt=\"&&\"",
         "链接": "href=\"&&\"",
-       "线路数组":"	<div class=\"clearfix\">&&</div>",
+       "线路数组":"<div class=\"clearfix\">&&</div>",
        "线路标题":">&&</a>",
        "播放数组":"play-plays-list&&</ul>",
       "播放列表":"<a&&a>",
