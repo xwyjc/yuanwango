@@ -17,7 +17,12 @@
         "图片": "data-src=\"&&\"",
         "标题": "alt=\"&&\"",
         "链接": "href=\"&&\"",
-        //"分类url": "https://bbbsss.org/vodtype/{cateId}-{catePg}.html",
+       "线路数组":"href=\"javascript:;&&a>",
+       "线路标题":">&&</",
+       "播放数组":"<ul class=\"play-plays-list&&</ul>",
+      "播放列表":"<a&&/a>",
+       "播放标题":">&&<",
+      "播放链接":"href=\"&&\"",
 		"分类url": "https://bbbsss.org/vodshow/{cateId}--{by}------{catePg}---.html",
         "分类": "国产自拍$1#麻豆$2#步兵$3#中字$4",
 		"排序": "最近更新$time#今日浏览数$hits_day#本周浏览数$hits_day#本月浏览数$hits_month#总浏览数$hits"
@@ -26,17 +31,17 @@
    
 	
 	
-     {"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy",
+     {"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav",
+	 "searchable":1,"quickSearch":1, 
+	 "changeable":1, "filterable":0,
+	 "timeout":60, "ext":"null$$$proxy",
       "style": {
         "type": "rect",
         "ratio": 1.5
-      }
-    },
+      }},
 	
-  {"key":"问天影院",
-   "name":"🎬问天影院🎬",
-    "type":3,
-    "api":"csp_XBPQ",
+  {"key":"问天影院","name":"🎬问天影院🎬",
+    "type":3, "api":"csp_XBPQ",
     "searchable":1,
      "jar": "./lib/XBPQ.jar",
     "quickSearch":1,
@@ -53,8 +58,7 @@
 	
    
      { "key": "小淫虫","name": "📺小淫虫📺",
-    "type": 3,
-    "api": "csp_XBPQ",
+    "type": 3,"api": "csp_XBPQ",
     "jar": "./lib/XBPQ.jar",
     "ext": {
         "主页url": "https://xyc13.xyz",
@@ -75,12 +79,9 @@
    
    
      
-    {"key":"https://avfls.xyz/",
-       "name":"🌶avfls.xyz🌶",
-       "type":3,
-       "api":"csp_XBPQ",
-       "searchable":1,
-       "quickSearch":1,
+    {"key":"https://avfls.xyz/", "name":"🌶avfls.xyz🌶",
+       "type":3, "api":"csp_XBPQ",
+       "searchable":1, "quickSearch":1,
        "filterable":1,
 	    "jar": "./lib/XBPQ.jar",
        "ext":{
@@ -96,10 +97,8 @@
        "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	   "直接播放":"1"  }},
   
-	   {"key":"肉铺",
-       "name":"🏆肉铺🏆",
-       "type":3,
-       "api":"csp_XBPQ",
+	   {"key":"肉铺", "name":"🏆肉铺🏆",
+       "type":3,"api":"csp_XBPQ",
        "jar":"https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/jar/He.jar",
        "filterable": 0,
        "ext":{"分类url":"https://rroupu8.buzz/list/{cateId}/{catePg}.html",
@@ -112,10 +111,8 @@
    
    
    
-      {"key":"热情邻居",
-    "name":"🌸热情邻居🌸",
-    "type":3,
-    "api":"csp_XBPQ",
+      {"key":"热情邻居","name":"🌸热情邻居🌸",
+    "type":3, "api":"csp_XBPQ",
     "searchable":1,
     "jar": "./lib/XBPQ.jar",
      "quickSearch":1,
@@ -130,11 +127,8 @@
    "分类":"视频分类一$1#视频分类二$2#视频分类三$30#中文字幕$28#国产🤳$6#头条$8#黑料$11#解说$16#🈚️🐎$24#制服$25#多人$29#美乳$31#强奸$32#女优$33#娇妻$35#高清🈚️🐎$36#日本有码$37"}},
 	
 
-	   {
-      "key": "快活影網",
-      "name": "😄快活┃影视😄",
-      "type": 3,
-       "api": "csp_XBPQ",
+	   { "key": "快活影網", "name": "😄快活┃影视😄",
+      "type": 3,"api": "csp_XBPQ",
       "jar": "./lib/o.jar",
       "searchable": 1,
       "quickSearch": 1,
@@ -151,10 +145,8 @@
       }
     },
 	
-	  {"key":"naicha412",
-       "name":"💿奶茶视频💿",
-       "type":3,
-       "api":"csp_XBPQ",
+	  {"key":"naicha412","name":"💿奶茶视频💿",
+       "type":3,"api":"csp_XBPQ",
        "searchable":1,
        "jar": "./lib/XBPQ.jar",
        "quickSearch":1,
@@ -168,10 +160,8 @@
        "分类":"国产自拍$1#日韩无码$3#AV明星$4#中文字幕$5#极骚萝莉$7#强奸乱伦$11#HEYZO$12#独家DMM$13#HEY诱惑$14#童颜巨乳$15#高潮喷吹$16#激情口交$20#绝美少女$21#首次亮相$22"}},
 	
 	
-	   {"key":"黄色仓库",
-       "name":"🧎‍♀️黄色仓库hsck43🧎‍♀️",
-       "type":3,
-       "api":"csp_XBPQ",
+	   {"key":"黄色仓库","name":"🧎‍♀️黄色仓库hsck43🧎‍♀️",
+       "type":3,"api":"csp_XBPQ",
        "searchable":1,
        "jar": "./lib/XBPQ.jar",
        "quickSearch":1,
@@ -197,10 +187,8 @@
     },
 	  
 	
-	{"key":"黄色仓库啦",
-       "name":"🌶黄色仓库hsck.la🌶",
-       "type":3,
-       "api":"csp_XBPQ",
+	{"key":"黄色仓库啦","name":"🌶黄色仓库hsck.la🌶",
+       "type":3, "api":"csp_XBPQ",
        "searchable":1,
        "jar": "./lib/XBPQ.jar",
        "quickSearch":1,
@@ -227,11 +215,8 @@
 
 	
 	
-	    {
-      "key": "快影網",
-      "name": "🍎色苹果┃影视🍎",
-      "type": 3,
-      "api": "csp_XBPQ",
+	    {"key": "快影網", "name": "🍎色苹果┃影视🍎",
+      "type": 3,"api": "csp_XBPQ",
       "jar": "./lib/o.jar",
       "searchable": 1,
       "quickSearch": 1,
@@ -252,9 +237,7 @@
 	
 	 
 	
-	    {
-      "key": "125av",
-      "name": "🎥125┃影视🎥",
+	    { "key": "125av","name": "🎥125┃影视🎥",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/o.jar",
@@ -272,17 +255,14 @@
         "搜索url":"https://www.125av.cc/vodsearch/-.html?wd={wd}",
        "分类url": "https://www.125av.cc/vodtype/{cateId}-{catePg}.html;;a",
         "分类": "日韩无码$20#亚洲情色$21#中文字幕$24#国产视精品$17#制服丝袜$28#少女萝莉$29#欧美高清$22#国产自拍$18#巨乳美乳$31#熟女人妻$26#潮吹口交$20#强奸乱伦$27#三级伦理$23#少女萝莉$19"
-      }
-    },
+      }},
 	
 	
 	 
 	
 	
 	
-	    {
-      "key": "128av",
-      "name": "🌠128┃影视🌠",
+	    {"key": "128av","name": "🌠128┃影视🌠",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/o.jar",
