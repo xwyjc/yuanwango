@@ -9,7 +9,7 @@
      
 	 { "key": "比思AV", "name": "比思🌽影院",
       "type": 3, "api": "csp_XBPQ",
-	  //"jar": "./lib/XBPQ.jar",
+	  "jar": "./lib/XBPQ.jar",
       "ext": {
         "主页url": "https://bbbsss.org/",
         "数组": "thumbnail group\">&&</a></div></div>",
