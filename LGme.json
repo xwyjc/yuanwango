@@ -23,7 +23,7 @@
       "播放列表":"<a&&a>",
        "播放标题":">&&</",
       "播放链接":"href=\"&&\"",
-	    "跳转播放链接": "var player_*\"url\":\"&&\"",
+	    "跳转播放": "var player_*\"url\":\"&&\"",
 		"嗅探词":".m3u8#tc.qq.com#.m3u8?#index.m3u8#.m4a",
 	  "搜索模式":"1",
      "搜索url":"https://bbbsss.org/search/page/{pg}/wd/{wd}.html",
