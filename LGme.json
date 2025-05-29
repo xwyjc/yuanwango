@@ -151,14 +151,7 @@
       "分类":"国产新品$/?type=ycgc#无码中字$/?type=wz#🈶️码中字$/?type=yz#无码$/?type=rw#🈶️码$/?type=ry#国产视频$/?type=gc",
        "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	   "直接播放":"1"  
-	   
-	    //"播放二次截取":"<div class=\"stui-pannel-bd\">&&<div class=\"mac_digg\"",
-   // "播放数组":"<div id=\"widthVideoVideo\"&&</script>",
-    //"播放标题":"id=\"&&\"",
-   // "播放列表":"<video&&</video>",
-   // "播放链接":"src=\"&&\""
-   }
-    },
+   }},
 	  
 	   {"key":"高清仓库","name":"🧎‍♀️高清仓库🧎‍♀️",
        "type":3,"api":"csp_XBPQ",
@@ -167,7 +160,7 @@
        "quickSearch":1,
        "filterable":1,
        "ext":{"数组":"\"stui-vodlist__box\"&&\"stui-vodlist__box\"",
-	   "图片":"data-original=\"\"",
+	    "图片":"data-original=\"&&\"",
       "标题":"title=\"&&\"",
        "链接":"href=\"&&\"",
        "副标题":"</span>&&</p>",
