@@ -20,7 +20,7 @@
 	
 	"搜索模式": "1", 
 	"搜索url": "https://d.thyys.com/vodsearch/-------------.html?wd={wd}&submit=",
-	"分类url":"https://d.thyys.com/vodtype/{cateId}-{catePg}.html"
+	"分类url":"https://d.thyys.com/vodshow/{cateId}--{by}---{letter}---{catePg}---.html"
 	}},
 	
 	
