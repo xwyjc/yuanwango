@@ -5,6 +5,27 @@
   "sites": [
     
 
+     {"key": "发布页地址：abc.hxtx.org 、 abc.hxtx.vipabc可以改为任意字母、数字、汉字或其组合",
+    "name": "桃花源🌸影视",
+	 "jar": "./lib/XBPQ.jar",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { "主页url": "https://d.thyys.com/", 
+	 "数组":"<li class=\"vodlist_hang5 num_&&</li>",
+	 "图片": "data-original=\"&&\"",
+     "标题":"title=\"&&\"",
+	"简介": "description\" content=\"&&",  
+	"链接": "https://d.thyys.com/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
+   	 "直接播放":"1",
+	"分类":"骑兵$1#步兵$4#国产$2#中文骑兵$7#日本骑兵$8中文步兵$6#日本步兵$9#国产视频$10#糖心vlog$13",
+	
+	"搜索模式": "1", 
+	"搜索url": "https://d.thyys.com/vodsearch/-------------.html?wd={wd}&submit=",
+	"分类url":"https://d.thyys.com/vodtype/{cateId}-{catePg}.html"
+	}},
+	
+	
+
+   
 
      
 	 { "key": "比思AV", "name": "比思🌽影院",
@@ -159,7 +180,8 @@
 	    "jar": "./lib/XBPQ.jar",
        "quickSearch":1,
        "filterable":1,
-       "ext":{"数组":"\"stui-vodlist__box\"&&\"stui-vodlist__box\"",
+       "ext":{ "fabu页url": "https://nrck.cc/",
+		   "数组":"\"stui-vodlist__box\"&&\"stui-vodlist__box\"",
 	    "图片":"data-original=\"&&\"",
       "标题":"title=\"&&\"",
        "链接":"href=\"&&\"",
