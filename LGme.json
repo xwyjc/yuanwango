@@ -24,7 +24,22 @@
 	}},
 	
 	
-
+      {"key": "大平台獨家","name": "大平台獨家",
+	   "jar": "./lib/XBPQ.jar",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1, "filterable": 1,
+      "ext": {"主页url": "https://av92.co",
+      "数组": " <li><a&&</a></li>",
+     "图片":"src=\"&&\"",
+      "标题":"title=\"&&\"",
+	  "副标题":">&&</time>",
+      "链接":"href=\"&&\"",
+	  "直接播放":"1",
+     "分类":"大平台獨家$exclusive0#人妻$wife#大咪咪$big-boobs#中出$cumshot#中文$type/jav",
+   
+     "分类url": "https://av92.co/tw/video/{cateId}?page={catePg}"
+      }},
+   
    
 
      
@@ -366,6 +381,8 @@
         "图片": "src=\"&&\"",
         "标题": "alt=\"&&\"",
         "链接": "href=\"&&\"",
+		"搜索url":"https://seajav.com/search.html?wd={wd}",
+        "搜索模式":"1",
         "分类url": "https://seajav.com/show/{cateId}/by/{by}/page/{catePg}.html",
 		//"分类url": "https://18j.tv/show/{cateId}/nid/1/page/{catePg}/sid/1/",
         "分类": "国产$4#发行$3#日本$2#高清av$6#中文字幕$8#素人$40#🈚️🐎$7#🈚️🐎流出$9#三上$10#91视频$20#福利姬$14#探花$38#自拍流出$13"
