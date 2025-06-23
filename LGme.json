@@ -4,6 +4,34 @@
     "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
   "sites": [
     
+	
+	  {"key":"69avwang","name":"🎬69影院🎬",
+     "type":3, "api":"csp_XBPQ",
+    "searchable":1,
+	"jar": "./lib/XBPQ.jar",
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{"数组":"<div class=\"stui-vodlist__box\">>&&</a>",
+	 "图片": "data-original=\"&&\"",
+     "标题":"title=\"&&\"",
+	  "副标题":"<span class=\"pic-text text-right\">&&</span>",
+    "简介":"description\" content=\"&&",
+	"线路数组": "<ul class=\"tab-top&&</ul>",
+	"线路标题": ">&&</a>",
+	"播放数组": "<ul class=\"stui-play__list clearfix\">&&</ul>",
+    "播放列表": "<a&&a>",
+	"播放标题": ">&&</",
+	"播放链接": "href=\"&&\"",
+   "搜索模式":"1",
+   "搜索url":"https://69.69avw9.buzz/69/index.php/vod/search.html?wd={wd}",
+   "分类url":"https://69.69avw9.buzz/69/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
+    "排序": "时间$time#人气$hits#评分$score",
+	
+     "分类": "解说$40#国产不道德$42#日本1$51#无码中字$26#有码中字$31#强奸乱伦$33#制服诱惑$65#中文字幕$69#女优专区$72#精品素人$73"
+	 }},
+  
+	
+	
 
      {"key": "发布页地址：abc.hxtx.org 、 abc.hxtx.vipabc可以改为任意字母、数字、汉字或其组合",
     "name": "桃花源🌸影视",
