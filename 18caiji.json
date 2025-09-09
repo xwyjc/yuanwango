@@ -18,6 +18,29 @@
       "categories": []
     },
   
+       {
+      "key": "杏资源站：xzytv.com",
+      "name": "🔞杏资源站",
+      "type": 1,
+      "api": "https://xzybb1.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	
+	  {
+      "key": "幸资源：永久官网xzytv.com",
+      "name": "🔞幸资源",
+      "type": 0,
+      "api": "https://api.souavzy.vip/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+  
+  
+  
+  
 	{"key":"*91麻豆x","name":"🔞台湾传媒③","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"*91麻豆2🔞","name":"🔞台湾传媒④","type":1,"api":"http://www.9191md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"*91麻豆3x","name":"🔞台湾传媒⑤","type":1,"api":"http://www.md91.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -590,6 +613,12 @@
       "type": 3,
       "url": "Demo"
     },
+	
+	{"name":"茅台资源站P2P商业加速解析","type":0,"url":"https://mtjiexi.cc:966/?url="},
+{"name":"X细胞资源网加速播放器","type":0,"url":"https://www.xxibaozyw.com/player.php?url="},
+{"name":"豆瓣资源采集站P2P商业加速解析","type":0,"url":"https://www.dbjiexi.com:966/jx/?url="},
+{"name":"玉兔资源网解析接口","type":0,"url":"https://yutujx.com/?url="},
+{"name":"杏吧资源采集站解析接口","type":0,"url":"https://xbww888.com/?url="},
     {
       "name": "Json并发",
       "type": 2,
