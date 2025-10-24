@@ -623,24 +623,7 @@
         }
     },
     
-    {
-            "key": "绝美视频",
-            "name": "📹绝美视频📹",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
-            "ext": {
-                "主页url": "https://www.juemei.fun/",
-                "分类url": "https://www.juemei.fun/type/{cateId}-{catePg}.html;;z",
-                "分类": "tsuki$1#jeehyeon$13#YeonHwa$2#KYUL$3#ChoiApple$4#클로이 요가 Chloe YOGA$5#jiyoung$12#임제리 IMJERRY LOOKBOOK$7#Ajin lookbook$8#엔픽컴퍼니 Official$9#Saki Vlog$10#HAATSSOl 햇쏠 LOOKBOOK VLOGER$11#yunji$14#GGotBBang TV$15#슬렌서아 Slenn Seoah$6"
-            }
-        },
-        
-		
+    
 
 		
   
@@ -808,38 +791,8 @@
 
 	
 
-    {
-      "key": "农夫与少妇",
-      "name": "🧑‍🌾农夫┃少妇👩",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "分类url": "https://nfsfhf9.nfsf-a16.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
-        "分类": "国产专区$6#制服诱惑$13#中文字幕$7#国产传媒$8#日本有码$9#日本无码$10#欧美无码$11#强奸乱伦$12#三级专区$23#人妖系列$30#韩国主播$31#国产主播$14#激情动漫$15#明星换脸$16#抖阴视频$20#女优明星$21#网曝黑料$22#AV解说$24#SM调教$25#少女萝莉$26"
-      }
-    },
 
-    {
-      "key": "乐哥特供-色优酷AV",
-      "name": "👍优酷┃AV👍",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "搜索url": "https://youku.syk8.fun/youku/vod/search/page/{pg}/wd/{wd}.html",
-        "分类url": "https://youku.syk8.fun/youku/vod/type/id/{cateId}/page/{catePg}.html;;z",
-        "分类": "国产视频$1#网曝泄密$2#日本无码$3#日本有码$4#无码中字$5#有码中字$6#欧美视频$7#色情动漫$8"
-      }
-    },
+  
 
     {
       "key": "乐哥特供-婶婶影视",
@@ -1239,13 +1192,13 @@
       "ext": {
         "主页url": "https://777170.xyz/",
         "搜索url": "https://777170.xyz/?s={wd}",
-        "数组": "data-video-uid=&&</div>",
-        "图片": "data-src=\"&&\"",
+        "数组": "data-video-id=&&</article>",
+        "图片": "src=\"&&\"",
         "标题": "alt=\"&&\"",
         "副标题": "</i>&&</span>",
         "链接": "href=\"&&\"",
         "简介": "⚠️少看点，再看你就废了！！！",
-        "分类url": "https://777170.xyz/{cateId}/page/{catePg}/?filter={by};;z",
+        "分类url": "https://777170.xyz/{cateId}/page/{catePg}/",
         "分类": "中文字幕$中文字幕#探花約炮$探花約炮#國產精選$國產精選#日韩视频$日韩视频"
       }
     },
@@ -1437,22 +1390,7 @@
 
 	
 
-    {
-      "key": "大白兔AV",
-      "name": "🐰大白兔AV🐰",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
-      },
-      "ext": {
-        "数组": "stui-vodlycms_list__item\"&&</li>",
-        "分类url": "https://urcccg.dbtav9.today/vodtype/{cateId}-{catePg}.html;;z",
-        "分类": "国产精品$20#主播大秀$21#唯美视频$22#口交视频$23#日本有碼$24#日本無碼$25#动漫视频$26#欧美视频$27"
-      }
-    },
+
     
     {
       "key": "javbar",
