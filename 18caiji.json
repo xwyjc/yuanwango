@@ -39,7 +39,40 @@
     },
   
   
-  
+  {
+      "key": "91精品资源网",
+      "name": "🔞91精品",
+      "type": 1,
+      "api": "https://91jpzyw.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	
+		{
+      "key": "香蕉资源网",
+      "name": "🔞香蕉资源网",
+      "type": 0,
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	
+	
+		{
+      "key": "黑料资源网",
+      "name": "🔞黑料资源网",
+      "type": 1,
+      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	
+	
+	
+	
   
 	{"key":"*91麻豆x","name":"🔞台湾传媒③","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"*91麻豆2🔞","name":"🔞台湾传媒④","type":1,"api":"http://www.9191md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
