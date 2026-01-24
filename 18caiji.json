@@ -38,6 +38,19 @@
       "filterable": 1
     },
   
+      {
+      "key": "搜av资源",
+      "name": "🔞搜av资源",
+      "type": 0,
+      "api": "https://api.souavzyw.net/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+  
+  
+  
+  
   
   {
       "key": "91精品资源网",
@@ -82,20 +95,20 @@
     
 	{"key":"黄AV资源站","name":"🔞黄AV资源","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable": 0},
 	  {
-      "key": "https://souavzy.com/xm",
-      "name": "🔞搜av资源站xml",
+      "key": "草批资源",
+      "name": "🔞草批资源",
       "type": 0,
-      "api": "https://api.souavzy.vip/api.php/provide/vod/at/xml/",
+      "api": "https://www.saobi2.com/api.php/provide/vod/at/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
 	
 	  {
-      "key": "https://souavzy.com/js",
-      "name": "🔞搜av资源站json",
+      "key": "优优资源网",
+      "name": "🔞优优资源网n",
       "type": 1,
-      "api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list",
+      "api": "https://www.yyzywcj.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
