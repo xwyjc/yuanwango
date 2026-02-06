@@ -52,15 +52,7 @@
   
   
   
-  {
-      "key": "91精品资源网",
-      "name": "🔞91精品",
-      "type": 1,
-      "api": "https://91jpzyw.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
 	
 		{
       "key": "香蕉资源网",
