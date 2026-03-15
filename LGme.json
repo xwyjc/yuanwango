@@ -259,14 +259,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "主页url": "https://www.1av.shop/label/new.html",
+        "主页url": "https://www.1av.fun/",
        
         "跳转播放链接": "var player_aaaa*url\":\"&&\"",
         "链接": "href=\"&&\"",
        "标题": "alt=\"&&\"",
        "直接播放":"1",
        //"分类url": "https://www.1av.shop/vodtype/{cateId}-{catePg}.html;;z",
-	     "分类url": "https://www.1av.shop/vodtype/{cateId}-{catePg}.html",
+	     "分类url": "https://www.1av.fun/vodtype/{cateId}-{catePg}.html",
 	   "分类数组": "<a&&</a>",
         "分类标题": ">&&<",
         "分类ID": "/vodtype/&&.html"
@@ -321,7 +321,7 @@
         "链接": "href=\"&&\"",
 		"搜索url":"https://seajav.com/search.html?wd={wd}",
         "搜索模式":"1",
-        "分类url": "https://seajav.com/show/{cateId}/by/{by}/page/{catePg}.html",
+        "分类url": "https://seajav.com/categories/{cateId}-{catePg}.html",
 		//"分类url": "https://18j.tv/show/{cateId}/nid/1/page/{catePg}/sid/1/",
         "分类": "国产$4#发行$3#日本$2#高清av$6#中文字幕$8#素人$40#🈚️🐎$7#🈚️🐎流出$9#三上$10#91视频$20#福利姬$14#探花$38#自拍流出$13"
       }
@@ -362,8 +362,8 @@
    
   
     {
-            "key": "13AV b",
-            "name": "13😍-🔥",
+            "key": "13AV 主",
+            "name": "13😍-主",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -374,16 +374,16 @@
             "ext": {
                 "主页url": "https://13av.com/",
                 "过滤词": ".mp4",
-                "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
+                "数组": "<div temp=\"0\" class=\"item-wrapper\">&&</a>",
                 "图片": "data-src=\"&&\"",
-                "标题": "<h6 class=\"title\">&&</a>",
-                "副标题": "class=\"label\">&&</span>",
+                "标题": "alt=\"&&\"",
+               
                 "链接": "href=\"&&\"",
                 "简介": "⚠️慢点撸，皮要掉了！！！",
 				"搜索模式":"1",
                "搜索url":"https://13av.com/tags.html?wd={wd}",
-                "分类url": "https://13av.com/label/{cateId}/page/{catePg}.html;;z",
-                "分类": "最近更新$new#热门影片$hot"
+                "分类url": "https://13av.com/{cateId}?page={catePg}",
+                "分类": "中文字幕$chinese-subtitle#🈚️🐎在线$uncensored-leak#🈚最近更新$new"
             }
         },
    
@@ -459,7 +459,7 @@
                 "ratio": 1.5
             },
             "ext": {
-                "主页url": "https://wantav.com/",
+                "主页url": "https://missavt.com/",
                 "过滤词": ".mp4",
                 "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
                 "图片": "class=\"lazyloaded bind_video_cover\" data-src=\"&&\"",
