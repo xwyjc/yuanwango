@@ -13,18 +13,18 @@
     "name": "桃花源🌸影视",
 	 "jar": "./lib/XBPQ.jar",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { "主页url": "https://d.thyys.com/", 
+	"ext": { "主页url": "https://e.thyys.com/", 
 	 "数组":"<li class=\"vodlist_hang5 num_&&</li>",
 	 "图片": "data-original=\"&&\"",
      "标题":"title=\"&&\"",
 	"简介": "description\" content=\"&&",  
-	"链接": "https://d.thyys.com/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
+	"链接": "https://e.thyys.com/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
    	 "直接播放":"1",
-	"分类":"骑兵$1#步兵$4#国产$2#中文骑兵$7#日本骑兵$8中文步兵$6#日本步兵$9#国产视频$10#糖心vlog$13",
+	"分类":"中文骑兵$7#日本骑兵$8中文步兵$6#日本步兵$9#国产精品$10#糖心vlog$13",
 	
 	"搜索模式": "1", 
-	"搜索url": "https://d.thyys.com/vodsearch/-------------.html?wd={wd}&submit=",
-	"分类url":"https://d.thyys.com/vodshow/{cateId}--{by}---{letter}---{catePg}---.html"
+	"搜索url": "https://e.thyys.com/vodsearch/-------------.html?wd={wd}&submit=",
+	"分类url":"https://e.thyys.cc/vodtype/{cateId}-{catePg}.html"
 	}},
 	
 	
