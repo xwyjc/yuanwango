@@ -43,12 +43,7 @@
 	
 
    
-  
-	
-   
-   
-   
-
+ 
 	
    
    
@@ -75,13 +70,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "主页url": "https://dyz.nrrezv.com/index.html",
+        "主页url": "https://site1.uxizdy.com/index.html",
         "播放数组":"mod play-list&&</ul",
         "跳转播放链接": "var playUrl=\"&&\"",
         "链接": "href=\"&&\"",
        "标题": "alt=\"&&\"",
        "直接播放":"1",
-        "分类url": "https://dyz.nrrezv.com/{cateId}/list_{catePg}.html",
+        "分类url": "https://site1.uxizdy.com/{cateId}/list_{catePg}.html",
         "分类": "亚洲性爱$yazhouxingai#欧美高清$oumeixingai#亚洲无码$yazhouav#欧美短AV$oumeiav#熟女人妻$shunvrenqi#丝袜制服$siwazhifu#中文熟女$luanlunshunv#三级经典$sanjijingdian"
       }
     },
@@ -469,8 +464,8 @@
                 "链接": "href=\"&&\"",
                 "简介": "⚠️慢点撸，皮要掉了！！！",
 				"搜索模式":"1",
-               "搜索url":"https://wantav.com/search/index/keyword/{wd}",
-                "分类url": "https://wantav.com/index/getstylemvs/id/{cateId}/sort/{by}/page/{catePg};;z",
+               "搜索url":"https://missavt.com/search/index/keyword/{wd}",
+                "分类url": "https://missavt.com/index/getstylemvs/id/{cateId}/sort/{by}/page/{catePg};;z",
                 "分类": "角色剧情$2#直接开啪$5#主奴调教$7#凌辱快感$10#中文字幕$3#制服诱惑$4#丝袜美腿$6#男友视角$9#多P群交$8#盗摄偷拍$12#女同欢愉$13"
             }
         },
@@ -487,7 +482,7 @@
                 "ratio": 1.5
             },
             "ext": {
-                "主页url": "https://wantav.com/index/gethotmvs/time/all",
+                "主页url": "https://missavt.com/index/gethotmvs/time/all",
                 "过滤词": ".mp4",
                 "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
                 "图片": "class=\"lazyloaded bind_video_cover\" data-src=\"&&\"",
@@ -497,8 +492,8 @@
                 "链接": "href=\"&&\"",
                 "简介": "⚠️慢点撸，皮要掉了！！！",
 					"搜索模式":"1",
-               "搜索url":"https://wantav.com/search/index/keyword/{wd}",
-                "分类url": "https://wantav.com/index/gethotmvs/time/{cateId}/page/{catePg};;z",
+               "搜索url":"https://missavt.com/search/index/keyword/{wd}",
+                "分类url": "https://missavt.com/index/gethotmvs/time/{cateId}/page/{catePg};;z",
                 "分类": "所有$all#本月$month#本周$week#今日$today"
             }
         },
@@ -515,7 +510,7 @@
                 "ratio": 1.5
             },
             "ext": {
-                "主页url": "https://wantav.com/index/latePublishedMvs",
+                "主页url": "https://missavt.com/index/latePublishedMvs",
                 "过滤词": ".mp4",
                 "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
                  "图片": "class=\"lazyloaded bind_video_cover\" data-src=\"&&\"",
@@ -525,8 +520,8 @@
                 "链接": "href=\"&&\"",
                 "简介": "⚠️慢点撸，皮要掉了！！！",
 					"搜索模式":"1",
-               "搜索url":"https://wantav.com/search/index/keyword/{wd}",
-                "分类url": "https://wantav.com/index/tagmvs/tags/{cateId}/sort/{by}/page/{catePg};;z",
+               "搜索url":"https://missavt.com/search/index/keyword/{wd}",
+                "分类url": "https://missavt.com/index/tagmvs/tags/{cateId}/sort/{by}/page/{catePg};;z",
                 "分类": "錄像$247#處女作/引退作$248#綜藝$249#節日主題$250#感謝祭$251#4小時以上$252#●倫$675#輪●$676#強●$677#肌肉$678#模特儿$679
 				        #单体作品$680#自拍$681#高清$682#女大学生$683#企划$684#素人$685#按摩油$686#4K$687#暴汗$688#独家$689#多人运动$690
 						#颜射$691#出道作$692#不伦$693#巨乳偏好$694#美少女$695#高妹$696#苗条$697#女仆$698#不戴胸围$699#女上司$700#约会$701
@@ -555,7 +550,7 @@
         "图片": "class=\"w-full h-full\"&&src=\"&&\"",
         "链接": "data-url=\"&&\"",
         "分类": "会所探花$160#乱伦换妻$166#中文字幕$165#黑料吃瓜$161#东南亚片$163#福利姬$162#港台三级$157#日韩三级$158#欧美三级$159#无码AV$168#成人综艺$167#国产精选$170#91制片厂$139#其它传媒$141#果冻传媒$140#麻豆传媒$142",
-        "分类url": "https://sex166.net/video?cid={cateId}&page={catePg}"}
+        "分类url": "https://sex166.net/category/{cateId}/page/{catePg}"}
     },
 
 	
