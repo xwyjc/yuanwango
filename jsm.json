@@ -51,7 +51,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {"主页url": "https://www.mfkpba2.top/",
-         "数组": "<div class=\"item&&</a></div>",
+         "数组": "<div class=\"item\">&&</a></div>",
                 "图片": "data-original=\"&&\"",
                 "标题":"title=\"&&\"",
                 "链接": "href=\"&&\"",
@@ -104,7 +104,7 @@
 			"filterable": 1,
 			"ext": {
 				"请求头": "User-Agent$MOBILE_UA",
-				"主页url": "https://www.lmt9.shop/cn/home/web/",
+				"主页url": "https://elv.lmt5.makeup/cn/home/web/",
 				"数组": "<article>&&</article>",
 				"标题": "alt=\"&&\"",
 				"副标题": "actress\">&&</div>",
@@ -112,13 +112,43 @@
 				"链接": "href=\"&&\"",
 				"跳转播放链接": "var player_*\"url\":\"&&\"",
 				"简介": "description\" content=\"&&\"",
-				"搜索url": "https://www.lmt9.shop/cn/home/web/index.php/vod/search/page/{pg}/wd/{wd}.html",
-				"分类url": "https://www.lmt9.shop/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+				"搜索url": "https://elv.lmt5.makeup/cn/home/web/index.php/vod/search/page/{pg}/wd/{wd}.html",
+				"分类url": "https://elv.lmt5.makeup/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
 				"分类数组": "<a&&a>",
 				"分类标题": ">&&<",
 				"分类ID": "/cn/home/web/index.php/vod/type/id/&&.html"
 			}
 		},
+		
+			{
+			"key": "亚色影库",
+			"name": "🐇亚色影库🐇",
+			"type": 3,
+			"jar": "./lib/xyqxbpq.jar",
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"主页url": "https://bds.ysyk8.sbs/cn/home/web/",
+				"数组": "<article>&&</article>",
+				"标题": "alt=\"&&\"",
+				"副标题": "actress\">&&</div>",
+				"图片": "img src=\"&&\"",
+				"链接": "href=\"&&\"",
+				"跳转播放链接": "var player_*\"url\":\"&&\"",
+				"简介": "description\" content=\"&&\"",
+				"搜索url": "https://elv.lmt5.makeup/cn/home/web/index.php/vod/search/page/{pg}/wd/{wd}.html",
+				"分类url": "https://bds.ysyk8.sbs/vodtype/{cateId}-{catePg}.html",
+				"分类数组": "<li class=\"menu-item\">&&</li>",
+				"分类标题": ">&&</a>",
+				"分类ID": "/vodtype/&&.html"
+			}
+		},
+		
+		
+		
 		{
 			"key": "果冻破解版",
 			"name": "🍮果冻┃破解🍮",
@@ -761,7 +791,7 @@
 			"filterable": 1,
 			"ext": {
 				"主页url": "https://gxcmk.avxcl71.lat/",
-				 "数组":"card\">&&</div></div>",
+				 "数组":"\"embed-responsive embed-responsive-16by9 position-relative d\"&&\"embed-responsive embed-responsive-16by9 position-relative d\"",
 				"直接播放": "1",
 				"图片": "data-src=\"&&\"",
 				"标题": "/index.php?m=vod*>&&<",
