@@ -17,6 +17,32 @@
       "tag": "qb,tj,rm",
       "categories": []
     },
+	
+	    {
+      "key": "*TG资源站",
+      "name": "🔞TG资源站",
+      "type": 1,
+      "api": "https://tgzyz.pp.ua/api.php/provide/vod/?ac=list",
+     "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	
+	  
+	    {
+      "key": "*TG资源站1",
+      "name": "🔞TG资源站1",
+      "type": 0,
+      "api": "https://tgzyz.pp.ua/api.php/provide/vod/at/xml",
+     "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	  
+	  
+	  
+	  
+	
   
        {
       "key": "杏资源站：xzytv.com",
