@@ -108,7 +108,7 @@
 			"ext": {
 				"请求头": "User-Agent$MOBILE_UA",
 				"主页url": "https://bds.ysyk8.sbs/cn/home/web/",
-				"数组": "<article>&&</article>",
+				"数组": "<article class=\"post type-post\"><div class=\"entry-thumbnail\">&&</article>",
 				"标题": "alt=\"&&\"",
 				"副标题": "actress\">&&</div>",
 				"图片": "img src=\"&&\"",
