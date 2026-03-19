@@ -44,25 +44,7 @@
 	  
 	
   
-       {
-      "key": "杏资源站：xzytv.com",
-      "name": "🔞杏资源站",
-      "type": 1,
-      "api": "https://xzybb1.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-	
-	  {
-      "key": "幸资源：永久官网xzytv.com",
-      "name": "🔞幸资源",
-      "type": 0,
-      "api": "https://xzybb1.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
   
       {
       "key": "搜av资源",
@@ -163,7 +145,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	
+	 
 	
 	
 	  {
@@ -434,7 +416,7 @@
       "filterable": 0
     },
   
-	{"key": "秀人",  "name": "🔞秀人资源",  "type": 1,  "api": "https://xiuren.site/api.php/provide/vod/",  "searchable": 1,  "changeable": 1,  "categories": [],"style": {"type": "rect","ratio": 1.6}},
+	
  
     {"key": "湿乐园","name": "🔞湿乐园资源","type": 1,"api": "https://xxavs.com/api.php/provide/vod/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/laowang/jar/pg.jar"}, 
     
@@ -509,7 +491,7 @@
 	
    
     
-    {"key":"998资源(采集)🔞","name":"🔞998资源","type":1,"api":"https://api.998zy.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
+    
    
    
 	{
