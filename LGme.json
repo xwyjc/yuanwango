@@ -5,6 +5,23 @@
   "sites": [
     
 	
+    {"key": "csp_XYBQ","name": "🚛格瑞地🚛","type": 3, "jar": "./lib/XBPQ.jar",
+	"api": "csp_XBPQ","searchable": 1,"quickSearch": 
+	1,"filterable": 1,"ext": {"请求头": "手机",
+    "站名": "比卡比卡",
+    "主页url": "https://gredy.xyz/",
+    "数组": "post-list-item\">&& <div class=\"post-list-item\">",
+	"图片": "style=\"background-image: url(&&);\"",
+    "标题": ">&&</a>",
+	"链接": "href=\"&&\"",
+    "免嗅": "1",
+    //"跳转播放链接": "urlDecode(var player*url\":\"&&\")",
+    "直接播放":"1",
+    "嗅探词": ".m3u8#.mp4",
+    "分类url": "https://gredy.xyz/{cateId}.html/{catePg}/",
+   
+	"分类ID": "字幕$1/zimzim#有码$2/myoua#制服$4/clothscospl#流出$6/befold#故事$3/forcagush"
+	}},
 	
 	
 	
@@ -14,7 +31,8 @@
 	 "jar": "./lib/XBPQ.jar",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { "主页url": "https://e.thyys.com/", 
-	 "数组":"<li class=\"vodlist_hang5 num_&&</li>",
+	//"数组":"<a class=\"vodlist_detail lazyload img-shadow\"&&</li>",
+	 "数组":"<li class=\"vodlist_&&</li>",
 	 "图片": "data-original=\"&&\"",
      "标题":"title=\"&&\"",
 	"简介": "description\" content=\"&&",  
@@ -47,20 +65,7 @@
 	
    
    
-      {"key":"热情邻居","name":"🌸热情邻居🌸",
-    "type":3, "api":"csp_XBPQ",
-    "searchable":1,
-    "jar": "./lib/XBPQ.jar",
-     "quickSearch":1,
-    "filterable":1,
-	//请记住最新网址https://永久.rqinglj-002.icu/mm/,
-    "ext":{"数组":"stui-vodlist__thumb lazyload&&</a",
-   "副标题":"pic-text text-right\">&&</span>",
-   "简介":"description\" content=\"&&剧情",
-   "搜索模式":"1",
-   "搜索url":"https://xn--3iqy34e.rqinglj-002.icu/mm/vodsearch/-------------.html?wd={wd}",
-   "分类url":"https://xn--3iqy34e.rqinglj-002.icu/mm/vodtype/{cateId}-{catePg}.html;;z",
-   "分类":"视频分类一$1#视频分类二$2#视频分类三$30#中文字幕$28#国产🤳$6#头条$8#黑料$11#解说$16#🈚️🐎$24#制服$25#多人$29#美乳$31#强奸$32#女优$33#娇妻$35#高清🈚️🐎$36#日本有码$37"}},
+     
 	
 
 	   { "key": "快活影網", "name": "😄快活┃影视😄",
@@ -70,30 +75,18 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "主页url": "https://site1.uxizdy.com/index.html",
+        "主页url": "https://site1.giid8.com/",
         "播放数组":"mod play-list&&</ul",
         "跳转播放链接": "var playUrl=\"&&\"",
         "链接": "href=\"&&\"",
        "标题": "alt=\"&&\"",
        "直接播放":"1",
-        "分类url": "https://site1.uxizdy.com/{cateId}/list_{catePg}.html",
+        "分类url": "https://site1.giid8.com/{cateId}/list_{catePg}.html",
         "分类": "亚洲性爱$yazhouxingai#欧美高清$oumeixingai#亚洲无码$yazhouav#欧美短AV$oumeiav#熟女人妻$shunvrenqi#丝袜制服$siwazhifu#中文熟女$luanlunshunv#三级经典$sanjijingdian"
       }
     },
 	
-	  {"key":"naicha412","name":"💿奶茶视频💿",
-       "type":3,"api":"csp_XBPQ",
-       "searchable":1,
-       "jar": "./lib/XBPQ.jar",
-       "quickSearch":1,
-       "filterable":1,
-       "ext":{"数组":"stui-vodlist__thumb lazyload&&</a",
-       "副标题":"pic-text text-right\">&&</span>",
-        "简介":"description\" content=\"&&剧情",
-        "搜索模式":"1",
-       "搜索url":"https://askdy.net/vodsearch/{wd}----------{pg}---.html",
-      "分类url":"https://www.naicha412.sbs/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html;;z",
-       "分类":"国产自拍$1#日韩无码$3#AV明星$4#中文字幕$5#极骚萝莉$7#强奸乱伦$11#HEYZO$12#独家DMM$13#HEY诱惑$14#童颜巨乳$15#高潮喷吹$16#激情口交$20#绝美少女$21#首次亮相$22"}},
+	 
 	
 	
 	   {"key":"黄色仓库","name":"🧎‍♀️黄色仓库hsck43🧎‍♀️",
@@ -127,9 +120,9 @@
       "标题":"title=\"&&\"",
        "链接":"href=\"&&\"",
        "副标题":"</span>&&</p>",
-	   "搜索url":"https://kag0yy3r.ynofboeo.com/vodsearch/-------------/?wd={wd}&submit=",
+	   "搜索url":"https://uq5ges.gqck.net/vodsearch/-------------/?wd={wd}&submit=",
        "搜索模式":"1",
-	   "分类url":"https://kag0yy3r.ynofboeo.com/vodtype/{cateId}-{catePg}/",
+	   "分类url":"https://uq5ges.gqck.net/vodtype/{cateId}-{catePg}/",
       "分类":"无码中文字幕$8#有码中文字幕$9#日本无码$10#日本有吗$7#国产视频$15",
        "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	   "直接播放":"1"  
@@ -346,6 +339,7 @@
                 "标题": "<h6 class=\"title\">&&</a>",
 				//"标题": "href=\"*\">&&</a>",
                 "副标题": "class=\"label\">&&</span>",
+				"直接播放": "1",
                 "链接": "href=\"&&\"",
                 "简介": "⚠️慢点撸，皮要掉了！！！",
                 "分类url": "https://13av.com/type/{cateId}/{catePg}.html;;z",
@@ -372,7 +366,7 @@
                 "数组": "<div temp=\"0\" class=\"item-wrapper\">&&</a>",
                 "图片": "data-src=\"&&\"",
                 "标题": "alt=\"&&\"",
-               
+               "直接播放": "1",
                 "链接": "href=\"&&\"",
                 "简介": "⚠️慢点撸，皮要掉了！！！",
 				"搜索模式":"1",
@@ -402,6 +396,7 @@
                 "副标题": "class=\"label\">&&</span>",
                 "链接": "href=\"&&\"",
                 "简介": "⚠️慢点撸，皮要掉了！！！",
+				"直接播放": "1",
                 "分类url": "https://13av.com/series/list-{cateId}.html;;z",
 				"搜索模式":"1",
                "搜索url":"https://13av.com/tags.html?wd={wd}",
@@ -443,37 +438,12 @@
   
   
   
-   {
-            "key": "wantav",
-            "name": "want😍-A",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
-            "ext": {
-                "主页url": "https://missavt.com/",
-                "过滤词": ".mp4",
-                "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
-                "图片": "class=\"lazyloaded bind_video_cover\" data-src=\"&&\"",
-				//"图片代理":"1",
-                "标题": "<h6 class=\"title\">&&</a>",
-                "副标题": "class=\"label\">&&</span>",
-                "链接": "href=\"&&\"",
-                "简介": "⚠️慢点撸，皮要掉了！！！",
-				"搜索模式":"1",
-               "搜索url":"https://missavt.com/search/index/keyword/{wd}",
-                "分类url": "https://missavt.com/index/getstylemvs/id/{cateId}/sort/{by}/page/{catePg};;z",
-                "分类": "角色剧情$2#直接开啪$5#主奴调教$7#凌辱快感$10#中文字幕$3#制服诱惑$4#丝袜美腿$6#男友视角$9#多P群交$8#盗摄偷拍$12#女同欢愉$13"
-            }
-        },
+   
   
   
   {
             "key": "wantavb",
-            "name": "want😍-热门",
+            "name": "want😍-",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -482,19 +452,20 @@
                 "ratio": 1.5
             },
             "ext": {
-                "主页url": "https://missavt.com/index/gethotmvs/time/all",
+               
                 "过滤词": ".mp4",
-                "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
-                "图片": "class=\"lazyloaded bind_video_cover\" data-src=\"&&\"",
+                "数组": "<li><div class=\"video-item\">&&</li>",
+                 "图片": "data-src=\"&&\"",
 				//"图片代理":"1",
-                "标题": "<h6 class=\"title\">&&</a>",
-                "副标题": "class=\"label\">&&</span>",
+                "标题":"alt=\"&&\"",
+				"直接播放": "1",
+               
                 "链接": "href=\"&&\"",
                 "简介": "⚠️慢点撸，皮要掉了！！！",
-					"搜索模式":"1",
+				"搜索模式":"1",
                "搜索url":"https://missavt.com/search/index/keyword/{wd}",
-                "分类url": "https://missavt.com/index/gethotmvs/time/{cateId}/page/{catePg};;z",
-                "分类": "所有$all#本月$month#本周$week#今日$today"
+                "分类url": "https://missavt.com/category/{cateId}/{catePg}/;;z",
+                "分类": "中文字幕$chinese-subtitle#🈚️🐎破解$reducing-mosaic#素人$amateur#有码$censored"
             }
         },
   
